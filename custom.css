@@ -1,2 +1,4 @@
-.list-item h-entry{
-  border-bottom: 1px solid black;}
+.list-post-date {
+    border-bottom: 1px solid #C0C0C0;
+  	text-align: right;
+}
