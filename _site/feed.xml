@@ -4,8 +4,30 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.micro.blog/</link>
-    <pubDate>Mon, 02 Apr 2018 20:53:25 +0200</pubDate>
-    <lastBuildDate>Mon, 02 Apr 2018 20:53:25 +0200</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 22:09:39 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 22:09:39 +0200</lastBuildDate>
+    
+      <item>
+      	
+        <title>Cloudflare launches </title>
+        
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Cloudflare’s mission is to help build a better Internet.
+We’re excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet’s fastest, privacy-first consumer DNS service.
+…
+for most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.
+…
+The problem is that these DNS services are often slow and not privacy respecting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although I like Cloudflare, I’m not sure what to think regarding there recent news regarding their own &lt;a href=&quot;https://blog.cloudflare.com/announcing-1111/&quot;&gt;DNS service&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Apr 2018 21:49:00 +0200</pubDate>
+        <link>https://roelwillems.micro.blog/2018/04/02/although-i-like.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/02/although-i-like.html</guid>
+      </item>
     
       <item>
       	
