@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/03/measure-your-success.html",
+	      	
+			"content_html": "<p>“Measure your success by the success of others.” <a href=\"http://scripting.com/2018/01/09/215812.html#a220039\">Dave Winer</a></p>\n\n<p><em>Seems only natural to stumble upon a striking quote by Dave Winer browsing a micro.blog. (Dave more or less invented blogging and RSS syndication and has the longest continuously running blog on the Internet).</em></p>\n",
+			"date_published": "2018-04-03T22:39:00+02:00",
+			"url": "http://microblog.roelwillems.com/2018/04/03/measure-your-success.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/02/although-i-like.html",
 	      	
 			"title": "Cloudflare launches ",
