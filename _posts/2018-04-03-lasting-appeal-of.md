@@ -11,6 +11,8 @@ guid: http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html
 _[Wired](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)_ 
 
 It's great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. 
-Being a open standard really proves it’s value and resilience. And although probably not growing in new users for quite some time, many people onboard already, including myself, never stopped using RSS (and RSS never stopt providing it's value to it's users).
+And although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it's value.
+
+Being a open standard really proves it’s value _and_ resilience.
 
 _If someone is looking a basic but dependable RSS service I can recommend Miniflux._
