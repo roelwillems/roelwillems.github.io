@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact/"
 layout: page
 order: 4
-date: 2018-04-02 20:48 +0200
+date: 2018-04-02 20:48:01 +0200
 ---
 Hi, thanks for taking the time to reach out to me!
 
