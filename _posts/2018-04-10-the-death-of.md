@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-10 22:03 +0200
+date: 2018-04-10 22:03:19 +0200
 guid: http://roelwillems.micro.blog/2018/04/10/the-death-of.html
 ---
 Benedict Evans in his article "The death of the newsfeed" very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.
