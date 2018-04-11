@@ -6,10 +6,20 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
+	      	
+			"title": "Do I really need to switch Text Editors?",
+			
+			"content_html": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. After quickly skimming the article, some part really caught my attention.</p>\n\n<blockquote>\n  <p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n  <p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>It really sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-04-11T21:58:18+02:00",
+			"url": "http://roelwillems.com/2018/04/11/do-i-really.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/10/the-death-of.html",
 	      	
 			"content_html": "<p>Benedict Evans in his article “The death of the newsfeed” very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.</p>\n\n<p>I couldn’t agree more to all Benedict states in this article and highly recommend anyone interested in this subject to read the article (twice!).</p>\n\n<blockquote>\n  <p>Unavoidable as it seems, though, this approach has two problems. First, getting that sample ‘right’ is very hard, and beset by all sorts of conceptual challenges. But second, even if it’s a successful sample, it’s still a sample.</p>\n\n  <p>Using signals of what people seem to want to see risks over-fitting, circularity and filter bubbles. People’s desires change, and they get bored of things.</p>\n</blockquote>\n\n<p>In my opinion this is one of the biggest challenges in data science.</p>\n\n<p>How can we help people navigate an abundance of choices (post, pictures,  search results or products) without unethically steer behaviour, creating self-fulfilling prophecy<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> or limit the room for people to change their preferences and discover new stuff.</p>\n\n<p><a href=\"https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed\">The death of the newsfeed - Benedict Evans</a></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Eli Pariser - Beware online “filter bubble”: <a href=\"https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles\">TED talk</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-10T22:03:00+02:00",
+			"date_published": "2018-04-10T22:03:19+02:00",
 			"url": "http://roelwillems.com/2018/04/10/the-death-of.html"
 		},
 		
@@ -17,7 +27,7 @@
 			"id": "http://roelwillems.micro.blog/2018/04/10/the-battery-of.html",
 	      	
 			"content_html": "<p>The battery of my Apple Watch(v1) really starts showing it’s age. After being on my wrist daily for years, I don’t know if I will get another one… Having a completely muted iPhone is great but wrist based notification are still a major distraction during one-on-one conversations.</p>\n",
-			"date_published": "2018-04-10T20:41:00+02:00",
+			"date_published": "2018-04-10T20:41:39+02:00",
 			"url": "http://roelwillems.com/2018/04/10/the-battery-of.html"
 		},
 		
@@ -27,7 +37,7 @@
 			"title": "Obscure E-Mail Vulnerability",
 			
 			"content_html": "<blockquote>\n  <p>This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots … Netflix doesn’t ignore dots.</p>\n\n  <p>It’s an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we’re going to see a lot more of these.</p>\n</blockquote>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html\">Obscure E-Mail Vulnerability - Schneier on Security</a></p>\n",
-			"date_published": "2018-04-09T22:44:00+02:00",
+			"date_published": "2018-04-09T22:44:44+02:00",
 			"url": "http://roelwillems.com/2018/04/09/obscure-email-vulnerability.html"
 		},
 		
@@ -35,7 +45,7 @@
 			"id": "http://roelwillems.micro.blog/2018/04/09/after-writing-another.html",
 	      	
 			"content_html": "<p>After writing another post on Facebook and the recent privacy scandals I deleted it all; because it’s not about Facebook at all.</p>\n\n<p>It’s about alternatives (preferably which can not be “acquired”, but this is a topic for a different post) and this is exactly why moved all my writing to <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
-			"date_published": "2018-04-09T22:38:00+02:00",
+			"date_published": "2018-04-09T22:38:09+02:00",
 			"url": "http://roelwillems.com/2018/04/09/after-writing-another.html"
 		},
 		
@@ -45,7 +55,7 @@
 			"title": "Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica",
 			
 			"content_html": "<blockquote>\n  <p>Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.</p>\n</blockquote>\n\n<p><a href=\"https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html\">nytimes</a></p>\n\n<p>I won’t be the least surprised if this number will still increase quit a bit in the coming weeks.</p>\n",
-			"date_published": "2018-04-04T23:47:00+02:00",
+			"date_published": "2018-04-04T23:47:11+02:00",
 			"url": "http://roelwillems.com/2018/04/04/facebook-sharply-increases.html"
 		},
 		
@@ -55,7 +65,7 @@
 			"title": "Lasting appeal of RSS",
 			
 			"content_html": "<blockquote>\n  <p>Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Miniflux.</em></p>\n",
-			"date_published": "2018-04-03T23:22:00+02:00",
+			"date_published": "2018-04-03T23:22:14+02:00",
 			"url": "http://roelwillems.com/2018/04/03/lasting-appeal-of.html"
 		},
 		
@@ -63,7 +73,7 @@
 			"id": "http://roelwillems.micro.blog/2018/04/03/measure-your-success.html",
 	      	
 			"content_html": "<blockquote>\n  <p>“Measure your success by the success of others.” <a href=\"http://scripting.com/2018/01/09/215812.html#a220039\">Dave Winer</a></p>\n</blockquote>\n\n<p><em>Seems only natural to stumble upon a striking quote by Dave Winer browsing a micro.blog. (Dave more or less invented blogging and RSS syndication and has the longest continuously running blog on the Internet).</em></p>\n",
-			"date_published": "2018-04-03T22:39:00+02:00",
+			"date_published": "2018-04-03T22:39:09+02:00",
 			"url": "http://roelwillems.com/2018/04/03/measure-your-success.html"
 		},
 		
@@ -73,7 +83,7 @@
 			"title": "Cloudflare launches ",
 			
 			"content_html": "<blockquote>\n  <p>Cloudflare’s mission is to help build a better Internet.\nWe’re excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet’s fastest, privacy-first consumer DNS service.\n…\nfor most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.\n…\nThe problem is that these DNS services are often slow and not privacy respecting.</p>\n</blockquote>\n\n<p>Although I like Cloudflare, I’m not sure what to think regarding there recent news regarding their own <a href=\"https://blog.cloudflare.com/announcing-1111/\">DNS service</a>.</p>\n\n<p>I do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.</p>\n",
-			"date_published": "2018-04-02T21:49:00+02:00",
+			"date_published": "2018-04-02T21:49:08+02:00",
 			"url": "http://roelwillems.com/2018/04/02/although-i-like.html"
 		},
 		
@@ -83,7 +93,7 @@
 			"title": "A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks",
 			
 			"content_html": "<p>“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”</p>\n\n<p><a href=\"https://alistapart.com/article/new-a-list-apart-wants-you\">A list apart</a></p>\n\n<p>I couldn’t agree more to this statement. With some centralized players growing more  powerfull with each day passing, it’s more important to support diversity, independent content creation and keep ownership of your content.</p>\n",
-			"date_published": "2017-11-20T21:13:00+01:00",
+			"date_published": "2017-11-20T21:13:33+01:00",
 			"url": "http://roelwillems.com/2017/11/20/a-list-aparts.html"
 		}
 		
