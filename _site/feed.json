@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/12/microcasting-short-form.html",
+	      	
+			"content_html": "<p>Microcasting (short form podcasting) comes to Micro.blog. Welcome <a href=\"http://www.manton.org/2018/04/wavelength-for-micro-blog.html\">Wavelength</a>. What a great addition to <a href=\"https://micro.blog/\">Micro.blog</a> and the Indieweb!</p>\n",
+			"date_published": "2018-04-12T21:41:04+02:00",
+			"url": "http://roelwillems.com/2018/04/12/microcasting-short-form.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/12/the-irony.html",
 	      	
 			"title": "The Irony",
