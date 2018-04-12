@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/12/the-irony.html",
+	      	
+			"title": "The Irony",
+			
+			"content_html": "<p>Mark Zuckerberg left some of his notes on the table during a break in his testimony before Congress yesterday. It caught the attention of a press photographer who shared a photo of the document on social media.</p>\n\n<p>I guess Mark learned an important lesson: never to leave your notes open and unattended in public. Keeping stuff to yourself should not be based solely on trusting others to act in your best interest.</p>\n\n<p>To reuse and rephrase a <a href=\"http://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&amp;r=US&amp;IR=T\">quote by Mr. Zuckerberg himself</a>; <em>‘I’ve “trust them.” Dumb f*ck’</em></p>\n\n<p>There is, however, quite some talk on social media if it’s morally ok for the press to share the picture taken.  A valid discussion even when it’s a hearing regarding a company under testimony for violating people’s privacy. We should Tteat others as you would want them to treat you<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I’m not linking to the photo as I think this information should have been kept private. The company in question doesn’t change this for me. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-04-12T18:11:59+02:00",
+			"url": "http://roelwillems.com/2018/04/12/the-irony.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
 	      	
 			"title": "Do I really need to switch Text Editors?",
