@@ -1,13 +1,25 @@
-.list-post-date {
-    border-bottom: 1px solid #C0C0C0;
-  	text-align: right;
+nav.main-nav a.cta {
+	background: #fff;
+	color: #CFB53B;
+	padding: 6px 14px;
+	border: 2px solid #F0E68C;
+	border-bottom: none;
+	border-radius: 20px;
+	white-space: nowrap;
 }
 
-.home-title {
-    font-size: 2.2em;
-    margin-bottom: 19px;
+nav.main-nav a.cta:hover {
+	background: #F0E68C;
+	color: #CFB53B;
+	margin-left: 12px;
 }
 
-.list-item.h-entry {
-    padding-bottom: 22px;
+nav.main-nav a, #footer a, #post-nav a, p a{
+   box-shadow: inset 0 -2px 0 #F0E68C;
 }
+
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
+	box-shadow: inset 0 -25px 0 #F0E68C;
+}
+
+
