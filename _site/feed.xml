@@ -4,11 +4,13 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>http://roelwillems.com/</link>
-    <pubDate>Sun, 15 Apr 2018 22:01:53 +0200</pubDate>
-    <lastBuildDate>Sun, 15 Apr 2018 22:01:53 +0200</lastBuildDate>
+    <pubDate>Sun, 15 Apr 2018 22:05:17 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Apr 2018 22:05:17 +0200</lastBuildDate>
     
       <item>
       	
+        <title>Changing the default colors of the Micro.blog Marfa theme</title>
+        
         <description>&lt;p&gt;I switched my theme for this microblog to Marfa.&lt;/p&gt;
 
 &lt;p&gt;Marfa is a new theme for &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt; hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links.&lt;/p&gt;
