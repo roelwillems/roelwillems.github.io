@@ -1,27 +1,22 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+highlighter: "rouge"
+# - markdown: "kramdown"
 
-# - markdown: kramdown
-
-# Sass
-sass:
-  style:            :compressed
-
-# Scopes
 defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+
+plugins:
+  - jekyll-sitemap
 
 title: "Roel Willems"
 tagline: ""
@@ -31,6 +26,7 @@ baseurl: ""
 url: "http://roelwillems.com"
 markdown: "kramdown"
 username: "roelwillems"
+microblog_user: "roelwillems"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Roel Willems"
