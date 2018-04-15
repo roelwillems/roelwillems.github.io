@@ -10,8 +10,7 @@ I switched my theme for this microblog to Marfa.
 
 Marfa is a new theme for [Micro.blog](https://micro.blog) hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links. 
 
-The default is light red/pink(ish) but changing quite easy. 
-
+Changing the defaults (light red/pink-ish) is quite easy. 
 Using the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.
 
 ```CSS
