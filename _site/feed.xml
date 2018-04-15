@@ -4,8 +4,8 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>http://roelwillems.com/</link>
-    <pubDate>Sun, 15 Apr 2018 22:05:17 +0200</pubDate>
-    <lastBuildDate>Sun, 15 Apr 2018 22:05:17 +0200</lastBuildDate>
+    <pubDate>Sun, 15 Apr 2018 22:10:03 +0200</pubDate>
+    <lastBuildDate>Sun, 15 Apr 2018 22:10:03 +0200</lastBuildDate>
     
       <item>
       	
@@ -15,9 +15,8 @@
 
 &lt;p&gt;Marfa is a new theme for &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt; hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links.&lt;/p&gt;
 
-&lt;p&gt;The default is light red/pink(ish) but changing quite easy.&lt;/p&gt;
-
-&lt;p&gt;Using the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.&lt;/p&gt;
+&lt;p&gt;Changing the defaults (light red/pink-ish) is quite easy. 
+Using the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&quot;language-CSS&quot;&gt;nav.main-nav a.cta {
 	background: #fff;
