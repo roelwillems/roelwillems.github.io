@@ -6,9 +6,37 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/17/mobile-apps-are.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.</p>\n</blockquote>\n\n<p><a href=\"https://www.engadget.com/2018/04/12/ipad-laptop-replacement/\">engadget.com</a></p>\n\n<p>The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.</p>\n",
+			"date_published": "2018-04-17T22:14:13+02:00",
+			"url": "http://roelwillems.com/2018/04/17/mobile-apps-are.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html",
+	      	
+			"title": "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS",
+			
+			"content_html": "<p><a href=\"https://www.cloudflare.com/\">Cloudflare</a> users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a <code class=\"highlighter-rouge\">“custom domain isn't pointing to the micro.blog\"</code> error message when trying to save the custom domain.</p>\n\n<p>Luckily there is a work around:</p>\n\n<h2 id=\"how-to-get-your-custom-domain-working-with-cloudflare\">How to get your custom domain working <em>with</em> Cloudflare</h2>\n<ol>\n  <li>First follow the steps as outlined above and add the proper “A” and/or “CNAME” records to the Cloudflare DNS panel;</li>\n  <li>Before adding the custom domain to your Micro.blog account make sure that the “DNS and HTTP proxy (CDN)”  (orange cloud-icon) is disabled and set to bypass (grey cloud icon with the hover text “DNS only”);</li>\n  <li>After updating your DNS records and Cloudflare set to bypass for the “A” record and/or “CNAME” go to “Account” on Micro.blog  and fill hostname (e.g. yourdomain.com) that you’d like to use for your Micro.blog;</li>\n  <li>Micro.blog should save and enable to custom domain without issues. <em>If you get a message “custom domain isn’t pointing to the micro.blog”</em> make sure that you have set Cloudflare on bypass and wait for a few more minutes (the DNS change can take some time to get in effect);</li>\n  <li>After successful saving the custom domain you can re-enable Cloudflare functionality on your domain/Micro.blog by remove the bypass, make sure that the cloud-icon is set to orange (hover text should state: “DNS and HTTP proxy (CDN)”).</li>\n</ol>\n\n<p><em>So there you have it, you are able to use  Cloudflare (DNS/CDN/security/caching/DDOS protection) with hosted Micro.blogs, with some  additional steps to get the initial setup working.</em></p>\n\n<h2 id=\"some-additional-recommendations\">Some additional recommendations:</h2>\n\n<h3 id=\"using-cloudflare-to-redirect-www-to-root-domain\">Using Cloudflare to redirect www. to root domain</h3>\n<p>If you would like to enable www. and root version of your custom domain it’s advisable to redirect one to the other (to make sure that there isn’t any duplicated content). Cloudflare can redirect the www. version to the root domain:</p>\n<ol>\n  <li>Go to “Page rules” within your Cloudflare account;</li>\n  <li>Create a page rule;</li>\n  <li>Add &lt;www.yourdomain.com&gt;/* within the first field (“If the URL matches”);</li>\n  <li>Under “Then the settings are:” select “Forwarding URL”, “ 301 - Permanent redirect”;</li>\n  <li>Add: &lt;yourdomain.com&gt;/$1 to the destination URL field;</li>\n  <li>Save and deploy the page rule for the redirect to take effect.</li>\n</ol>\n\n<h3 id=\"cloudflare-ssl-and-your-microblog\">Cloudflare, SSL and your Micro.blog</h3>\n<p>You should not use the SSL functionality provided by Cloudflare (email help@micro.blog to enable SSL).</p>\n",
+			"date_published": "2018-04-16T22:19:43+02:00",
+			"url": "http://roelwillems.com/2018/04/16/micro-guide-additional.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html",
+	      	
+			"title": "Micro Guides: small articles which can be of great help",
+			
+			"content_html": "<p>Yesterday I had the opportunity to help someone from the <a href=\"https://micro.blog\">Micro.blog</a> community by writing a <a href=\"http://roelwillems.com/2018/04/15/i-switched-my.html\">tiny post</a>.</p>\n\n<p>This sparked an idea: <em>Micro guides</em>, small articles about any subject you think could be of help or interest to the Microblogging community (for instance on writing, podcasting<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>, blog design or any other subject you think could be of help).</p>\n\n<p>I will certainly start to share more short articles on my journey to writing more often and possibly on Micro.blog tech stuff if I run in to it.</p>\n\n<p>The open web is build together, feel free to share (who knows how many people you could help!)</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I already learned a lot about podcasting from the people I follow. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-04-16T21:52:38+02:00",
+			"url": "http://roelwillems.com/2018/04/16/micro-guides-small.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/15/i-switched-my.html",
 	      	
-			"title": "Changing the default colors of the Micro.blog Marfa theme",
+			"title": "Micro Guide: Changing the default colors of the Micro.blog Marfa theme",
 			
 			"content_html": "<p>I switched my theme for this microblog to Marfa.</p>\n\n<p>Marfa is a new theme for <a href=\"https://micro.blog\">Micro.blog</a> hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links.</p>\n\n<p>Changing the defaults (light red/pink-ish) is quite easy. \nUsing the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.</p>\n\n<pre><code class=\"language-CSS\">nav.main-nav a.cta {\n\tbackground: #fff;\n\tcolor: #ee4792;\n\tborder: 2px solid #fcdae9;\n}\n\nnav.main-nav a.cta:hover {\n\tbackground: #fcdae9;\n\tcolor: #ee4792;\n}\n\nnav.main-nav a, #footer a, #post-nav a, p a{\n   box-shadow: inset 0 -2px 0 #fcdae9;\n}\n\nnav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {\n\tbox-shadow: inset 0 -25px 0 #fcdae9;\n}\n</code></pre>\n<p><em><code class=\"highlighter-rouge\">#fcdae9</code> is for underline and shading of the links. The <code class=\"highlighter-rouge\">#ee4792</code> color is for the “Also on Micro.blog” text in the upper right button.</em></p>\n",
 			"date_published": "2018-04-15T22:01:51+02:00",
