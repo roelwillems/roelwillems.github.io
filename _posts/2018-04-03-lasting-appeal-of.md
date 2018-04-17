@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lasting appeal of RSS"
+title: "∞ Lasting appeal of RSS"
 microblog: false
 audio: 
 date: 2018-04-03 23:22:14 +0200
@@ -15,4 +15,4 @@ And although probably not growing in new users for quite some time, for people s
 
 Being a open standard really proves it’s value _and_ resilience.
 
-_If someone is looking a basic but dependable RSS service I can recommend Miniflux._
+_If someone is looking a basic but dependable RSS service I can recommend Feedbin._
