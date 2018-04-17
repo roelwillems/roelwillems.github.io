@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica"
+title: "∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica"
 microblog: false
 audio: 
 date: 2018-04-04 23:47:11 +0200
