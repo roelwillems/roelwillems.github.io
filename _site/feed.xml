@@ -4,12 +4,92 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>http://roelwillems.com/</link>
-    <pubDate>Sun, 15 Apr 2018 22:40:19 +0200</pubDate>
-    <lastBuildDate>Sun, 15 Apr 2018 22:40:19 +0200</lastBuildDate>
+    <pubDate>Tue, 17 Apr 2018 22:14:14 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Apr 2018 22:14:14 +0200</lastBuildDate>
     
       <item>
       	
-        <title>Changing the default colors of the Micro.blog Marfa theme</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2018/04/12/ipad-laptop-replacement/&quot;&gt;engadget.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 22:14:13 +0200</pubDate>
+        <link>http://roelwillems.com/2018/04/17/mobile-apps-are.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/17/mobile-apps-are.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Micro guide: Additional steps and recommendations when using Cloudflare for your DNS</title>
+        
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.cloudflare.com/&quot;&gt;Cloudflare&lt;/a&gt; users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a &lt;code class=&quot;highlighter-rouge&quot;&gt;“custom domain isn't pointing to the micro.blog&quot;&lt;/code&gt; error message when trying to save the custom domain.&lt;/p&gt;
+
+&lt;p&gt;Luckily there is a work around:&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-get-your-custom-domain-working-with-cloudflare&quot;&gt;How to get your custom domain working &lt;em&gt;with&lt;/em&gt; Cloudflare&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;First follow the steps as outlined above and add the proper “A” and/or “CNAME” records to the Cloudflare DNS panel;&lt;/li&gt;
+  &lt;li&gt;Before adding the custom domain to your Micro.blog account make sure that the “DNS and HTTP proxy (CDN)”  (orange cloud-icon) is disabled and set to bypass (grey cloud icon with the hover text “DNS only”);&lt;/li&gt;
+  &lt;li&gt;After updating your DNS records and Cloudflare set to bypass for the “A” record and/or “CNAME” go to “Account” on Micro.blog  and fill hostname (e.g. yourdomain.com) that you’d like to use for your Micro.blog;&lt;/li&gt;
+  &lt;li&gt;Micro.blog should save and enable to custom domain without issues. &lt;em&gt;If you get a message “custom domain isn’t pointing to the micro.blog”&lt;/em&gt; make sure that you have set Cloudflare on bypass and wait for a few more minutes (the DNS change can take some time to get in effect);&lt;/li&gt;
+  &lt;li&gt;After successful saving the custom domain you can re-enable Cloudflare functionality on your domain/Micro.blog by remove the bypass, make sure that the cloud-icon is set to orange (hover text should state: “DNS and HTTP proxy (CDN)”).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;So there you have it, you are able to use  Cloudflare (DNS/CDN/security/caching/DDOS protection) with hosted Micro.blogs, with some  additional steps to get the initial setup working.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;some-additional-recommendations&quot;&gt;Some additional recommendations:&lt;/h2&gt;
+
+&lt;h3 id=&quot;using-cloudflare-to-redirect-www-to-root-domain&quot;&gt;Using Cloudflare to redirect www. to root domain&lt;/h3&gt;
+&lt;p&gt;If you would like to enable www. and root version of your custom domain it’s advisable to redirect one to the other (to make sure that there isn’t any duplicated content). Cloudflare can redirect the www. version to the root domain:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Go to “Page rules” within your Cloudflare account;&lt;/li&gt;
+  &lt;li&gt;Create a page rule;&lt;/li&gt;
+  &lt;li&gt;Add &amp;lt;www.yourdomain.com&amp;gt;/* within the first field (“If the URL matches”);&lt;/li&gt;
+  &lt;li&gt;Under “Then the settings are:” select “Forwarding URL”, “ 301 - Permanent redirect”;&lt;/li&gt;
+  &lt;li&gt;Add: &amp;lt;yourdomain.com&amp;gt;/$1 to the destination URL field;&lt;/li&gt;
+  &lt;li&gt;Save and deploy the page rule for the redirect to take effect.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cloudflare-ssl-and-your-microblog&quot;&gt;Cloudflare, SSL and your Micro.blog&lt;/h3&gt;
+&lt;p&gt;You should not use the SSL functionality provided by Cloudflare (email help@micro.blog to enable SSL).&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Apr 2018 22:19:43 +0200</pubDate>
+        <link>http://roelwillems.com/2018/04/16/micro-guide-additional.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Micro Guides: small articles which can be of great help</title>
+        
+        <description>&lt;p&gt;Yesterday I had the opportunity to help someone from the &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt; community by writing a &lt;a href=&quot;http://roelwillems.com/2018/04/15/i-switched-my.html&quot;&gt;tiny post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This sparked an idea: &lt;em&gt;Micro guides&lt;/em&gt;, small articles about any subject you think could be of help or interest to the Microblogging community (for instance on writing, podcasting&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, blog design or any other subject you think could be of help).&lt;/p&gt;
+
+&lt;p&gt;I will certainly start to share more short articles on my journey to writing more often and possibly on Micro.blog tech stuff if I run in to it.&lt;/p&gt;
+
+&lt;p&gt;The open web is build together, feel free to share (who knows how many people you could help!)&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I already learned a lot about podcasting from the people I follow. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 16 Apr 2018 21:52:38 +0200</pubDate>
+        <link>http://roelwillems.com/2018/04/16/micro-guides-small.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Micro Guide: Changing the default colors of the Micro.blog Marfa theme</title>
         
         <description>&lt;p&gt;I switched my theme for this microblog to Marfa.&lt;/p&gt;
 
