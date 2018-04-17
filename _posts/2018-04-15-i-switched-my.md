@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Changing the default colors of the Micro.blog Marfa theme"
+title: "Micro Guide: Changing the default colors of the Micro.blog Marfa theme"
 microblog: false
 audio: 
 date: 2018-04-15 22:01:51 +0200
