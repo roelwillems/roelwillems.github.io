@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/17/its-all-about.html",
+	      	
+			"title": "∞ It’s all about perspective",
+			
+			"content_html": "<blockquote>\n  <p>Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.</p>\n</blockquote>\n\n<p><a href=\"https://www.engadget.com/2018/04/12/ipad-laptop-replacement/\">engadget.com</a></p>\n\n<p>The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.</p>\n",
+			"date_published": "2018-04-17T23:18:33+02:00",
+			"url": "http://roelwillems.com/2018/04/17/its-all-about.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html",
 	      	
 			"title": "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS",
@@ -82,7 +92,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/04/09/obscure-email-vulnerability.html",
 	      	
-			"title": "Obscure E-Mail Vulnerability",
+			"title": "∞ Obscure E-Mail Vulnerability",
 			
 			"content_html": "<blockquote>\n  <p>This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots … Netflix doesn’t ignore dots.</p>\n\n  <p>It’s an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we’re going to see a lot more of these.</p>\n</blockquote>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html\">Obscure E-Mail Vulnerability - Schneier on Security</a></p>\n",
 			"date_published": "2018-04-09T22:44:44+02:00",
@@ -100,7 +110,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/04/04/facebook-sharply-increases.html",
 	      	
-			"title": "Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica",
+			"title": "∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica",
 			
 			"content_html": "<blockquote>\n  <p>Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.</p>\n</blockquote>\n\n<p><a href=\"https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html\">nytimes</a></p>\n\n<p>I won’t be the least surprised if this number will still increase quit a bit in the coming weeks.</p>\n",
 			"date_published": "2018-04-04T23:47:11+02:00",
@@ -110,9 +120,9 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html",
 	      	
-			"title": "Lasting appeal of RSS",
+			"title": "∞ Lasting appeal of RSS",
 			
-			"content_html": "<blockquote>\n  <p>Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Miniflux.</em></p>\n",
+			"content_html": "<blockquote>\n  <p>Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Feedbin.</em></p>\n",
 			"date_published": "2018-04-03T23:22:14+02:00",
 			"url": "http://roelwillems.com/2018/04/03/lasting-appeal-of.html"
 		},
@@ -128,7 +138,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/04/02/although-i-like.html",
 	      	
-			"title": "Cloudflare launches ",
+			"title": "∞ Cloudflare launches ",
 			
 			"content_html": "<blockquote>\n  <p>Cloudflare’s mission is to help build a better Internet.\nWe’re excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet’s fastest, privacy-first consumer DNS service.\n…\nfor most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.\n…\nThe problem is that these DNS services are often slow and not privacy respecting.</p>\n</blockquote>\n\n<p>Although I like Cloudflare, I’m not sure what to think regarding there recent news regarding their own <a href=\"https://blog.cloudflare.com/announcing-1111/\">DNS service</a>.</p>\n\n<p>I do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.</p>\n",
 			"date_published": "2018-04-02T21:49:08+02:00",
@@ -138,9 +148,9 @@
 		{
 			"id": "http://roelwillems.micro.blog/2017/11/20/a-list-aparts.html",
 	      	
-			"title": "A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks",
+			"title": "∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks",
 			
-			"content_html": "<p>“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”</p>\n\n<p><a href=\"https://alistapart.com/article/new-a-list-apart-wants-you\">A list apart</a></p>\n\n<p>I couldn’t agree more to this statement. With some centralized players growing more  powerfull with each day passing, it’s more important to support diversity, independent content creation and keep ownership of your content.</p>\n",
+			"content_html": "<blockquote>\n  <p>“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”</p>\n</blockquote>\n\n<p><a href=\"https://alistapart.com/article/new-a-list-apart-wants-you\">A list apart</a></p>\n\n<p>I couldn’t agree more to this statement. With some centralized players growing more  powerfull with each day passing, it’s more important to support diversity, independent content creation and keep ownership of your content.</p>\n",
 			"date_published": "2017-11-20T21:13:33+01:00",
 			"url": "http://roelwillems.com/2017/11/20/a-list-aparts.html"
 		}
