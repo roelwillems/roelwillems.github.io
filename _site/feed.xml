@@ -4,8 +4,25 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>http://roelwillems.com/</link>
-    <pubDate>Tue, 17 Apr 2018 23:10:28 +0200</pubDate>
-    <lastBuildDate>Tue, 17 Apr 2018 23:10:28 +0200</lastBuildDate>
+    <pubDate>Tue, 17 Apr 2018 23:21:13 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Apr 2018 23:21:13 +0200</lastBuildDate>
+    
+      <item>
+      	
+        <title>∞ It’s all about perspective</title>
+        
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.engadget.com/2018/04/12/ipad-laptop-replacement/&quot;&gt;engadget.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 23:18:33 +0200</pubDate>
+        <link>http://roelwillems.com/2018/04/17/its-all-about.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/17/its-all-about.html</guid>
+      </item>
     
       <item>
       	
@@ -206,7 +223,7 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
     
       <item>
       	
-        <title>Obscure E-Mail Vulnerability</title>
+        <title>∞ Obscure E-Mail Vulnerability</title>
         
         <description>&lt;blockquote&gt;
   &lt;p&gt;This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots … Netflix doesn’t ignore dots.&lt;/p&gt;
@@ -234,7 +251,7 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
     
       <item>
       	
-        <title>Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica</title>
+        <title>∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica</title>
         
         <description>&lt;blockquote&gt;
   &lt;p&gt;Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.&lt;/p&gt;
@@ -251,7 +268,7 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
     
       <item>
       	
-        <title>Lasting appeal of RSS</title>
+        <title>∞ Lasting appeal of RSS</title>
         
         <description>&lt;blockquote&gt;
   &lt;p&gt;Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.&lt;/p&gt;
@@ -264,7 +281,7 @@ And although probably not growing in new users for quite some time, for people s
 
 &lt;p&gt;Being a open standard really proves it’s value &lt;em&gt;and&lt;/em&gt; resilience.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;If someone is looking a basic but dependable RSS service I can recommend Miniflux.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If someone is looking a basic but dependable RSS service I can recommend Feedbin.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Apr 2018 23:22:14 +0200</pubDate>
         <link>http://roelwillems.com/2018/04/03/lasting-appeal-of.html</link>
@@ -286,7 +303,7 @@ And although probably not growing in new users for quite some time, for people s
     
       <item>
       	
-        <title>Cloudflare launches </title>
+        <title>∞ Cloudflare launches </title>
         
         <description>&lt;blockquote&gt;
   &lt;p&gt;Cloudflare’s mission is to help build a better Internet.
@@ -308,9 +325,11 @@ The problem is that these DNS services are often slow and not privacy respecting
     
       <item>
       	
-        <title>A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks</title>
+        <title>∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks</title>
         
-        <description>&lt;p&gt;“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://alistapart.com/article/new-a-list-apart-wants-you&quot;&gt;A list apart&lt;/a&gt;&lt;/p&gt;
 
