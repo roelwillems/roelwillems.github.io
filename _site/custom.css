@@ -26,10 +26,14 @@ vertical-align: top;
 }
 
 .post-body li{
-	list-style-type: decimal !important
-    font-size: small;
+	list-style-type: decimal !important;
+	margin-left: 27px;
 }
 
-.footnotes p, li{
-	margin-block-start: -9px
+.footnotes p, li {
+    list-style: decimal;
+}
+
+.footnotes {
+  	font-size: small;
 }
