@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/223427.html",
+	      	
+			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png\" alt=\"Night Owl \" /></p>\n\n<p>Unlock the Night Owl pin, time to sign off</p>\n",
+			"date_published": "2018-04-19T00:34:27+02:00",
+			"url": "http://roelwillems.com/2018/04/19/223427.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html",
+	      	
+			"title": "Scaling is hard",
+			
+			"content_html": "<blockquote>\n  <p>Most of the design tolerances of the Model 3 are already better than any other car in the world. Soon, they will all be better. This is not enough. We will keep going until the Model 3 build precision is a factor of ten better than any other car in the world. I am not kidding.</p>\n\n  <p>Our car needs to be designed and built with such accuracy and precision that, if an owner measures dimensions, panel gaps and flushness, and their measurements don’t match the Model 3 specs, it just means that their measuring tape is wrong.</p>\n</blockquote>\n\n<p>I’m <a href=\"https://daringfireball.net/linked/2018/04/17/musk-tesla\">quoting a quote of Eldon Musk by John Gruber</a>.</p>\n\n<p>But after reading the article and memo I can’t suppress the feeling that people waiting in line (after forking over cash to enter the cue) would be happy with clear delivery times<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> and quite satisfied with tolerances on par with current electric cars that are already build at scale<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>.</p>\n\n<p>In my opinion the real challenge for Tesla (or any car manufacture for that matter) isn’t reaching near perfect build precision but getting to a good enough level <em>at scale</em>.</p>\n\n<p>Tesla taking on the challenge to build 350.000+ model 3’s currently in backorder<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote\">3</a></sup> is a marvel on it’s own.</p>\n\n<p>This will play out to be the greatest achievement in automotive history or Tesla being overtaken by the <a href=\"https://www.wsj.com/articles/volvo-to-phase-out-conventional-car-engine-14992272020\">traditional manufactures moving to full electric</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p><a href=\"https://www.telegraph.co.uk/technology/2018/04/17/tesla-halts-model-3-production-second-time-year/amp/\">Tesla halts Model 3 production second time this year -telegraph.co.uk</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>In Europe you could have a full electric VW e-Golf on your driveway, two months after you place an order. <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:3\">\n      <p>Based on quick calculation on numbers provided by <a href=\"https://www.bloomberg.com/news/articles/2018-04-18/california-opens-investigation-into-tesla-workplace-conditions\">Bloomberg</a> <a href=\"#fnref:3\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-04-19T00:29:54+02:00",
+			"url": "http://roelwillems.com/2018/04/19/scaling-is-hard.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/18/far-more-than.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Far more than 87 million people may have had their Facebook data harvested by Cambridge Analytica</p>\n</blockquote>\n\n<p>No surprises here, but I am still curious what the final number will be. Place your bets…</p>\n",
