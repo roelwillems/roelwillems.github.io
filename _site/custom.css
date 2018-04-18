@@ -20,3 +20,16 @@ nav.main-nav a, #footer a, #post-nav a, p a{
 nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
 	box-shadow: inset 0 -25px 0 #F0E68C;
 }
+.footnote{
+font-size: xx-small;
+vertical-align: top;
+}
+
+.post-body li{
+	list-style-type: decimal !important
+    font-size: small;
+}
+
+.footnotes p, li{
+	margin-block-start: -9px
+}
