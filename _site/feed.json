@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
+	      	
+			"content_html": "<blockquote>\n  <p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles…</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
+			"date_published": "2018-04-23T22:15:30+02:00",
+			"url": "http://roelwillems.com/2018/04/23/unread-will-no.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/23/collected-goodness-good.html",
 	      	
 			"title": "∞ Collected Goodness Good material. Good art. Good living.",
