@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/24/blocker-will-be.html",
+	      	
+			"content_html": "<p>1Blocker will be releasing a new version called <a href=\"https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36\">1Blocker X</a> on 26 April, <a href=\"https://itunes.apple.com/us/app/id1365531024?at=1l3v36d\">pre-order now available</a>. I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in.</p>\n",
+			"date_published": "2018-04-24T17:26:42+02:00",
+			"url": "http://roelwillems.com/2018/04/24/blocker-will-be.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
 	      	
 			"content_html": "<blockquote>\n  <p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles…</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
