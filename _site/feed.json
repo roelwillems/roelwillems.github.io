@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/25/this-will-be.html",
+	      	
+			"title": "This will be interesting..",
+			
+			"content_html": "<blockquote>\n  <p><a href=\"https://www.engadget.com/2018/04/24/whatsapp-require-users-in-europe-at-least-16-years-old/\">WhatsApp will require users in Europe to be at least 16 years old</a></p>\n</blockquote>\n\n<p>I can imagine many reasons why the age limit would need to be increased under more strict European privacy law, none of them any good for something so fundamental as a messaging app.</p>\n\n<p><em>just a recommendation: <a href=\"https://signal.org\">Signal</a> or <a href=\"https://keybase.io\">Keybase</a></em></p>\n",
+			"date_published": "2018-04-25T16:09:05+02:00",
+			"url": "http://roelwillems.com/2018/04/25/this-will-be.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/24/blocker-will-be.html",
 	      	
 			"content_html": "<p>1Blocker will be releasing a new version called <a href=\"https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36\">1Blocker X</a> on 26 April, <a href=\"https://itunes.apple.com/us/app/id1365531024?at=1l3v36d\">pre-order now available</a>. I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in.</p>\n",
