@@ -14,7 +14,7 @@ Nathan Toups makes a case for a [dumber phone](https://nomasters.io/posts/dumber
 
 One thing I would add from personal experience[^1] is to make very conscious use of the silence/mute switch on phone. 
 
-No sound/viberation 99% of the time, but if I need and enable sound it also have the super annoying keyboard sounds enabled (so I don’t forget to revert to silent _ASAP_).
+No sound/viberation 99% of the time, but if I need and enable sound I also have the super annoying keyboard sounds enabled by default (so I don’t forget to revert to silent _ASAP_).
 
 Via [Ben Brooks](https://brooksreview.net/2018/04/dumber-phone/)
 
