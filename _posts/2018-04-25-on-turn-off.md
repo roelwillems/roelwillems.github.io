@@ -18,6 +18,4 @@ No sound/viberation 99% of the time, but if I need and enable sound it also have
 
 Via [Ben Brooks](https://brooksreview.net/2018/04/dumber-phone/)
 
-[^1]:Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch. 
-
-Now I’m back to wearing a classic watch as wrist based notifications [over time became an unwanted distraction](http://roelwillems.com/2018/04/10/the-battery-of.html). 
+[^1]:Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch.  Now I’m back to wearing a classic watch as wrist based notifications [over time became an unwanted distraction](http://roelwillems.com/2018/04/10/the-battery-of.html). 
