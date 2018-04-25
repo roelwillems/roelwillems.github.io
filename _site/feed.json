@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/25/on-turn-off.html",
+	      	
+			"title": "On turning off unnecessary notifications",
+			
+			"content_html": "<blockquote>\n  <ul>\n    <li>turn off all lock screen notifications (this is better for privacy anyway)</li>\n    <li>turn off vibrate and sound notifications, I leave badges for important things like messaging apps</li>\n    <li>turn off notifications for apps that really don’t need it</li>\n  </ul>\n</blockquote>\n\n<p>Nathan Toups makes a case for a <a href=\"https://nomasters.io/posts/dumber-phone/\">dumber phone</a> with great recommendations overall.</p>\n\n<p>One thing I would add from personal experience<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> is to make very conscious use of the silence/mute switch on phone.</p>\n\n<p>No sound/viberation 99% of the time, but if I need and enable sound it also have the super annoying keyboard sounds enabled (so I don’t forget to revert to silent <em>ASAP</em>).</p>\n\n<p>Via <a href=\"https://brooksreview.net/2018/04/dumber-phone/\">Ben Brooks</a></p>\n\n<p>Now I’m back to wearing a classic watch as wrist based notifications <a href=\"http://roelwillems.com/2018/04/10/the-battery-of.html\">over time became an unwanted distraction</a>.</p>\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-04-25T22:56:04+02:00",
+			"url": "http://roelwillems.com/2018/04/25/on-turn-off.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/25/this-will-be.html",
 	      	
 			"title": "This will be interesting..",
