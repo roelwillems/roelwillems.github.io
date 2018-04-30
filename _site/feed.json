@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/04/30/by-the-way.html",
+	      	
+			"content_html": "<blockquote>\n  <p>By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.</p>\n</blockquote>\n\n<p><a href=\"http://blog.samaltman.com/productivity\">∞</a></p>\n\n<p>Good advice<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p><em>although from “PHYSICAL FACTORS” onwards it gets a bit over the top for my taste</em> I would sum up my strategy on this topic as: exercise, eat and sleep well and take time to unwind and relax a bit. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-04-30T20:16:47+02:00",
+			"url": "http://roelwillems.com/2018/04/30/by-the-way.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/30/174249.html",
 	      	
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/maratoncent-chall-2018-web.png\" alt=\"Concept2 Marathon challenge\" /></p>\n\n<p><a href=\"https://log.concept2.com/challenges/marathon\">Challenge</a> accepted</p>\n",
@@ -221,14 +229,6 @@
 			"content_html": "<blockquote>\n  <p>Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Feedbin.</em></p>\n",
 			"date_published": "2018-04-03T23:22:14+02:00",
 			"url": "http://roelwillems.com/2018/04/03/lasting-appeal-of.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/03/measure-your-success.html",
-	      	
-			"content_html": "<blockquote>\n  <p>“Measure your success by the success of others.” <a href=\"http://scripting.com/2018/01/09/215812.html#a220039\">Dave Winer</a></p>\n</blockquote>\n\n<p><em>Seems only natural to stumble upon a striking quote by Dave Winer browsing a micro.blog. (Dave more or less invented blogging and RSS syndication and has the longest continuously running blog on the Internet).</em></p>\n",
-			"date_published": "2018-04-03T22:39:09+02:00",
-			"url": "http://roelwillems.com/2018/04/03/measure-your-success.html"
 		}
 		
 	]
