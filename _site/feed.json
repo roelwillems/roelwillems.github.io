@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/01/just-finished-moving.html",
+	      	
+			"content_html": "<p>Just finished moving some old photos from instagram to my dedicated photo-micro-blog <a href=\"http://maintainingfocus.com\">maintainingfocus.com</a>. Done for today, moving content to my own space on the web.</p>\n",
+			"date_published": "2018-05-01T22:21:27+02:00",
+			"url": "http://roelwillems.com/2018/05/01/just-finished-moving.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/04/30/by-the-way.html",
 	      	
 			"content_html": "<blockquote>\n  <p>By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.</p>\n</blockquote>\n\n<p><a href=\"http://blog.samaltman.com/productivity\">∞</a></p>\n\n<p>Good advice<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p><em>although from “PHYSICAL FACTORS” onwards it gets a bit over the top for my taste</em> I would sum up my strategy on this topic as: exercise, eat and sleep well and take time to unwind and relax a bit. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
@@ -219,16 +227,6 @@
 			"content_html": "<blockquote>\n  <p>Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.</p>\n</blockquote>\n\n<p><a href=\"https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html\">nytimes</a></p>\n\n<p>I won’t be the least surprised if this number will still increase quit a bit in the coming weeks.</p>\n",
 			"date_published": "2018-04-04T23:47:11+02:00",
 			"url": "http://roelwillems.com/2018/04/04/facebook-sharply-increases.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html",
-	      	
-			"title": "∞ Lasting appeal of RSS",
-			
-			"content_html": "<blockquote>\n  <p>Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Feedbin.</em></p>\n",
-			"date_published": "2018-04-03T23:22:14+02:00",
-			"url": "http://roelwillems.com/2018/04/03/lasting-appeal-of.html"
 		}
 		
 	]
