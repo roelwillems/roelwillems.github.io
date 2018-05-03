@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/looking-in-to.html",
+	      	
+			"content_html": "<p>Looking in to switching (back) to Linux. It would be fine (or better) for 90% of my current laptop usage. Although I am still hestitant because I’m quite tied in to Apples Ecosystem at the moment  and am still looking for good alternatives for specific software</p>\n",
+			"date_published": "2018-05-03T22:08:11+02:00",
+			"url": "http://roelwillems.com/2018/05/03/looking-in-to.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/02/disruptive-vs-sustaining.html",
 	      	
 			"title": "Disruptive vs Sustaining innovation and the Tesla case",
@@ -219,14 +227,6 @@
 			"content_html": "<blockquote>\n  <p>This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots … Netflix doesn’t ignore dots.</p>\n\n  <p>It’s an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we’re going to see a lot more of these.</p>\n</blockquote>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html\">Obscure E-Mail Vulnerability - Schneier on Security</a></p>\n",
 			"date_published": "2018-04-09T22:44:44+02:00",
 			"url": "http://roelwillems.com/2018/04/09/obscure-email-vulnerability.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/09/after-writing-another.html",
-	      	
-			"content_html": "<p>After writing another post on Facebook and the recent privacy scandals I deleted it all; because it’s not about Facebook at all.</p>\n\n<p>It’s about alternatives (preferably which can not be “acquired”, but this is a topic for a different post) and this is exactly why moved all my writing to <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
-			"date_published": "2018-04-09T22:38:09+02:00",
-			"url": "http://roelwillems.com/2018/04/09/after-writing-another.html"
 		}
 		
 	]
