@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/whos-next.html",
+	      	
+			"title": "Who’s next?",
+			
+			"content_html": "<blockquote>\n  <p>Step 1: get dating apps to build themselves on your platform’s data \nStep 2: cut them off from your platform’s data with no warning \nStep 3: build a competitor to dating apps with the data you are now keeping to yourself</p>\n\n  <p>Seems kinda antitrust-ish…</p>\n</blockquote>\n\n<p><a href=\"https://mobile.twitter.com/SirKneeland/status/991373570730147840\">John Kneeland</a> via <a href=\"https://www.theverge.com/2018/5/1/17307782/facebook-tinder-dating-app-f8-match-okcupid\">Daring fireball</a></p>\n\n<p>Fool me once, shame on you_(r news business)<em>; fool me twice, shame on me</em>(re dating apps)_</p>\n\n<p>So this begs the question; who’s business will be next?</p>\n",
+			"date_published": "2018-05-03T23:49:17+02:00",
+			"url": "http://roelwillems.com/2018/05/03/whos-next.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/03/looking-in-to.html",
 	      	
 			"content_html": "<p>Looking in to switching (back) to Linux. It would be fine (or better) for 90% of my current laptop usage. Although I am still hestitant because I’m quite tied in to Apples Ecosystem at the moment  and am still looking for good alternatives for specific software</p>\n",
@@ -217,16 +227,6 @@
 			"content_html": "<p>The battery of my Apple Watch(v1) really starts showing it’s age. After being on my wrist daily for years, I don’t know if I will get another one… Having a completely muted iPhone is great but wrist based notification are still a major distraction during one-on-one conversations.</p>\n",
 			"date_published": "2018-04-10T20:41:39+02:00",
 			"url": "http://roelwillems.com/2018/04/10/the-battery-of.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/09/obscure-email-vulnerability.html",
-	      	
-			"title": "∞ Obscure E-Mail Vulnerability",
-			
-			"content_html": "<blockquote>\n  <p>This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots … Netflix doesn’t ignore dots.</p>\n\n  <p>It’s an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we’re going to see a lot more of these.</p>\n</blockquote>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html\">Obscure E-Mail Vulnerability - Schneier on Security</a></p>\n",
-			"date_published": "2018-04-09T22:44:44+02:00",
-			"url": "http://roelwillems.com/2018/04/09/obscure-email-vulnerability.html"
 		}
 		
 	]
