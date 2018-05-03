@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/how-very-social.html",
+	      	
+			"title": "How very social",
+			
+			"content_html": "<blockquote>\n  <p>Samsung Smart TV. During the first minute after power-on, the TV talks to Google Play, Double Click, Netflix, FandangoNOW, Spotify, CBS, MSNBC, NFL, Deezer, and Facebook­ even though we did not sign in or create accounts with any of them.</p>\n</blockquote>\n\n<p>Now you know why your TV keeps bugging you about <a href=\"http://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html\">GDPR consent</a></p>\n\n<p><a href=\"https://freedom-to-tinker.com/2018/04/23/announcing-iot-inspector-a-tool-to-study-smart-home-iot-device-behavior/\">∞</a></p>\n",
+			"date_published": "2018-05-04T00:06:25+02:00",
+			"url": "http://roelwillems.com/2018/05/04/how-very-social.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/03/whos-next.html",
 	      	
 			"title": "Who’s next?",
@@ -219,14 +229,6 @@
 			"content_html": "<p>Benedict Evans in his article “The death of the newsfeed” very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.</p>\n\n<p>I couldn’t agree more to all Benedict states in this article and highly recommend anyone interested in this subject to read the article (twice!).</p>\n\n<blockquote>\n  <p>Unavoidable as it seems, though, this approach has two problems. First, getting that sample ‘right’ is very hard, and beset by all sorts of conceptual challenges. But second, even if it’s a successful sample, it’s still a sample.</p>\n\n  <p>Using signals of what people seem to want to see risks over-fitting, circularity and filter bubbles. People’s desires change, and they get bored of things.</p>\n</blockquote>\n\n<p>In my opinion this is one of the biggest challenges in data science.</p>\n\n<p>How can we help people navigate an abundance of choices (post, pictures,  search results or products) without unethically steer behaviour, creating self-fulfilling prophecy<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> or limit the room for people to change their preferences and discover new stuff.</p>\n\n<p><a href=\"https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed\">The death of the newsfeed - Benedict Evans</a></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Eli Pariser - Beware online “filter bubble”: <a href=\"https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles\">TED talk</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-04-10T22:03:19+02:00",
 			"url": "http://roelwillems.com/2018/04/10/the-death-of.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/10/the-battery-of.html",
-	      	
-			"content_html": "<p>The battery of my Apple Watch(v1) really starts showing it’s age. After being on my wrist daily for years, I don’t know if I will get another one… Having a completely muted iPhone is great but wrist based notification are still a major distraction during one-on-one conversations.</p>\n",
-			"date_published": "2018-04-10T20:41:39+02:00",
-			"url": "http://roelwillems.com/2018/04/10/the-battery-of.html"
 		}
 		
 	]
