@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
+	      	
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://f000.backblazeb2.com/file/Roel-Share/Concept-2-20180508.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
+			"date_published": "2018-05-08T21:36:07+02:00",
+			"url": "http://roelwillems.com/2018/05/08/row-log-update.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/07/for-the-new.html",
+	      	
+			"content_html": "<p>For the new indoor rowing season<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> I decided to start posting my training progress. To keep accountable but also to have a place for written notes on training. So as of today you will see more updates on my progress. 🚣‍♂️</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>The Concept 2 2018 season started 1 May 2018 <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-05-07T15:07:50+02:00",
+			"url": "http://roelwillems.com/2018/05/07/for-the-new.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/07/row-log-updatecalendar.html",
+	      	
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18 - start of new Concept 2 season 1 May<br />\nWorkout: 7.076 meters<br />\n/500m: 2:07.1</p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7.076<br />\nSeason 2018: 7.076<br />\nCurrent season goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSplit the training in 12,5 min moderate, 5 min easy, 12,5 min moderate.</p>\n",
+			"date_published": "2018-05-07T15:01:07+02:00",
+			"url": "http://roelwillems.com/2018/05/07/row-log-updatecalendar.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/03/how-very-social.html",
 	      	
 			"title": "How very social",
@@ -201,34 +225,6 @@
 			"content_html": "<p>Microcasting (short form podcasting) comes to Micro.blog. Welcome <a href=\"http://www.manton.org/2018/04/wavelength-for-micro-blog.html\">Wavelength</a>. What a great addition to <a href=\"https://micro.blog/\">Micro.blog</a> and the Indieweb!</p>\n",
 			"date_published": "2018-04-12T21:41:04+02:00",
 			"url": "http://roelwillems.com/2018/04/12/microcasting-short-form.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/12/the-irony.html",
-	      	
-			"title": "The Irony",
-			
-			"content_html": "<p>Mark Zuckerberg left some of his notes on the table during a break in his testimony before Congress yesterday. It caught the attention of a press photographer who shared a photo of the document on social media.</p>\n\n<p>I guess Mark learned an important lesson: never to leave your notes open and unattended in public. Keeping stuff to yourself should not be based solely on trusting others to act in your best interest.</p>\n\n<p>To reuse and rephrase a <a href=\"http://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&amp;r=US&amp;IR=T\">quote by Mr. Zuckerberg himself</a>; <em>‘I’ve “trust them.” Dumb f*ck’</em></p>\n\n<p>There is, however, quite some talk on social media if it’s morally ok for the press to share the picture taken.  A valid discussion even when it’s a hearing regarding a company under testimony for violating people’s privacy. We should treat others as you would want them to treat you<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>I’m not linking to the photo as I think this information should have been kept private. The company in question doesn’t change this for me. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-12T18:11:59+02:00",
-			"url": "http://roelwillems.com/2018/04/12/the-irony.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
-	      	
-			"title": "Do I really need to switch Text Editors?",
-			
-			"content_html": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. Although after quickly skimming the article, some part did caught my attention.</p>\n\n<blockquote>\n  <p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n  <p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>Being open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-04-11T21:58:18+02:00",
-			"url": "http://roelwillems.com/2018/04/11/do-i-really.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/10/the-death-of.html",
-	      	
-			"content_html": "<p>Benedict Evans in his article “The death of the newsfeed” very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.</p>\n\n<p>I couldn’t agree more to all Benedict states in this article and highly recommend anyone interested in this subject to read the article (twice!).</p>\n\n<blockquote>\n  <p>Unavoidable as it seems, though, this approach has two problems. First, getting that sample ‘right’ is very hard, and beset by all sorts of conceptual challenges. But second, even if it’s a successful sample, it’s still a sample.</p>\n\n  <p>Using signals of what people seem to want to see risks over-fitting, circularity and filter bubbles. People’s desires change, and they get bored of things.</p>\n</blockquote>\n\n<p>In my opinion this is one of the biggest challenges in data science.</p>\n\n<p>How can we help people navigate an abundance of choices (post, pictures,  search results or products) without unethically steer behaviour, creating self-fulfilling prophecy<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> or limit the room for people to change their preferences and discover new stuff.</p>\n\n<p><a href=\"https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed\">The death of the newsfeed - Benedict Evans</a></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Eli Pariser - Beware online “filter bubble”: <a href=\"https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles\">TED talk</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-10T22:03:19+02:00",
-			"url": "http://roelwillems.com/2018/04/10/the-death-of.html"
 		}
 		
 	]
