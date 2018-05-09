@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/09/facebook-accused-of.html",
+	      	
+			"title": "Facebook accused of  extremists to one another through ‘suggested friends’ feature (The Telegraph)",
+			
+			"content_html": "<blockquote>\n  <p>Using sophisticated algorithms, Facebook is designed to connect people who share common interests.</p>\n\n  <p>“Facebook, in their desire to connect as many people as possible have inadvertently created a system which helps connect extremists and terrorists.”</p>\n</blockquote>\n\n<p><a href=\"https://www..co.uk/news/2018/05/05/facebook-accused-introducing-extremists-one-another-suggested/\">The Telegraph article</a><sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>.</p>\n\n<p>There is much to say about the role and responsibility of Facebook. But I couldn’t think of a comment as brilliant as the one by <a href=\"https://micro.blog/ben\">@ben</a> <a href=\"https://brooksreview.net/2018/05/facebook-accused-of-introducing-extremists-to-one-another-through-suggested-friends-feature/\">-&gt;</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Picked a few specific quotes from the article to show the gist of the article storyline. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-05-09T16:28:53+02:00",
+			"url": "http://roelwillems.com/2018/05/09/facebook-accused-of.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
 	      	
 			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://f000.backblazeb2.com/file/Roel-Share/Concept-2-20180508.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
@@ -217,14 +227,6 @@
 			"content_html": "<p>I switched my theme for this microblog to Marfa.</p>\n\n<p>Marfa is a new theme for <a href=\"https://micro.blog\">Micro.blog</a> hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links.</p>\n\n<p>Changing the defaults (light red/pink-ish) is quite easy. \nUsing the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.</p>\n\n<pre><code class=\"language-CSS\">nav.main-nav a.cta {\n\tbackground: #fff;\n\tcolor: #ee4792;\n\tborder: 2px solid #fcdae9;\n}\n\nnav.main-nav a.cta:hover {\n\tbackground: #fcdae9;\n\tcolor: #ee4792;\n}\n\nnav.main-nav a, #footer a, #post-nav a, p a{\n   box-shadow: inset 0 -2px 0 #fcdae9;\n}\n\nnav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {\n\tbox-shadow: inset 0 -25px 0 #fcdae9;\n}\n</code></pre>\n<p><em><code class=\"highlighter-rouge\">#fcdae9</code> is for underline and shading of the links. The <code class=\"highlighter-rouge\">#ee4792</code> color is for the “Also on Micro.blog” text in the upper right button.</em></p>\n",
 			"date_published": "2018-04-15T22:01:51+02:00",
 			"url": "http://roelwillems.com/2018/04/15/i-switched-my.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/12/microcasting-short-form.html",
-	      	
-			"content_html": "<p>Microcasting (short form podcasting) comes to Micro.blog. Welcome <a href=\"http://www.manton.org/2018/04/wavelength-for-micro-blog.html\">Wavelength</a>. What a great addition to <a href=\"https://micro.blog/\">Micro.blog</a> and the Indieweb!</p>\n",
-			"date_published": "2018-04-12T21:41:04+02:00",
-			"url": "http://roelwillems.com/2018/04/12/microcasting-short-form.html"
 		}
 		
 	]
