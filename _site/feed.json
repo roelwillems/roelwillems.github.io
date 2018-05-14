@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
+	      	
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://dsh.re/72f22\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
+			"date_published": "2018-05-14T22:48:56+02:00",
+			"url": "http://roelwillems.com/2018/05/14/204856.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/12/133403.html",
 	      	
 			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://dsh.re/7fc03\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
@@ -213,16 +221,6 @@
 			"content_html": "<blockquote>\n  <p>Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.</p>\n</blockquote>\n\n<p><a href=\"https://www.engadget.com/2018/04/12/ipad-laptop-replacement/\">engadget.com</a></p>\n\n<p>The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.</p>\n",
 			"date_published": "2018-04-17T23:18:33+02:00",
 			"url": "http://roelwillems.com/2018/04/17/its-all-about.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html",
-	      	
-			"title": "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS",
-			
-			"content_html": "<p><a href=\"https://www.cloudflare.com/\">Cloudflare</a> users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a <code class=\"highlighter-rouge\">“custom domain isn't pointing to the micro.blog\"</code> error message when trying to save the custom domain.</p>\n\n<p>Luckily there is a work around:</p>\n\n<h2 id=\"how-to-get-your-custom-domain-working-with-cloudflare\">How to get your custom domain working <em>with</em> Cloudflare</h2>\n<ol>\n  <li>First follow the steps as outlined above and add the proper “A” and/or “CNAME” records to the Cloudflare DNS panel;</li>\n  <li>Before adding the custom domain to your Micro.blog account make sure that the “DNS and HTTP proxy (CDN)”  (orange cloud-icon) is disabled and set to bypass (grey cloud icon with the hover text “DNS only”);</li>\n  <li>After updating your DNS records and Cloudflare set to bypass for the “A” record and/or “CNAME” go to “Account” on Micro.blog  and fill hostname (e.g. yourdomain.com) that you’d like to use for your Micro.blog;</li>\n  <li>Micro.blog should save and enable to custom domain without issues. <em>If you get a message “custom domain isn’t pointing to the micro.blog”</em> make sure that you have set Cloudflare on bypass and wait for a few more minutes (the DNS change can take some time to get in effect);</li>\n  <li>After successful saving the custom domain you can re-enable Cloudflare functionality on your domain/Micro.blog by remove the bypass, make sure that the cloud-icon is set to orange (hover text should state: “DNS and HTTP proxy (CDN)”).</li>\n</ol>\n\n<p><em>So there you have it, you are able to use  Cloudflare (DNS/CDN/security/caching/DDOS protection) with hosted Micro.blogs, with some  additional steps to get the initial setup working.</em></p>\n\n<h2 id=\"some-additional-recommendations\">Some additional recommendations:</h2>\n\n<h3 id=\"using-cloudflare-to-redirect-www-to-root-domain\">Using Cloudflare to redirect www. to root domain</h3>\n<p>If you would like to enable www. and root version of your custom domain it’s advisable to redirect one to the other (to make sure that there isn’t any duplicated content). Cloudflare can redirect the www. version to the root domain:</p>\n<ol>\n  <li>Go to “Page rules” within your Cloudflare account;</li>\n  <li>Create a page rule;</li>\n  <li>Add &lt;www.yourdomain.com&gt;/* within the first field (“If the URL matches”);</li>\n  <li>Under “Then the settings are:” select “Forwarding URL”, “ 301 - Permanent redirect”;</li>\n  <li>Add: &lt;yourdomain.com&gt;/$1 to the destination URL field;</li>\n  <li>Save and deploy the page rule for the redirect to take effect.</li>\n</ol>\n\n<h3 id=\"cloudflare-ssl-and-your-microblog\">Cloudflare, SSL and your Micro.blog</h3>\n<p>You should not use the SSL functionality provided by Cloudflare (email help@micro.blog to enable SSL).</p>\n",
-			"date_published": "2018-04-16T22:19:43+02:00",
-			"url": "http://roelwillems.com/2018/04/16/micro-guide-additional.html"
 		}
 		
 	]
