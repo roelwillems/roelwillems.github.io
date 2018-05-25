@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
+	      	
+			"content_html": "<p>Instapaper has temporary shut down for EU residents. I’m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" /></p>\n",
+			"date_published": "2018-05-25T10:34:09+02:00",
+			"url": "http://roelwillems.com/2018/05/25/instapaper-has-temporary.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
 	      	
 			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://dsh.re/72f22\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
@@ -211,16 +219,6 @@
 			"content_html": "<p>Today I’ve switched RSS service.  After Greader, quite some time long self-hosted (<a href=\"https://feedafever.com/\">Fever</a> <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>) using minimalreader.com<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>. Today I settled on <a href=\"https://feedbin.com/\">Feedbin</a>, good web interface, support for third party apps/syncing and a clear business model.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>not in active development <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>discontinued <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-04-18T21:45:40+02:00",
 			"url": "http://roelwillems.com/2018/04/18/today-ive-switched.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/17/its-all-about.html",
-	      	
-			"title": "∞ It’s all about perspective",
-			
-			"content_html": "<blockquote>\n  <p>Mobile apps are still often lacking in efficiency, Apple’s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.</p>\n</blockquote>\n\n<p><a href=\"https://www.engadget.com/2018/04/12/ipad-laptop-replacement/\">engadget.com</a></p>\n\n<p>The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It’s all about perspective I guess.</p>\n",
-			"date_published": "2018-04-17T23:18:33+02:00",
-			"url": "http://roelwillems.com/2018/04/17/its-all-about.html"
 		}
 		
 	]
