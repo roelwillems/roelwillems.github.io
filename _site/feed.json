@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/06/04/quite-the-announcements.html",
+	      	
+			"content_html": "<p>Quite the announcements at WWDC from Apple regarding data and privacy.</p>\n\n<p>Social media companies and Adtech in general will be facing quite a massive drop in data when iOS 12 and MacOS Mojave are released.</p>\n",
+			"date_published": "2018-06-04T21:03:46+02:00",
+			"url": "http://roelwillems.com/2018/06/04/quite-the-announcements.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
 	      	
 			"content_html": "<p>Instapaper has temporary shut down for EU residents. I’m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" /></p>\n",
@@ -211,14 +219,6 @@
 			"content_html": "<blockquote>\n  <p>Far more than 87 million people may have had their Facebook data harvested by Cambridge Analytica</p>\n</blockquote>\n\n<p>No surprises here, but I am still curious what the final number will be. Place your bets…</p>\n",
 			"date_published": "2018-04-18T22:17:54+02:00",
 			"url": "http://roelwillems.com/2018/04/18/far-more-than.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/18/today-ive-switched.html",
-	      	
-			"content_html": "<p>Today I’ve switched RSS service.  After Greader, quite some time long self-hosted (<a href=\"https://feedafever.com/\">Fever</a> <sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>) using minimalreader.com<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>. Today I settled on <a href=\"https://feedbin.com/\">Feedbin</a>, good web interface, support for third party apps/syncing and a clear business model.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>not in active development <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>discontinued <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-18T21:45:40+02:00",
-			"url": "http://roelwillems.com/2018/04/18/today-ive-switched.html"
 		}
 		
 	]
