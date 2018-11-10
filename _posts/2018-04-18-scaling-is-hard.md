@@ -3,7 +3,7 @@ layout: post
 title: "Scaling is hard"
 microblog: false
 audio: 
-date: 2018-04-19 00:29:54 +0200
+date: 2018-04-18 23:29:54 +0100
 guid: http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html
 ---
 > Most of the design tolerances of the Model 3 are already better than any other car in the world. Soon, they will all be better. This is not enough. We will keep going until the Model 3 build precision is a factor of ten better than any other car in the world. I am not kidding.
