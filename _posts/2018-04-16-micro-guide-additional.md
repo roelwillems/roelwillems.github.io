@@ -3,7 +3,7 @@ layout: post
 title: "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS"
 microblog: false
 audio: 
-date: 2018-04-16 22:19:43 +0200
+date: 2018-04-16 21:19:43 +0100
 guid: http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html
 ---
 [Cloudflare](https://www.cloudflare.com/) users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a ```“custom domain isn't pointing to the micro.blog"``` error message when trying to save the custom domain. 
