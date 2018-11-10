@@ -3,7 +3,7 @@ layout: post
 title: "Micro Guide: Changing the default colors of the Micro.blog Marfa theme"
 microblog: false
 audio: 
-date: 2018-04-15 22:01:51 +0200
+date: 2018-04-15 21:01:51 +0100
 guid: http://roelwillems.micro.blog/2018/04/15/i-switched-my.html
 ---
 I switched my theme for this microblog to Marfa.
