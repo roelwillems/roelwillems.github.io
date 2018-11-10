@@ -3,7 +3,7 @@ layout: post
 title: "Do I really need to switch Text Editors?"
 microblog: false
 audio: 
-date: 2018-04-11 21:58:18 +0200
+date: 2018-04-11 20:58:18 +0100
 guid: http://roelwillems.micro.blog/2018/04/11/do-i-really.html
 ---
 Questioning if I really need to look in to switching Text editors I almost discarding the [pick for the best Text Editor over at The Sweet Setup](https://thesweetsetup.com/apps/best-text-editor-macos/). Although after quickly skimming the article, some part did caught my attention.
