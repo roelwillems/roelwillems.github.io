@@ -3,7 +3,7 @@ layout: post
 title: "Disruptive vs Sustaining innovation and the Tesla case"
 microblog: false
 audio: 
-date: 2018-05-02 21:57:02 +0200
+date: 2018-05-02 20:57:02 +0100
 guid: http://roelwillems.micro.blog/2018/05/02/disruptive-vs-sustaining.html
 ---
 I always enjoy Ben en James talking business strategy in their [Exponent podcast](http://exponent.fm) (Ben Thompson from [Stratechery](https://stratechery.com) with co-host James Allworth). Their last podcast about Zillow ([#149 - Zillow and Sustaining Aggregation](http://exponent.fm/episode-149-zillow-and-sustaining-aggregation/)) has a specific part really standing out. At 14:14 minutes in, James explains the difference between sustaining and disrupting innovation. And does so in very clear language. 
