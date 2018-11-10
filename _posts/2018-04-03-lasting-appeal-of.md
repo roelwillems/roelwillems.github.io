@@ -3,7 +3,7 @@ layout: post
 title: "∞ Lasting appeal of RSS"
 microblog: false
 audio: 
-date: 2018-04-03 23:22:14 +0200
+date: 2018-04-03 22:22:14 +0100
 guid: http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html
 ---
 >Still, the lasting appeal of RSS remains the parts that haven't changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.
