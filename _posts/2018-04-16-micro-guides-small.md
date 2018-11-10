@@ -3,7 +3,7 @@ layout: post
 title: "Micro Guides: small articles which can be of great help"
 microblog: false
 audio: 
-date: 2018-04-16 21:52:38 +0200
+date: 2018-04-16 20:52:38 +0100
 guid: http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html
 ---
 Yesterday I had the opportunity to help someone from the [Micro.blog](https://micro.blog) community by writing a [tiny post](http://roelwillems.com/2018/04/15/i-switched-my.html). 
