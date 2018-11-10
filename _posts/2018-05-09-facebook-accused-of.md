@@ -3,7 +3,7 @@ layout: post
 title: "Facebook accused of  extremists to one another through ‘suggested friends’ feature (The Telegraph)"
 microblog: false
 audio: 
-date: 2018-05-09 16:28:53 +0200
+date: 2018-05-09 15:28:53 +0100
 guid: http://roelwillems.micro.blog/2018/05/09/facebook-accused-of.html
 ---
 > Using sophisticated algorithms, Facebook is designed to connect people who share common interests.
