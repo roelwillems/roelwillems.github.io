@@ -3,7 +3,7 @@ layout: post
 title: "How very social"
 microblog: false
 audio: 
-date: 2018-05-04 00:06:25 +0200
+date: 2018-05-03 23:06:25 +0100
 guid: http://roelwillems.micro.blog/2018/05/03/how-very-social.html
 ---
 > Samsung Smart TV. During the first minute after power-on, the TV talks to Google Play, Double Click, Netflix, FandangoNOW, Spotify, CBS, MSNBC, NFL, Deezer, and Facebook­ even though we did not sign in or create accounts with any of them.
