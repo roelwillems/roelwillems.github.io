@@ -3,7 +3,7 @@ layout: post
 title: "∞ It’s all about perspective"
 microblog: false
 audio: 
-date: 2018-04-17 23:18:33 +0200
+date: 2018-04-17 22:18:33 +0100
 guid: http://roelwillems.micro.blog/2018/04/17/its-all-about.html
 ---
 > Mobile apps are still often lacking in efficiency, Apple's Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse. 
