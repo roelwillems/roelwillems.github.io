@@ -1,0 +1,384 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Roel Willems",
+	"icon": "https://micro.blog/roelwillems/avatar.jpg",
+	"home_page_url": "https://roelwillems.com/",
+	"feed_url": "https://roelwillems.com/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/06/04/quite-the-announcements.html",
+	      	
+			"content_text": "Quite the announcements at WWDC from Apple regarding data and...",
+			"date_published": "2018-06-04T21:03:46+02:00",
+			"url": "https://roelwillems.com/2018/06/04/quite-the-announcements.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
+	      	
+			"content_text": "Instapaper has temporary shut down for EU residents. I’m not...",
+			"date_published": "2018-05-25T10:34:09+02:00",
+			"url": "https://roelwillems.com/2018/05/25/instapaper-has-temporary.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
+	      	
+			"content_text": "Row Log Update 🚣‍♂️ Calendar Week: 19 Workout: 7,034 meters...",
+			"date_published": "2018-05-14T22:48:56+02:00",
+			"url": "https://roelwillems.com/2018/05/14/204856.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/12/133403.html",
+	      	
+			"content_text": "Row Log Update 🚣‍♂️ Calendar Week: 18 Workout: 6.855 meters...",
+			"date_published": "2018-05-12T15:34:03+02:00",
+			"url": "https://roelwillems.com/2018/05/12/133403.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/10/202605.html",
+	      	
+			"content_text": "Row Log Update 🚣‍♂️ Calendar Week: 18 6,434 m (+...",
+			"date_published": "2018-05-10T22:26:05+02:00",
+			"url": "https://roelwillems.com/2018/05/10/202605.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/09/facebook-accused-of.html",
+	      	
+			"title": "Facebook accused of  extremists to one another through ‘suggested friends’ feature (The Telegraph)",
+			
+			"content_text": "Using sophisticated algorithms, Facebook is designed to connect people who...",
+			"date_published": "2018-05-09T16:28:53+02:00",
+			"url": "https://roelwillems.com/2018/05/09/facebook-accused-of.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
+	      	
+			"content_text": "Row Log Update 🚣‍♂️ Calendar Week: 18 Total Meters This...",
+			"date_published": "2018-05-08T21:36:07+02:00",
+			"url": "https://roelwillems.com/2018/05/08/row-log-update.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/07/for-the-new.html",
+	      	
+			"content_text": "For the new indoor rowing season1 I decided to start...",
+			"date_published": "2018-05-07T15:07:50+02:00",
+			"url": "https://roelwillems.com/2018/05/07/for-the-new.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/07/row-log-updatecalendar.html",
+	      	
+			"content_text": "Row Log Update 🚣‍♂️ Calendar Week: 18 - start of...",
+			"date_published": "2018-05-07T15:01:07+02:00",
+			"url": "https://roelwillems.com/2018/05/07/row-log-updatecalendar.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/how-very-social.html",
+	      	
+			"title": "How very social",
+			
+			"content_text": "Samsung Smart TV. During the first minute after power-on, the...",
+			"date_published": "2018-05-04T00:06:25+02:00",
+			"url": "https://roelwillems.com/2018/05/04/how-very-social.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/whos-next.html",
+	      	
+			"title": "Who’s next?",
+			
+			"content_text": "Step 1: get dating apps to build themselves on your...",
+			"date_published": "2018-05-03T23:49:17+02:00",
+			"url": "https://roelwillems.com/2018/05/03/whos-next.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/03/looking-in-to.html",
+	      	
+			"content_text": "Looking in to switching (back) to Linux. It would be...",
+			"date_published": "2018-05-03T22:08:11+02:00",
+			"url": "https://roelwillems.com/2018/05/03/looking-in-to.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/02/disruptive-vs-sustaining.html",
+	      	
+			"title": "Disruptive vs Sustaining innovation and the Tesla case",
+			
+			"content_text": "I always enjoy Ben en James talking business strategy in...",
+			"date_published": "2018-05-02T21:57:02+02:00",
+			"url": "https://roelwillems.com/2018/05/02/disruptive-vs-sustaining.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/01/just-finished-moving.html",
+	      	
+			"content_text": "Just finished moving some old photos from instagram to my...",
+			"date_published": "2018-05-01T22:21:27+02:00",
+			"url": "https://roelwillems.com/2018/05/01/just-finished-moving.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/30/by-the-way.html",
+	      	
+			"content_text": "By the way, here is an important lesson about delegation:...",
+			"date_published": "2018-04-30T20:16:47+02:00",
+			"url": "https://roelwillems.com/2018/04/30/by-the-way.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/30/174249.html",
+	      	
+			"content_text": "\n\nChallenge accepted\n",
+			"date_published": "2018-04-30T19:42:49+02:00",
+			"url": "https://roelwillems.com/2018/04/30/174249.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/26/httpsdshreethe-joys-of.html",
+	      	
+			"content_text": "The joys of technology: That moment when your TV asks...",
+			"date_published": "2018-04-26T10:25:16+02:00",
+			"url": "https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/25/on-turn-off.html",
+	      	
+			"title": "On turning off unnecessary notifications",
+			
+			"content_text": "turn off all lock screen notifications (this is better for...",
+			"date_published": "2018-04-25T22:56:04+02:00",
+			"url": "https://roelwillems.com/2018/04/25/on-turn-off.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/25/this-will-be.html",
+	      	
+			"title": "This will be interesting..",
+			
+			"content_text": "WhatsApp will require users in Europe to be at least...",
+			"date_published": "2018-04-25T16:09:05+02:00",
+			"url": "https://roelwillems.com/2018/04/25/this-will-be.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/24/blocker-will-be.html",
+	      	
+			"content_text": "1Blocker will be releasing a new version called 1Blocker X...",
+			"date_published": "2018-04-24T17:26:42+02:00",
+			"url": "https://roelwillems.com/2018/04/24/blocker-will-be.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
+	      	
+			"content_text": "Unread will no longer show “Untitled” or placeholder text from...",
+			"date_published": "2018-04-23T22:15:30+02:00",
+			"url": "https://roelwillems.com/2018/04/23/unread-will-no.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/23/collected-goodness-good.html",
+	      	
+			"title": "∞ Collected Goodness Good material. Good art. Good living.",
+			
+			"content_text": "Collected Goodness.com by Drew Coffman Very interesting and inspiring stuff,...",
+			"date_published": "2018-04-23T17:33:49+02:00",
+			"url": "https://roelwillems.com/2018/04/23/collected-goodness-good.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/223427.html",
+	      	
+			"content_text": "\n\nUnlock the Night Owl pin, time to sign off\n",
+			"date_published": "2018-04-19T00:34:27+02:00",
+			"url": "https://roelwillems.com/2018/04/19/223427.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html",
+	      	
+			"title": "Scaling is hard",
+			
+			"content_text": "Most of the design tolerances of the Model 3 are...",
+			"date_published": "2018-04-19T00:29:54+02:00",
+			"url": "https://roelwillems.com/2018/04/19/scaling-is-hard.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/far-more-than.html",
+	      	
+			"content_text": "Far more than 87 million people may have had their...",
+			"date_published": "2018-04-18T22:17:54+02:00",
+			"url": "https://roelwillems.com/2018/04/18/far-more-than.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/18/today-ive-switched.html",
+	      	
+			"content_text": "Today I’ve switched RSS service. After Greader, quite some time...",
+			"date_published": "2018-04-18T21:45:40+02:00",
+			"url": "https://roelwillems.com/2018/04/18/today-ive-switched.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/17/its-all-about.html",
+	      	
+			"title": "∞ It’s all about perspective",
+			
+			"content_text": "Mobile apps are still often lacking in efficiency, Apple’s Smart...",
+			"date_published": "2018-04-17T23:18:33+02:00",
+			"url": "https://roelwillems.com/2018/04/17/its-all-about.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html",
+	      	
+			"title": "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS",
+			
+			"content_text": "Cloudflare users wanting to use a custom domain name for...",
+			"date_published": "2018-04-16T22:19:43+02:00",
+			"url": "https://roelwillems.com/2018/04/16/micro-guide-additional.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html",
+	      	
+			"title": "Micro Guides: small articles which can be of great help",
+			
+			"content_text": "Yesterday I had the opportunity to help someone from the...",
+			"date_published": "2018-04-16T21:52:38+02:00",
+			"url": "https://roelwillems.com/2018/04/16/micro-guides-small.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/15/i-switched-my.html",
+	      	
+			"title": "Micro Guide: Changing the default colors of the Micro.blog Marfa theme",
+			
+			"content_text": "I switched my theme for this microblog to Marfa. Marfa...",
+			"date_published": "2018-04-15T22:01:51+02:00",
+			"url": "https://roelwillems.com/2018/04/15/i-switched-my.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/12/microcasting-short-form.html",
+	      	
+			"content_text": "Microcasting (short form podcasting) comes to Micro.blog. Welcome Wavelength. What...",
+			"date_published": "2018-04-12T21:41:04+02:00",
+			"url": "https://roelwillems.com/2018/04/12/microcasting-short-form.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/12/the-irony.html",
+	      	
+			"title": "The Irony",
+			
+			"content_text": "Mark Zuckerberg left some of his notes on the table...",
+			"date_published": "2018-04-12T18:11:59+02:00",
+			"url": "https://roelwillems.com/2018/04/12/the-irony.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
+	      	
+			"title": "Do I really need to switch Text Editors?",
+			
+			"content_text": "Questioning if I really need to look in to switching...",
+			"date_published": "2018-04-11T21:58:18+02:00",
+			"url": "https://roelwillems.com/2018/04/11/do-i-really.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/10/the-death-of.html",
+	      	
+			"content_text": "Benedict Evans in his article “The death of the newsfeed”...",
+			"date_published": "2018-04-10T22:03:19+02:00",
+			"url": "https://roelwillems.com/2018/04/10/the-death-of.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/10/the-battery-of.html",
+	      	
+			"content_text": "The battery of my Apple Watch(v1) really starts showing it’s...",
+			"date_published": "2018-04-10T20:41:39+02:00",
+			"url": "https://roelwillems.com/2018/04/10/the-battery-of.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/09/obscure-email-vulnerability.html",
+	      	
+			"title": "∞ Obscure E-Mail Vulnerability",
+			
+			"content_text": "This vulnerability is a result of an interaction between two...",
+			"date_published": "2018-04-09T22:44:44+02:00",
+			"url": "https://roelwillems.com/2018/04/09/obscure-email-vulnerability.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/09/after-writing-another.html",
+	      	
+			"content_text": "After writing another post on Facebook and the recent privacy...",
+			"date_published": "2018-04-09T22:38:09+02:00",
+			"url": "https://roelwillems.com/2018/04/09/after-writing-another.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/04/facebook-sharply-increases.html",
+	      	
+			"title": "∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica",
+			
+			"content_text": "Facebook on Wednesday said the personal information of up to...",
+			"date_published": "2018-04-04T23:47:11+02:00",
+			"url": "https://roelwillems.com/2018/04/04/facebook-sharply-increases.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html",
+	      	
+			"title": "∞ Lasting appeal of RSS",
+			
+			"content_text": "Still, the lasting appeal of RSS remains the parts that...",
+			"date_published": "2018-04-03T23:22:14+02:00",
+			"url": "https://roelwillems.com/2018/04/03/lasting-appeal-of.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/03/measure-your-success.html",
+	      	
+			"content_text": "“Measure your success by the success of others.” Dave Winer...",
+			"date_published": "2018-04-03T22:39:09+02:00",
+			"url": "https://roelwillems.com/2018/04/03/measure-your-success.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/02/although-i-like.html",
+	      	
+			"title": "∞ Cloudflare launches ",
+			
+			"content_text": "Cloudflare’s mission is to help build a better Internet. We’re...",
+			"date_published": "2018-04-02T21:49:08+02:00",
+			"url": "https://roelwillems.com/2018/04/02/although-i-like.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2017/11/20/a-list-aparts.html",
+	      	
+			"title": "∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks",
+			
+			"content_text": "“In recent years, we’ve seen our rich universe of diverse,...",
+			"date_published": "2017-11-20T21:13:33+01:00",
+			"url": "https://roelwillems.com/2017/11/20/a-list-aparts.html"
+		}
+		
+	]
+}
