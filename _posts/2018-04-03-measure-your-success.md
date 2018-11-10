@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 22:39:09 +0200
+date: 2018-04-03 21:39:09 +0100
 guid: http://roelwillems.micro.blog/2018/04/03/measure-your-success.html
 ---
 > “Measure your success by the success of others.” [Dave Winer](http://scripting.com/2018/01/09/215812.html#a220039)
