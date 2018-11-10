@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-08 21:36:07 +0200
+date: 2018-05-08 20:36:07 +0100
 guid: http://roelwillems.micro.blog/2018/05/08/row-log-update.html
 ---
 **Row Log Update** 🚣‍♂️  
