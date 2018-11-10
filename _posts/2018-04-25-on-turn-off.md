@@ -3,7 +3,7 @@ layout: post
 title: "On turning off unnecessary notifications"
 microblog: false
 audio: 
-date: 2018-04-25 22:56:04 +0200
+date: 2018-04-25 21:56:04 +0100
 guid: http://roelwillems.micro.blog/2018/04/25/on-turn-off.html
 ---
 > - turn off all lock screen notifications (this is better for privacy anyway)
