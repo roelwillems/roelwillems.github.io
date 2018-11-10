@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-07 15:01:07 +0200
+date: 2018-05-07 14:01:07 +0100
 guid: http://roelwillems.micro.blog/2018/05/07/row-log-updatecalendar.html
 ---
 **Row Log Update** 🚣‍♂️  
