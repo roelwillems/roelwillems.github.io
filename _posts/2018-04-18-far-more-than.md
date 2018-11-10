@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-18 22:17:54 +0200
+date: 2018-04-18 21:17:54 +0100
 guid: http://roelwillems.micro.blog/2018/04/18/far-more-than.html
 ---
 > Far more than 87 million people may have had their Facebook data harvested by Cambridge Analytica
