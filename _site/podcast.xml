@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Roel Willems</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
-    <link>http://roelwillems.com/</link>
-    <pubDate>Sat, 30 Jun 2018 06:19:01 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 06:19:01 +0200</lastBuildDate>
+    <description>Welcome to my blog.
+I’m Roel Willems,
+This is my own space on the internet and used as a poster wall of all I find interesting online. This could be about online business and internet culture but likely you will find random posts, quotes and link posts on technology, personal development, data science, online privacy and other topics which spark my interest.
+I work as lead analytics, data science and experimentation at Albert Heijn Online (part of Ahold Delhaize). And use Analytics, Data Science &amp;amp; Experimentation to eliminate guesswork.
+For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](eliminateguess.work).
+_A few additional words:_ - all views and opinions expressed are my own; - Recommendations to services, apps or companies are without any affiliation.</description>
+    <link>https://roelwillems.com/</link>
+    <pubDate>Sat, 10 Nov 2018 20:42:29 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 20:42:29 +0100</lastBuildDate>
 	<itunes:image href="https://micro.blog/roelwillems/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Roel Willems</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Roel Willems</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
