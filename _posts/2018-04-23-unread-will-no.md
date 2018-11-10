@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-23 22:15:30 +0200
+date: 2018-04-23 21:15:30 +0100
 guid: http://roelwillems.micro.blog/2018/04/23/unread-will-no.html
 ---
 > Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles...
