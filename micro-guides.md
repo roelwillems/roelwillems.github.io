@@ -3,7 +3,8 @@ title: "Micro guides"
 permalink: "/micro-guides/"
 layout: page
 order: 2
-date: 2018-04-16 22:25:28 +0200
+navigation: true
+date: 2018-04-16 21:25:28 +0100
 ---
 Pinned: [Micro Guides: small articles which can be of great help](http://roelwillems.com/2018/04/16/micro-guides-small.html)
 
