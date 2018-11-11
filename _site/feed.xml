@@ -4,8 +4,17 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Sat, 10 Nov 2018 20:42:29 +0100</pubDate>
-    <lastBuildDate>Sat, 10 Nov 2018 20:42:29 +0100</lastBuildDate>
+    <pubDate>Sun, 11 Nov 2018 09:13:24 +0100</pubDate>
+    <lastBuildDate>Sun, 11 Nov 2018 09:13:24 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost inmediatly!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Nov 2018 00:24:06 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/11/finally-had-some.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/10/finally-had-some.html</guid>
+      </item>
     
       <item>
       	
@@ -22,7 +31,7 @@
       	
         <description>&lt;p&gt;Instapaper has temporary shut down for EU residents. I’m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://roelwillems.com/uploads/2018/0ac7e11135.jpg&quot; width=&quot;600&quot; height=&quot;532&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/0ac7e11135.jpg&quot; width=&quot;600&quot; height=&quot;532&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 May 2018 10:34:09 +0200</pubDate>
         <link>https://roelwillems.com/2018/05/25/instapaper-has-temporary.html</link>
@@ -179,7 +188,7 @@ Split the training in 12,5 min moderate, 5 min easy, 12,5 min moderate.&lt;/p&gt
   &lt;p&gt;Samsung Smart TV. During the first minute after power-on, the TV talks to Google Play, Double Click, Netflix, FandangoNOW, Spotify, CBS, MSNBC, NFL, Deezer, and Facebook­ even though we did not sign in or create accounts with any of them.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Now you know why your TV keeps bugging you about &lt;a href=&quot;http://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html&quot;&gt;GDPR consent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Now you know why your TV keeps bugging you about &lt;a href=&quot;https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html&quot;&gt;GDPR consent&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://freedom-to-tinker.com/2018/04/23/announcing-iot-inspector-a-tool-to-study-smart-home-iot-device-behavior/&quot;&gt;∞&lt;/a&gt;&lt;/p&gt;
 </description>
