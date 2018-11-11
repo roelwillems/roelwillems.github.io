@@ -9,11 +9,13 @@ Welcome to my blog.
 
 I’m Roel Willems,
 
-This is my own space on the internet and used as a poster wall of all I find interesting online. This could be about online business and internet culture but likely you will find random posts, quotes and link posts on technology, personal development, data science, online privacy and other topics which spark my interest.
+This is my own space on the internet and used as a poster wall of all I find interesting online. This could be about online business and internet culture but likely you will find random posts, quotes and link posts on technology, personal development, data &amp; online privacy and other topics which spark my interest.
 
-I work as lead analytics, data science and experimentation at Albert Heijn Online (part of Ahold Delhaize). And use Analytics, Data Science &amp; Experimentation to eliminate guesswork.
+I work at Albert Heijn Online (part of Ahold Delhaize) leading the analytics, data science and experimentation team. 
 
 For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](eliminateguess.work).
+
+You can find my Photography at [maintainingfocus.com](maintaining focus.com).
 
 _A few additional words:_
 - all views and opinions expressed are my own;
