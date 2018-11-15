@@ -1,21 +1,22 @@
 ---
+title: "About"
+permalink: "/about/"
 layout: page
-title: About
-permalink: /about/
 order: -1
 navigation: true
+date: 2018-11-11 09:18:20 +0100
 ---
 Welcome to my blog. 
 
 I’m Roel Willems,
 
-This is my own space on the internet and used as a poster wall of all I find interesting online. This could be about online business and internet culture but likely you will find random posts, quotes and link posts on technology, personal development, data &amp; online privacy and other topics which spark my interest.
+This is my own space on the internet and used as a poster wall of all I find interesting online. This could be about online business and internet culture but likely you will find random posts, quotes and link posts on technology, personal development, data & online privacy and other topics which spark my interest.
 
 I work at Albert Heijn Online (part of Ahold Delhaize) leading the analytics, data science and experimentation team. 
 
-For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](eliminateguess.work).
+For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](https://eliminateguess.work).
 
-You can find my Photography at [maintainingfocus.com](maintaining focus.com).
+You can find my photography at [maintainingfocus.com](https://maintainingfocus.com).
 
 _A few additional words:_
 - all views and opinions expressed are my own;
