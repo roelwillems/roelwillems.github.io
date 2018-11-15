@@ -2,9 +2,9 @@
 title: "Contact"
 permalink: "/contact/"
 layout: page
-order: 4
+order: 2
 navigation: true
-date: 2018-04-15 21:22:23 +0100
+date: 2018-11-11 09:13:43 +0100
 ---
 Hi, thanks for reaching out to me!
 
