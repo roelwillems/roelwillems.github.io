@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 order: -1
 navigation: true
-date: 2018-11-11 09:18:20 +0100
+date: 2018-11-15 12:53:34 +0100
 ---
 Welcome to my blog. 
 
@@ -20,4 +20,4 @@ You can find my photography at [maintainingfocus.com](https://maintainingfocus.c
 
 _A few additional words:_
 - all views and opinions expressed are my own;
-- Recommendations to services, apps or companies are without any affiliation.
+- Recommendations to services, apps or companies are without any affiliation (or otherwise explicitly disclosed).
