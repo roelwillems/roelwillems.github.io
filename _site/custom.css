@@ -38,3 +38,14 @@ vertical-align: top;
   	font-size: small;
     margin-top: 35px;
 }
+
+.licence {
+  	font-size: small;
+}
+.licence p, li {
+    list-style: none;
+}
+
+.p-role{
+    	font-size: small;
+}
