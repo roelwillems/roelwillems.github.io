@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/17/had-some-problems.html",
+	      	
+			"content_html": "<p>Had some problems with my two year old iPhone SE, bought it in for a battery replacement today (after all it is discounted until end of the year) but to my surprise the repair is on Apple. These small things really make you feel like a valued customer.</p>\n",
+			"date_published": "2018-11-17T22:57:06+01:00",
+			"url": "https://roelwillems.com/2018/11/17/had-some-problems.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/17/creative-commons-licence.html",
+	      	
+			"title": "Creative commons licence ",
+			
+			"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the “Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)” to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<p>Although I don’t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-11-17-10-31-54.png\" alt=\"Image of the footer\" /></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Although I believe it would be a good thing for the internet and it’s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-11-17T10:48:41+01:00",
+			"url": "https://roelwillems.com/2018/11/17/creative-commons-licence.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/10/finally-had-some.html",
 	      	
 			"content_html": "<p>Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost inmediatly!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)</p>\n",
@@ -202,24 +220,6 @@
 			"content_html": "<p><a href=\"https://collectedgoodness.com/\">Collected Goodness.com</a> by <a href=\"http://www.coffman.co/\">Drew Coffman</a></p>\n\n<p>Very interesting and inspiring stuff, will need to look in to it more but the first recommended reads/listens seem very worthwhile.</p>\n\n<p>I also like the format a lot, it strikes a balance between linking to interesting content supplemented with quotes supported by the voice-over by Drew.  Very well done altogether.</p>\n\n<p><em>Found via: <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> (thanks!)</em></p>\n",
 			"date_published": "2018-04-23T17:33:49+02:00",
 			"url": "https://roelwillems.com/2018/04/23/collected-goodness-good.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/18/223427.html",
-	      	
-			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png\" alt=\"Night Owl \" /></p>\n\n<p>Unlock the Night Owl pin, time to sign off</p>\n",
-			"date_published": "2018-04-19T00:34:27+02:00",
-			"url": "https://roelwillems.com/2018/04/19/223427.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html",
-	      	
-			"title": "Scaling is hard",
-			
-			"content_html": "<blockquote>\n  <p>Most of the design tolerances of the Model 3 are already better than any other car in the world. Soon, they will all be better. This is not enough. We will keep going until the Model 3 build precision is a factor of ten better than any other car in the world. I am not kidding.</p>\n\n  <p>Our car needs to be designed and built with such accuracy and precision that, if an owner measures dimensions, panel gaps and flushness, and their measurements don’t match the Model 3 specs, it just means that their measuring tape is wrong.</p>\n</blockquote>\n\n<p>I’m <a href=\"https://daringfireball.net/linked/2018/04/17/musk-tesla\">quoting a quote of Eldon Musk by John Gruber</a>.</p>\n\n<p>But after reading the article and memo I can’t suppress the feeling that people waiting in line (after forking over cash to enter the cue) would be happy with clear delivery times<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> and quite satisfied with tolerances on par with current electric cars that are already build at scale<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>.</p>\n\n<p>In my opinion the real challenge for Tesla (or any car manufacture for that matter) isn’t reaching near perfect build precision but getting to a good enough level <em>at scale</em>.</p>\n\n<p>Tesla taking on the challenge to build 350.000+ model 3’s currently in backorder<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote\">3</a></sup> is a marvel on it’s own.</p>\n\n<p>This will play out to be the greatest achievement in automotive history or Tesla being overtaken by the <a href=\"https://www.wsj.com/articles/volvo-to-phase-out-conventional-car-engine-14992272020\">traditional manufactures moving to full electric</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p><a href=\"https://www.telegraph.co.uk/technology/2018/04/17/tesla-halts-model-3-production-second-time-year/amp/\">Tesla halts Model 3 production second time this year -telegraph.co.uk</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>In Europe you could have a full electric VW e-Golf on your driveway, two months after you place an order. <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:3\">\n      <p>Based on quick calculation on numbers provided by <a href=\"https://www.bloomberg.com/news/articles/2018-04-18/california-opens-investigation-into-tesla-workplace-conditions\">Bloomberg</a> <a href=\"#fnref:3\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-19T00:29:54+02:00",
-			"url": "https://roelwillems.com/2018/04/19/scaling-is-hard.html"
 		}
 		
 	]
