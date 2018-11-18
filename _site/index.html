@@ -95,6 +95,41 @@
   <li>
     <article>
       
+      <header>
+        <h2><a href="/2018/11/18/getting-your-hosted.html">Getting your hosted Microblog IPv6 ready</a></h2>
+      </header>
+      <section class="post-body">
+        <p>This is a small guide (hence the category “micro guide”) to enable IPv6[^1] for your hosted microblog[^2].</p>
+
+<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>
+
+<p>To start, you should go to your domain registrar or system to manage DNS (personally I use !(Cloudflare)[https://www.cloudflare.com] and have written another micro guide with recommendations on how-to !(enable Cloudflare for your microblog)[https://roelwillems.com/2018/04/16/micro-guide-additional.html]).</p>
+
+<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>
+
+<p>Make sure that the AAAA record is pointing to: <em>2600:3c00:1::68c8:16d6</em>
+This is the IPv6 address for hosted microblogs.
+Leave the A record (address for IPv4) and other records like CNAME unaltered.</p>
+
+<p>Save the settings and after a few minutes you can !(check if your website has support for IPv6)[https://www.internet.nl].</p>
+
+<p>[^1] What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading !(Wikipedia)[https://en.wikipedia.org/wiki/IPv6] or this !(tutorial)[https://www.tutorialspoint.com/ipv6/]<br />
+[^2] hosted with <img src="https://micro.blog" alt="micro.blog" />,</p>
+
+      </section>
+      
+      <a href="/2018/11/18/getting-your-hosted.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-11-18 09:20:11 +0100" class="dt-published">→ 9:20 AM, Nov 18</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
       <section class="post-body">
         <p>Had some problems with my two year old iPhone SE, bought it in for a battery replacement today (after all it is discounted until end of the year) but to my surprise the repair is on Apple. These small things really make you feel like a valued customer.</p>
 
@@ -735,32 +770,6 @@ Self-driving technology will make ride-sharing services cheap, practical and may
   </li>
   <span class="separator"><span class="divider"></span></span>
   
-  <li>
-    <article>
-      
-      <header>
-        <h2><a href="/2018/04/23/collected-goodness-good.html">∞ Collected Goodness Good material. Good art. Good living.</a></h2>
-      </header>
-      <section class="post-body">
-        <p><a href="https://collectedgoodness.com/">Collected Goodness.com</a> by <a href="http://www.coffman.co/">Drew Coffman</a></p>
-
-<p>Very interesting and inspiring stuff, will need to look in to it more but the first recommended reads/listens seem very worthwhile.</p>
-
-<p>I also like the format a lot, it strikes a balance between linking to interesting content supplemented with quotes supported by the voice-over by Drew.  Very well done altogether.</p>
-
-<p><em>Found via: <a href="https://micro.blog/patrickrhone">@patrickrhone</a> (thanks!)</em></p>
-
-      </section>
-      
-      <a href="/2018/04/23/collected-goodness-good.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-04-23 17:33:49 +0200" class="dt-published">→ 5:33 PM, Apr 23</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
 </ul>
 
 
@@ -790,11 +799,11 @@ Self-driving technology will make ride-sharing services cheap, practical and may
   <li>
     <p><center>
     <a href="https://indieweb.org/">
-      <img src="https://f000.backblazeb2.com/file/Roel-Share/indieweb-badge.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>
+      <img src="https://roelwillems.com/uploads/2018/d1dd56357d.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>
       <a href="https://indieweb.org/Webmention">
-      <img src="https://f000.backblazeb2.com/file/Roel-Share/webmention-badge.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>
+      <img src="https://roelwillems.com/uploads/2018/d8f6bf702d.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>
     <a href="http://microformats.org">
-      <img src="https://f000.backblazeb2.com/file/Roel-Share/microformats-badge.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;width:80px;image-rendering:pixelated;" src="https://f000.backblazeb2.com/file/Roel-Share/creative-commons-badge.png">
+      <img src="https://roelwillems.com/uploads/2018/da6aabe9fe.png" style="border-width:0;width:80px;image-rendering:pixelated;"></a>     <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;width:80px;image-rendering:pixelated;" src="https://roelwillems.com/uploads/2018/da8effeec7.png">
       </center></p>
  </li>
     </ul>
