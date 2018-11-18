@@ -7,11 +7,21 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/18/to-www-or.html",
+	      	
+			"title": "∞ To www or not to www",
+			
+			"content_html": "<blockquote>\n  <p>For 20 years or so, there has been the debate over whether you should use www or not in your web site’s canonical hostname. So should you use www or not?</p>\n</blockquote>\n\n<!-- -->\n<blockquote>\n  <p>If you’re concerned about the security of whatever you have on “example.com”, make sure you slap a “www”- in front of it. If that doesn’t help you choosing whether you should use www or not, I’m not sure what will.</p>\n</blockquote>\n\n<p><a href=\"https://bjornjohansen.no/www-or-not\">To www or not to www – Should you use www or not in your domain? by Bjørn Johansen</a></p>\n\n<p>Great read on the pro’s (prettier and easier) vs cons (security regarding cookies) of using www. For my own domain I don’t use cookies (besides one Cloudflare load balancing cookie), so using the origin domain without www. is perfectly safe. But still I wonder, should I switch just to support proper and safe web techniques?</p>\n",
+			"date_published": "2018-11-18T15:56:13+01:00",
+			"url": "https://roelwillems.com/2018/11/18/to-www-or.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html",
 	      	
-			"title": "Getting your hosted Microblog IPv6 ready",
+			"title": "Micro guide: Getting your hosted Microblog IPv6 ready",
 			
-			"content_html": "<p>This is a small guide (hence the category “micro guide”) to enable IPv6[^1] for your hosted microblog[^2].</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use !(Cloudflare)[https://www.cloudflare.com] and have written another micro guide with recommendations on how-to !(enable Cloudflare for your microblog)[https://roelwillems.com/2018/04/16/micro-guide-additional.html]).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to: <em>2600:3c00:1::68c8:16d6</em>\nThis is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered.</p>\n\n<p>Save the settings and after a few minutes you can !(check if your website has support for IPv6)[https://www.internet.nl].</p>\n\n<p>[^1] What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading !(Wikipedia)[https://en.wikipedia.org/wiki/IPv6] or this !(tutorial)[https://www.tutorialspoint.com/ipv6/]<br />\n[^2] hosted with <img src=\"https://micro.blog\" alt=\"micro.blog\" />,</p>\n",
+			"content_html": "<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">“micro guide”</a>) to enable IPv6<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> for your hosted microblog<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>2600:3c00:1::68c8:16d6\n</code></pre>\n</div>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/0e062d8134.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>hosted with <a href=\"https://micro.blog\">micro.blog</a> <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-11-18T09:20:11+01:00",
 			"url": "https://roelwillems.com/2018/11/18/getting-your-hosted.html"
 		},
@@ -212,14 +222,6 @@
 			"content_html": "<p>1Blocker will be releasing a new version called <a href=\"https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36\">1Blocker X</a> on 26 April, <a href=\"https://itunes.apple.com/us/app/id1365531024?at=1l3v36d\">pre-order now available</a>. I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in.</p>\n",
 			"date_published": "2018-04-24T17:26:42+02:00",
 			"url": "https://roelwillems.com/2018/04/24/blocker-will-be.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
-	      	
-			"content_html": "<blockquote>\n  <p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles…</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
-			"date_published": "2018-04-23T22:15:30+02:00",
-			"url": "https://roelwillems.com/2018/04/23/unread-will-no.html"
 		}
 		
 	]
