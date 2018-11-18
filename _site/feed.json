@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html",
+	      	
+			"title": "Getting your hosted Microblog IPv6 ready",
+			
+			"content_html": "<p>This is a small guide (hence the category “micro guide”) to enable IPv6[^1] for your hosted microblog[^2].</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use !(Cloudflare)[https://www.cloudflare.com] and have written another micro guide with recommendations on how-to !(enable Cloudflare for your microblog)[https://roelwillems.com/2018/04/16/micro-guide-additional.html]).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to: <em>2600:3c00:1::68c8:16d6</em>\nThis is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered.</p>\n\n<p>Save the settings and after a few minutes you can !(check if your website has support for IPv6)[https://www.internet.nl].</p>\n\n<p>[^1] What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading !(Wikipedia)[https://en.wikipedia.org/wiki/IPv6] or this !(tutorial)[https://www.tutorialspoint.com/ipv6/]<br />\n[^2] hosted with <img src=\"https://micro.blog\" alt=\"micro.blog\" />,</p>\n",
+			"date_published": "2018-11-18T09:20:11+01:00",
+			"url": "https://roelwillems.com/2018/11/18/getting-your-hosted.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/17/had-some-problems.html",
 	      	
 			"content_html": "<p>Had some problems with my two year old iPhone SE, bought it in for a battery replacement today (after all it is discounted until end of the year) but to my surprise the repair is on Apple. These small things really make you feel like a valued customer.</p>\n",
@@ -210,16 +220,6 @@
 			"content_html": "<blockquote>\n  <p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles…</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
 			"date_published": "2018-04-23T22:15:30+02:00",
 			"url": "https://roelwillems.com/2018/04/23/unread-will-no.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/23/collected-goodness-good.html",
-	      	
-			"title": "∞ Collected Goodness Good material. Good art. Good living.",
-			
-			"content_html": "<p><a href=\"https://collectedgoodness.com/\">Collected Goodness.com</a> by <a href=\"http://www.coffman.co/\">Drew Coffman</a></p>\n\n<p>Very interesting and inspiring stuff, will need to look in to it more but the first recommended reads/listens seem very worthwhile.</p>\n\n<p>I also like the format a lot, it strikes a balance between linking to interesting content supplemented with quotes supported by the voice-over by Drew.  Very well done altogether.</p>\n\n<p><em>Found via: <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> (thanks!)</em></p>\n",
-			"date_published": "2018-04-23T17:33:49+02:00",
-			"url": "https://roelwillems.com/2018/04/23/collected-goodness-good.html"
 		}
 		
 	]
