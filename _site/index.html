@@ -96,25 +96,72 @@
     <article>
       
       <header>
-        <h2><a href="/2018/11/18/getting-your-hosted.html">Getting your hosted Microblog IPv6 ready</a></h2>
+        <h2><a href="/2018/11/18/to-www-or.html">∞ To www or not to www</a></h2>
       </header>
       <section class="post-body">
-        <p>This is a small guide (hence the category “micro guide”) to enable IPv6[^1] for your hosted microblog[^2].</p>
+        <blockquote>
+  <p>For 20 years or so, there has been the debate over whether you should use www or not in your web site’s canonical hostname. So should you use www or not?</p>
+</blockquote>
+
+<!-- -->
+<blockquote>
+  <p>If you’re concerned about the security of whatever you have on “example.com”, make sure you slap a “www”- in front of it. If that doesn’t help you choosing whether you should use www or not, I’m not sure what will.</p>
+</blockquote>
+
+<p><a href="https://bjornjohansen.no/www-or-not">To www or not to www – Should you use www or not in your domain? by Bjørn Johansen</a></p>
+
+<p>Great read on the pro’s (prettier and easier) vs cons (security regarding cookies) of using www. For my own domain I don’t use cookies (besides one Cloudflare load balancing cookie), so using the origin domain without www. is perfectly safe. But still I wonder, should I switch just to support proper and safe web techniques?</p>
+
+      </section>
+      
+      <a href="/2018/11/18/to-www-or.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-11-18 15:56:13 +0100" class="dt-published">→ 3:56 PM, Nov 18</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
+      <header>
+        <h2><a href="/2018/11/18/getting-your-hosted.html">Micro guide: Getting your hosted Microblog IPv6 ready</a></h2>
+      </header>
+      <section class="post-body">
+        <p>This is a small guide (hence the category <a href="https://roelwillems.com/micro-guides/">“micro guide”</a>) to enable IPv6<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup> for your hosted microblog<sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>.</p>
 
 <p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>
 
-<p>To start, you should go to your domain registrar or system to manage DNS (personally I use !(Cloudflare)[https://www.cloudflare.com] and have written another micro guide with recommendations on how-to !(enable Cloudflare for your microblog)[https://roelwillems.com/2018/04/16/micro-guide-additional.html]).</p>
+<h3 id="setting-up-ipv6">Setting up IPv6</h3>
+<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href="https://www.cloudflare.com">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href="https://roelwillems.com/2018/04/16/micro-guide-additional.html">enable Cloudflare for your microblog</a>).</p>
 
 <p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>
 
-<p>Make sure that the AAAA record is pointing to: <em>2600:3c00:1::68c8:16d6</em>
-This is the IPv6 address for hosted microblogs.
-Leave the A record (address for IPv4) and other records like CNAME unaltered.</p>
+<p>Make sure that the AAAA record is pointing to:</p>
 
-<p>Save the settings and after a few minutes you can !(check if your website has support for IPv6)[https://www.internet.nl].</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>2600:3c00:1::68c8:16d6
+</code></pre>
+</div>
 
-<p>[^1] What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading !(Wikipedia)[https://en.wikipedia.org/wiki/IPv6] or this !(tutorial)[https://www.tutorialspoint.com/ipv6/]<br />
-[^2] hosted with <img src="https://micro.blog" alt="micro.blog" />,</p>
+<p>This is the IPv6 address for hosted microblogs.
+Leave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>
+
+<p><img src="http://roelwillems.com/uploads/2018/0e062d8134.png" alt="example of DNS records" /></p>
+
+<p>Save the settings and after a few minutes you can <a href="https://www.internet.nl">check if your website has support for IPv6</a>.</p>
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href="https://en.wikipedia.org/wiki/IPv6">Wikipedia</a> or look in to this <a href="https://www.tutorialspoint.com/ipv6/">tutorial</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+    <li id="fn:2">
+      <p>hosted with <a href="https://micro.blog">micro.blog</a> <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
       </section>
       
@@ -739,31 +786,6 @@ Self-driving technology will make ride-sharing services cheap, practical and may
       <a href="/2018/04/24/blocker-will-be.html" class="u-url">
         <aside class="dates">
           <time datetime="2018-04-24 17:26:42 +0200" class="dt-published">→ 5:26 PM, Apr 24</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <section class="post-body">
-        <blockquote>
-  <p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles…</p>
-</blockquote>
-
-<p><img src="https://dsh.re/c19a2" alt="Unread adds support for untitled articles" /></p>
-
-<p>Less is more</p>
-
-<p><em>Source: <a href="https://burk.io/2018/04/23/this-should-be.html">burk.io</a></em></p>
-
-      </section>
-      
-      <a href="/2018/04/23/unread-will-no.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-04-23 22:15:30 +0200" class="dt-published">→ 10:15 PM, Apr 23</time>
         </aside>
       </a>
     </article>
