@@ -7,9 +7,19 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/18/to-www-or.html",
+	      	
+			"title": "∞ To www or not to www",
+			
+			"content_text": "For 20 years or so, there has been the debate...",
+			"date_published": "2018-11-18T15:56:13+01:00",
+			"url": "https://roelwillems.com/2018/11/18/to-www-or.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html",
 	      	
-			"title": "Getting your hosted Microblog IPv6 ready",
+			"title": "Micro guide: Getting your hosted Microblog IPv6 ready",
 			
 			"content_text": "This is a small guide (hence the category “micro guide”)...",
 			"date_published": "2018-11-18T09:20:11+01:00",
