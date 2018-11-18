@@ -4,29 +4,67 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Sun, 18 Nov 2018 09:21:07 +0100</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 09:21:07 +0100</lastBuildDate>
+    <pubDate>Sun, 18 Nov 2018 21:54:23 +0100</pubDate>
+    <lastBuildDate>Sun, 18 Nov 2018 21:54:23 +0100</lastBuildDate>
     
       <item>
       	
-        <title>Getting your hosted Microblog IPv6 ready</title>
+        <title>∞ To www or not to www</title>
         
-        <description>&lt;p&gt;This is a small guide (hence the category “micro guide”) to enable IPv6[^1] for your hosted microblog[^2].&lt;/p&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;For 20 years or so, there has been the debate over whether you should use www or not in your web site’s canonical hostname. So should you use www or not?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;If you’re concerned about the security of whatever you have on “example.com”, make sure you slap a “www”- in front of it. If that doesn’t help you choosing whether you should use www or not, I’m not sure what will.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bjornjohansen.no/www-or-not&quot;&gt;To www or not to www – Should you use www or not in your domain? by Bjørn Johansen&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Great read on the pro’s (prettier and easier) vs cons (security regarding cookies) of using www. For my own domain I don’t use cookies (besides one Cloudflare load balancing cookie), so using the origin domain without www. is perfectly safe. But still I wonder, should I switch just to support proper and safe web techniques?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Nov 2018 15:56:13 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/18/to-www-or.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/18/to-www-or.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>Micro guide: Getting your hosted Microblog IPv6 ready</title>
+        
+        <description>&lt;p&gt;This is a small guide (hence the category &lt;a href=&quot;https://roelwillems.com/micro-guides/&quot;&gt;“micro guide”&lt;/a&gt;) to enable IPv6&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; for your hosted microblog&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;To start, you should go to your domain registrar or system to manage DNS (personally I use !(Cloudflare)[https://www.cloudflare.com] and have written another micro guide with recommendations on how-to !(enable Cloudflare for your microblog)[https://roelwillems.com/2018/04/16/micro-guide-additional.html]).&lt;/p&gt;
+&lt;h3 id=&quot;setting-up-ipv6&quot;&gt;Setting up IPv6&lt;/h3&gt;
+&lt;p&gt;To start, you should go to your domain registrar or system to manage DNS (personally I use &lt;a href=&quot;https://www.cloudflare.com&quot;&gt;Cloudflare&lt;/a&gt; and have written another micro guide with recommendations on how-to &lt;a href=&quot;https://roelwillems.com/2018/04/16/micro-guide-additional.html&quot;&gt;enable Cloudflare for your microblog&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).&lt;/p&gt;
 
-&lt;p&gt;Make sure that the AAAA record is pointing to: &lt;em&gt;2600:3c00:1::68c8:16d6&lt;/em&gt;
-This is the IPv6 address for hosted microblogs.
-Leave the A record (address for IPv4) and other records like CNAME unaltered.&lt;/p&gt;
+&lt;p&gt;Make sure that the AAAA record is pointing to:&lt;/p&gt;
 
-&lt;p&gt;Save the settings and after a few minutes you can !(check if your website has support for IPv6)[https://www.internet.nl].&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2600:3c00:1::68c8:16d6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
-&lt;p&gt;[^1] What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading !(Wikipedia)[https://en.wikipedia.org/wiki/IPv6] or this !(tutorial)[https://www.tutorialspoint.com/ipv6/]&lt;br /&gt;
-[^2] hosted with &lt;img src=&quot;https://micro.blog&quot; alt=&quot;micro.blog&quot; /&gt;,&lt;/p&gt;
+&lt;p&gt;This is the IPv6 address for hosted microblogs.
+Leave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://roelwillems.com/uploads/2018/0e062d8134.png&quot; alt=&quot;example of DNS records&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Save the settings and after a few minutes you can &lt;a href=&quot;https://www.internet.nl&quot;&gt;check if your website has support for IPv6&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading &lt;a href=&quot;https://en.wikipedia.org/wiki/IPv6&quot;&gt;Wikipedia&lt;/a&gt; or look in to this &lt;a href=&quot;https://www.tutorialspoint.com/ipv6/&quot;&gt;tutorial&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;hosted with &lt;a href=&quot;https://micro.blog&quot;&gt;micro.blog&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Sun, 18 Nov 2018 09:20:11 +0100</pubDate>
         <link>https://roelwillems.com/2018/11/18/getting-your-hosted.html</link>
