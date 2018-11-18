@@ -13,13 +13,14 @@ nav.main-nav a.cta:hover {
 	color: #CFB53B;
 }
 
-nav.main-nav a, #footer a, #post-nav a, p a{
+nav.main-nav a, #footer a, #post-nav a, p a, li a{
    box-shadow: inset 0 -2px 0 #F0E68C;
 }
 
-nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
+nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover, li a:hover {
 	box-shadow: inset 0 -25px 0 #F0E68C;
 }
+
 .footnote{
 font-size: xx-small;
 vertical-align: top;
