@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-10 19:41:39 +0100
 guid: http://roelwillems.micro.blog/2018/04/10/the-battery-of.html
 ---
