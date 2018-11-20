@@ -3,6 +3,7 @@ layout: post
 title: "∞ Lasting appeal of RSS"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-03 22:22:14 +0100
 guid: http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html
 ---
