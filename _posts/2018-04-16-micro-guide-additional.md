@@ -3,6 +3,7 @@ layout: post
 title: "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-16 21:19:43 +0100
 guid: http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html
 ---
