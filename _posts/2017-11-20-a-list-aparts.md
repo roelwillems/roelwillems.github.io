@@ -3,6 +3,7 @@ layout: post
 title: "∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks"
 microblog: false
 audio: 
+photo: 
 date: 2017-11-20 21:13:33 +0100
 guid: http://roelwillems.micro.blog/2017/11/20/a-list-aparts.html
 ---
