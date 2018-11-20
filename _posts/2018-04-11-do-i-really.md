@@ -3,6 +3,7 @@ layout: post
 title: "Do I really need to switch Text Editors?"
 microblog: false
 audio: 
+photo: http://roelwillems.com/uploads/2018/dc5525c2df.jpg
 date: 2018-04-11 20:58:18 +0100
 guid: http://roelwillems.micro.blog/2018/04/11/do-i-really.html
 ---
