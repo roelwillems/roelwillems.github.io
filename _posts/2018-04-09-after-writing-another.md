@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-09 21:38:09 +0100
 guid: http://roelwillems.micro.blog/2018/04/09/after-writing-another.html
 ---
