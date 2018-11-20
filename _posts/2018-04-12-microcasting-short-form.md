@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-12 20:41:04 +0100
 guid: http://roelwillems.micro.blog/2018/04/12/microcasting-short-form.html
 ---
