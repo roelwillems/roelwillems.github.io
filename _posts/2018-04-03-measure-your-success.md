@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-03 21:39:09 +0100
 guid: http://roelwillems.micro.blog/2018/04/03/measure-your-success.html
 ---
