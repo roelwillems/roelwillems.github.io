@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-07 14:07:50 +0100
 guid: http://roelwillems.micro.blog/2018/05/07/for-the-new.html
 ---
