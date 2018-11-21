@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: https://roelwillems.com/uploads/2018/0ac7e11135.jpg
 date: 2018-05-25 09:34:09 +0100
 guid: http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html
 ---
