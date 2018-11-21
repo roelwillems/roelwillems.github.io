@@ -3,6 +3,7 @@ layout: post
 title: "Micro Guides: small articles which can be of great help"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-16 20:52:38 +0100
 guid: http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html
 ---
