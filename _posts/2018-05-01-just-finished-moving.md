@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-01 21:21:27 +0100
 guid: http://roelwillems.micro.blog/2018/05/01/just-finished-moving.html
 ---
