@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-18 20:45:40 +0100
 guid: http://roelwillems.micro.blog/2018/04/18/today-ive-switched.html
 ---
