@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-05-03 21:08:11 +0100
 guid: http://roelwillems.micro.blog/2018/05/03/looking-in-to.html
 ---
