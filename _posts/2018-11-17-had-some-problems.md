@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-17 22:57:06 +0100
 guid: http://roelwillems.micro.blog/2018/11/17/had-some-problems.html
 ---
