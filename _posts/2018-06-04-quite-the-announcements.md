@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-04 20:03:46 +0100
 guid: http://roelwillems.micro.blog/2018/06/04/quite-the-announcements.html
 ---
