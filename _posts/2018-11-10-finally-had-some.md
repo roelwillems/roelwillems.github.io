@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-11 00:24:06 +0100
 guid: http://roelwillems.micro.blog/2018/11/10/finally-had-some.html
 ---
