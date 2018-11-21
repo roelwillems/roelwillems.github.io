@@ -3,6 +3,7 @@ layout: post
 title: "Micro guide: Getting your hosted Microblog IPv6 ready"
 microblog: false
 audio: 
+photo: 
 date: 2018-11-18 09:20:11 +0100
 guid: http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html
 ---
@@ -22,7 +23,7 @@ Make sure that the AAAA record is pointing to:
 This is the IPv6 address for hosted microblogs.
 Leave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:
 
-![example of DNS records](http://roelwillems.com/uploads/2018/0e062d8134.png)
+![example of DNS records](https://roelwillems.com/uploads/2018/99b7b82333.png)
 
 Save the settings and after a few minutes you can [check if your website has support for IPv6](https://www.internet.nl).
 
