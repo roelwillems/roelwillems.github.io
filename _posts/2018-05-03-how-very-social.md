@@ -3,6 +3,7 @@ layout: post
 title: "How very social"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-03 23:06:25 +0100
 guid: http://roelwillems.micro.blog/2018/05/03/how-very-social.html
 ---
