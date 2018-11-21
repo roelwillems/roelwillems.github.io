@@ -3,6 +3,7 @@ layout: post
 title: "Facebook accused of  extremists to one another through ‘suggested friends’ feature (The Telegraph)"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-09 15:28:53 +0100
 guid: http://roelwillems.micro.blog/2018/05/09/facebook-accused-of.html
 ---
