@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-18 21:17:54 +0100
 guid: http://roelwillems.micro.blog/2018/04/18/far-more-than.html
 ---
