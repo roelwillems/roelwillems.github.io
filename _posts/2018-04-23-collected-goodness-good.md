@@ -3,6 +3,7 @@ layout: post
 title: "∞ Collected Goodness Good material. Good art. Good living."
 microblog: false
 audio: 
+photo: 
 date: 2018-04-23 16:33:49 +0100
 guid: http://roelwillems.micro.blog/2018/04/23/collected-goodness-good.html
 ---
