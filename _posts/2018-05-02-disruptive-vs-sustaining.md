@@ -3,6 +3,7 @@ layout: post
 title: "Disruptive vs Sustaining innovation and the Tesla case"
 microblog: false
 audio: 
+photo: 
 date: 2018-05-02 20:57:02 +0100
 guid: http://roelwillems.micro.blog/2018/05/02/disruptive-vs-sustaining.html
 ---
