@@ -3,6 +3,7 @@ layout: post
 title: "This will be interesting.."
 microblog: false
 audio: 
+photo: 
 date: 2018-04-25 15:09:05 +0100
 guid: http://roelwillems.micro.blog/2018/04/25/this-will-be.html
 ---
