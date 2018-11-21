@@ -3,6 +3,7 @@ layout: post
 title: "∞ It’s all about perspective"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-17 22:18:33 +0100
 guid: http://roelwillems.micro.blog/2018/04/17/its-all-about.html
 ---
