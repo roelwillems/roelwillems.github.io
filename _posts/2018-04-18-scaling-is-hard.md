@@ -3,6 +3,7 @@ layout: post
 title: "Scaling is hard"
 microblog: false
 audio: 
+photo: 
 date: 2018-04-18 23:29:54 +0100
 guid: http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html
 ---
