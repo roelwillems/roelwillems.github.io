@@ -1,0 +1,34 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Roel Willems",
+	"icon": "https://micro.blog/roelwillems/avatar.jpg",
+	"home_page_url": "https://roelwillems.com/",
+	"feed_url": "https://roelwillems.com/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
+			
+			"content_text": "<p>Instapaper has temporary shut down for EU residents. I’m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" /></p>\n",
+			"date_published": "2018-05-25T10:34:09+02:00",
+			"url": "https://roelwillems.com/2018/05/25/instapaper-has-temporary.html",
+			"image": "https://roelwillems.com/uploads/2018/0ac7e11135.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/https://roelwillems.com/uploads/2018/0ac7e11135.jpg"
+			}
+		},
+		{
+			"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
+			
+			"title": "Do I really need to switch Text Editors?",
+			
+			"content_text": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. Although after quickly skimming the article, some part did caught my attention.</p>\n\n<blockquote>\n  <p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n  <p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>Being open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" /></p>\n",
+			"date_published": "2018-04-11T21:58:18+02:00",
+			"url": "https://roelwillems.com/2018/04/11/do-i-really.html",
+			"image": "http://roelwillems.com/uploads/2018/dc5525c2df.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://roelwillems.com/uploads/2018/dc5525c2df.jpg"
+			}
+		}
+	]
+}
