@@ -7,6 +7,52 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/22/the-beauty-within.html",
+	      	
+			"title": "The beauty within",
+			
+			"content_text": "I like words. I like plain and simple thoughts and...",
+			"date_published": "2018-11-22T22:24:56+01:00",
+			"url": "https://roelwillems.com/2018/11/22/the-beauty-within.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/21/talk-the-talk.html",
+	      	
+			"title": "∞ Sorry Mark Zuckerberg, Facebook isn’t a “positive force”",
+			
+			"content_text": "In a Tuesday interview with CNN, Mark Zuckerberg defended Facebook’s...",
+			"date_published": "2018-11-21T22:27:18+01:00",
+			"url": "https://roelwillems.com/2018/11/21/talk-the-talk.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/20/dark-mode-support.html",
+	      	
+			"content_text": "Dark mode support for the Marfa theme done! You can...",
+			"date_published": "2018-11-20T22:27:25+01:00",
+			"url": "https://roelwillems.com/2018/11/20/dark-mode-support.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/20/working-on-enabling.html",
+	      	
+			"content_text": "Working on enabling Safari dark mode support on the Micro.blog...",
+			"date_published": "2018-11-20T21:36:21+01:00",
+			"url": "https://roelwillems.com/2018/11/20/working-on-enabling.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/19/computers-have-learned.html",
+	      	
+			"title": "∞ Computers have learned to make us jump through hoops ",
+			
+			"content_text": "The other day I had to log in to a...",
+			"date_published": "2018-11-19T11:53:35+01:00",
+			"url": "https://roelwillems.com/2018/11/19/computers-have-learned.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/18/to-www-or.html",
 	      	
 			"title": "∞ To www or not to www",
