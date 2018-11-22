@@ -1,16 +1,92 @@
+@media (prefers-color-scheme: dark) {
+body{
+		background: #1b1b1b;
+		color: #fff;
+	}
+
+    h1 {
+        color:#fff;
+    }
+
+  nav.main-nav{
+		background: #1b1b1b;
+		color: #fff;
+	}
+
+      nav.main-nav a {
+	color: #fff;
+}
+  
+        nav.main-nav a:hover {
+	color: #000;
+}
+  
+    nav.main-nav a.cta {
+    background: #000;
+    color: #fff;
+}
+
+  nav.main-nav a.cta:hover {
+	background: #1af;
+	color: #000;
+}
+  a, p a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover, p a:hover{
+    color: #000;
+}
+  .p-role a:hover{
+    	color: #fff;
+    	text-decoration: underline;
+}
+  #footer a{
+    	color: #fff;
+}
+   #footer a:hover{
+    	color: #000;
+}
+  
+}
+
+@media (prefers-color-scheme: light) {
+ body {
+		background: #fff;
+		color: #666;
+	}
+
+ nav.main-nav{
+		background: #fff;
+		color: #666;
+	}
+
+  nav.main-nav a.cta:hover {
+	background: #F0E68C;
+    color: #fff;
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+  nav.main-nav a.cta {
+    background: #fff;
+ } 
+}
+
 body {
-    font: 1.2em avenir next,Avenir,-apple-system,Helvetica,Arial,sans-serif;
+     font: 1.2em avenir next,Avenir,-apple-system,Helvetica,Arial,sans-serif;
 }
 
 nav.main-nav a.cta {
-	background: #fff;
 	color: #CFB53B;
 	border: 2px solid #F0E68C;
 }
 
 nav.main-nav a.cta:hover {
 	background: #F0E68C;
-	color: #CFB53B;
+  	color: #000;
 }
 
 nav.main-nav a, #footer a, #post-nav a, p a, li a{
@@ -49,4 +125,9 @@ vertical-align: top;
 
 .p-role{
     	font-size: small;
+}
+
+.p-role a:hover{
+    	color: #fff;
+    	text-decoration: underline;
 }
