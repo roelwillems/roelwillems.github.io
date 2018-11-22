@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 order: -1
 navigation: true
-date: 2018-11-15 12:53:34 +0100
+date: 2018-11-21 23:03:09 +0100
 ---
 Welcome to my blog. 
 
@@ -14,7 +14,7 @@ This is my own space on the internet and used as a poster wall of all I find int
 
 I work at Albert Heijn Online (part of Ahold Delhaize) leading the analytics, data science and experimentation team. 
 
-For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](https://eliminateguess.work).
+For analytics, data science and Experimentation focused content please visit [Eliminateguess.work](https://eliminateguess.work). (moving the content is work in progress)
 
 You can find my photography at [maintainingfocus.com](https://maintainingfocus.com).
 
