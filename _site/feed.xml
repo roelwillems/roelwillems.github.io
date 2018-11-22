@@ -4,8 +4,118 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Sun, 18 Nov 2018 21:54:23 +0100</pubDate>
-    <lastBuildDate>Sun, 18 Nov 2018 21:54:23 +0100</lastBuildDate>
+    <pubDate>Thu, 22 Nov 2018 22:27:48 +0100</pubDate>
+    <lastBuildDate>Thu, 22 Nov 2018 22:27:48 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <title>The beauty within</title>
+        
+        <description>&lt;p&gt;I like words. I like plain and simple thoughts and stories written down. For as long as the internet existed it has been a great place to read and write. But while the web has been ever increasingly gaining advancements in design and complexity, I value… no, I crave, simplicity.&lt;/p&gt;
+
+&lt;p&gt;Almost all of the web today is geared toward gaining attention and &lt;em&gt;eyeballs&lt;/em&gt;. Every year, with every advancement, I feel we distance ourselves more and more from what is really valuable for these mere &lt;em&gt;eyeballs&lt;/em&gt; (also known as humans).&lt;/p&gt;
+
+&lt;p&gt;At most websites, you have to click through a jungle of stuff which only distracts from their main objective (just to name a few: Medium, Youtube and almost all news outlets on the web).
+And although I fully understand the business objectives driving these decisions, I feel there is a quality to simplicity and not being over-designed. In my opinion, it adds character.&lt;/p&gt;
+
+&lt;p&gt;Plain words on a plain website.&lt;/p&gt;
+
+&lt;p&gt;Most of the time your message will not be more clearly expressed when surrounded by fancy stuff let alone a bombardment of ads and messages.&lt;/p&gt;
+
+&lt;p&gt;Plain words on a website are in my opinion just like a vinyl record. And just like people enjoy listening to a vinyl record, it’s not about audio perfection or having all bells and whistles. It’s completely the opposite.&lt;/p&gt;
+
+&lt;p&gt;To take the music analogy a step future. A super clean production of a mediocre song can become a hit (with the right influences and paid-airtime), but be all forgotten about in a year or so. “Perfection” gets boring most often.
+The song that an artist (possibly with less vocal quality or marketing budget) just had to put out there has the potential to become legendary. Because it has meaning and its roughness only adds to its quality.&lt;/p&gt;
+
+&lt;p&gt;With words, like music, it’s also not about perfection but about meaning.&lt;/p&gt;
+
+&lt;p&gt;When writing we should feel like an artist making a song. Making a song not because it will show our vocal capabilities best, but because it’s a song that has to be made, has to be heard.&lt;/p&gt;
+
+&lt;p&gt;The same goes for words, the beauty is in meaning.&lt;/p&gt;
+
+&lt;p&gt;Just feel free to write.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This post is as much reminding myself that my writing doesn’t have to be perfect as supporting everyone reading this to just write down what you feel you have to say, let’s just do this!&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 22:24:56 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/22/the-beauty-within.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/22/the-beauty-within.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>∞ Sorry Mark Zuckerberg, Facebook isn’t a “positive force”</title>
+        
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;In a Tuesday interview with CNN, Mark Zuckerberg defended Facebook’s handling of recent scandals and his own leadership of the company. He flatly rejected calls to give up his position as the chairman of Facebook’s board and said he had no plans to fire his top deputy, Sheryl Sandberg.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;People like to mock Google’s “don’t be evil” slogan, but the company really has made difficult calls in the past—like pulling out of China over pressure to build a censored search engine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;By contrast, Facebook only seems to care about promoting the continued growth of Facebook.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/&quot;&gt;arstechnica.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The inability of Facebook to change after an increasing number of incedents and scandals is shocking. Although Google shouldn’t be presented as a poster boy, the differences does show. Talk the talk … walk the walk&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Nov 2018 22:27:18 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/21/talk-the-talk.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/21/talk-the-talk.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Dark mode support for the Marfa theme done! You can take a look using &lt;a href=&quot;https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/&quot;&gt;Safari Technology Preview 68&lt;/a&gt; with Dark mode enabled in OSx. Marfa theme wil switch dark/light depending on your system prefs.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Nov 2018 22:27:25 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/20/dark-mode-support.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/20/dark-mode-support.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Working on enabling &lt;a href=&quot;https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/&quot;&gt;Safari dark mode&lt;/a&gt; support on the Micro.blog Marfa theme, almost done:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/383b0333a4.png&quot; alt=&quot;dark mode support&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Nov 2018 21:36:21 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/20/working-on-enabling.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/20/working-on-enabling.html</guid>
+      </item>
+    
+      <item>
+      	
+        <title>∞ Computers have learned to make us jump through hoops </title>
+        
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The other day I had to log in to a service I hadn’t used before. Since I was a new user, the website decided that it needed to check that I wasn’t a robot and so set me a Captcha (Completely Automated Public &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Turing_test&quot;&gt;Turing test&lt;/a&gt; to tell Computers and Humans Apart). This is a challenge-response test to enable a computer to determine whether the user is a person rather than a machine.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;!-- --&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn’t tell whether it was a human or a robot. So we have wandered into a topsy-turvy world in which machines make us jump through hoops to prove that we are humans!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although it’s clearly human ingenuity transforming us to unpaid “click workers” training A.I, but regardless it’s still a very interesting case.&lt;/p&gt;
+
+&lt;p&gt;It makes you wonder what could happen if an A.I. would learn and deploy this on its own. And although I don’t think this would happen in the very near future, we should think about unforeseen consequences (as almost all technology and legislations bring in there wake).&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;P.S. Personally I find the types of CAPTCHAs presented to us very interesting. It gives insight in the current focus of developments in machine learning and A.I. Will be very interesting to see what will be next after road signs and store fronts.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.theguardian.com/technology/commentisfree/2018/nov/18/computers-have-learned-to-make-us-jump-through-hoops&quot;&gt;Computers have learned to make us jump through hoops&lt;/a&gt; - The Guardian&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Nov 2018 11:53:35 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/19/computers-have-learned.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/19/computers-have-learned.html</guid>
+      </item>
     
       <item>
       	
@@ -51,7 +161,7 @@
 &lt;p&gt;This is the IPv6 address for hosted microblogs.
 Leave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://roelwillems.com/uploads/2018/0e062d8134.png&quot; alt=&quot;example of DNS records&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/99b7b82333.png&quot; alt=&quot;example of DNS records&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Save the settings and after a few minutes you can &lt;a href=&quot;https://www.internet.nl&quot;&gt;check if your website has support for IPv6&lt;/a&gt;.&lt;/p&gt;
 
@@ -90,7 +200,7 @@ Leave the A record (address for IPv4) and other records like CNAME unaltered. Ba
 
 &lt;p&gt;Although I don’t expect many people to use my content, consider it my contributions to a free and open internet.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-11-17-10-31-54.png&quot; alt=&quot;Image of the footer&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/0ef0f6811e.png&quot; alt=&quot;Image of the footer&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -141,7 +251,7 @@ Leave the A record (address for IPv4) and other records like CNAME unaltered. Ba
         <description>&lt;p&gt;&lt;strong&gt;Row Log Update&lt;/strong&gt; 🚣‍♂️&lt;br /&gt;
 Calendar Week: 19&lt;br /&gt;
 Workout: 7,034 meters /500m: 2:07&lt;br /&gt;
-&lt;img src=&quot;https://dsh.re/72f22&quot; alt=&quot;workout&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://roelwillems.com/uploads/2018/a9c1709c17.jpg&quot; alt=&quot;workout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Total Meters&lt;/strong&gt;&lt;br /&gt;
 This Week: 7,034&lt;br /&gt;
@@ -161,7 +271,7 @@ Just a basic row to get some meters on the erg&lt;/p&gt;
         <description>&lt;p&gt;&lt;strong&gt;Row Log Update&lt;/strong&gt; 🚣‍♂️&lt;br /&gt;
 Calendar Week: 18&lt;br /&gt;
 Workout: 6.855 meters /500m: 2:11&lt;br /&gt;
-&lt;img src=&quot;https://dsh.re/7fc03&quot; alt=&quot;workout&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://roelwillems.com/uploads/2018/70d85c2269.jpg&quot; alt=&quot;workout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Total Meters&lt;/strong&gt;&lt;br /&gt;
 This Week: 27.614&lt;br /&gt;
@@ -226,7 +336,7 @@ Interval: 2000m 1500m 1000m 500m at 2:00 target. Did experiment with different s
       	
         <description>&lt;p&gt;&lt;strong&gt;Row Log Update&lt;/strong&gt; 🚣‍♂️&lt;br /&gt;
 Calendar Week: 18
-&lt;img src=&quot;https://f000.backblazeb2.com/file/Roel-Share/Concept-2-20180508.jpg&quot; alt=&quot;Workout&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://roelwillems.com/uploads/2018/83a4bd044f.jpg&quot; alt=&quot;Workout&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Total Meters&lt;/strong&gt;&lt;br /&gt;
 This Week: 12.082&lt;br /&gt;
@@ -419,7 +529,7 @@ Self-driving technology will make ride-sharing services cheap, practical and may
     
       <item>
       	
-        <description>&lt;p&gt;&lt;img src=&quot;https://f000.backblazeb2.com/file/Roel-Share/maratoncent-chall-2018-web.png&quot; alt=&quot;Concept2 Marathon challenge&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/37f2320bca.png&quot; alt=&quot;Concept2 Marathon challenge&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://log.concept2.com/challenges/marathon&quot;&gt;Challenge&lt;/a&gt; accepted&lt;/p&gt;
 </description>
@@ -430,7 +540,7 @@ Self-driving technology will make ride-sharing services cheap, practical and may
     
       <item>
       	
-        <description>&lt;p&gt;&lt;img src=&quot;https://dsh.re/9e2704&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;https://roelwillems.com/uploads/2018/2ee2241835.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The joys of technology: That moment when your TV asks you for GDPR consent.&lt;/p&gt;
 </description>
@@ -907,45 +1017,6 @@ And although probably not growing in new users for quite some time, for people s
         <pubDate>Tue, 03 Apr 2018 22:39:09 +0200</pubDate>
         <link>https://roelwillems.com/2018/04/03/measure-your-success.html</link>
         <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/03/measure-your-success.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>∞ Cloudflare launches </title>
-        
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Cloudflare’s mission is to help build a better Internet.
-We’re excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet’s fastest, privacy-first consumer DNS service.
-…
-for most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.
-…
-The problem is that these DNS services are often slow and not privacy respecting.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Although I like Cloudflare, I’m not sure what to think regarding there recent news regarding their own &lt;a href=&quot;https://blog.cloudflare.com/announcing-1111/&quot;&gt;DNS service&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 02 Apr 2018 21:49:08 +0200</pubDate>
-        <link>https://roelwillems.com/2018/04/02/although-i-like.html</link>
-        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/02/although-i-like.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks</title>
-        
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. …. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://alistapart.com/article/new-a-list-apart-wants-you&quot;&gt;A list apart&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I couldn’t agree more to this statement. With some centralized players growing more  powerfull with each day passing, it’s more important to support diversity, independent content creation and keep ownership of your content.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 20 Nov 2017 21:13:33 +0100</pubDate>
-        <link>https://roelwillems.com/2017/11/20/a-list-aparts.html</link>
-        <guid isPermaLink="true">http://roelwillems.micro.blog/2017/11/20/a-list-aparts.html</guid>
       </item>
     
   </channel>
