@@ -7,6 +7,52 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/22/the-beauty-within.html",
+	      	
+			"title": "The beauty within",
+			
+			"content_html": "<p>I like words. I like plain and simple thoughts and stories written down. For as long as the internet existed it has been a great place to read and write. But while the web has been ever increasingly gaining advancements in design and complexity, I value… no, I crave, simplicity.</p>\n\n<p>Almost all of the web today is geared toward gaining attention and <em>eyeballs</em>. Every year, with every advancement, I feel we distance ourselves more and more from what is really valuable for these mere <em>eyeballs</em> (also known as humans).</p>\n\n<p>At most websites, you have to click through a jungle of stuff which only distracts from their main objective (just to name a few: Medium, Youtube and almost all news outlets on the web).\nAnd although I fully understand the business objectives driving these decisions, I feel there is a quality to simplicity and not being over-designed. In my opinion, it adds character.</p>\n\n<p>Plain words on a plain website.</p>\n\n<p>Most of the time your message will not be more clearly expressed when surrounded by fancy stuff let alone a bombardment of ads and messages.</p>\n\n<p>Plain words on a website are in my opinion just like a vinyl record. And just like people enjoy listening to a vinyl record, it’s not about audio perfection or having all bells and whistles. It’s completely the opposite.</p>\n\n<p>To take the music analogy a step future. A super clean production of a mediocre song can become a hit (with the right influences and paid-airtime), but be all forgotten about in a year or so. “Perfection” gets boring most often.\nThe song that an artist (possibly with less vocal quality or marketing budget) just had to put out there has the potential to become legendary. Because it has meaning and its roughness only adds to its quality.</p>\n\n<p>With words, like music, it’s also not about perfection but about meaning.</p>\n\n<p>When writing we should feel like an artist making a song. Making a song not because it will show our vocal capabilities best, but because it’s a song that has to be made, has to be heard.</p>\n\n<p>The same goes for words, the beauty is in meaning.</p>\n\n<p>Just feel free to write.</p>\n\n<p><em>This post is as much reminding myself that my writing doesn’t have to be perfect as supporting everyone reading this to just write down what you feel you have to say, let’s just do this!</em></p>\n",
+			"date_published": "2018-11-22T22:24:56+01:00",
+			"url": "https://roelwillems.com/2018/11/22/the-beauty-within.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/21/talk-the-talk.html",
+	      	
+			"title": "∞ Sorry Mark Zuckerberg, Facebook isn’t a “positive force”",
+			
+			"content_html": "<blockquote>\n  <p>In a Tuesday interview with CNN, Mark Zuckerberg defended Facebook’s handling of recent scandals and his own leadership of the company. He flatly rejected calls to give up his position as the chairman of Facebook’s board and said he had no plans to fire his top deputy, Sheryl Sandberg.</p>\n</blockquote>\n\n<!-- -->\n<blockquote>\n  <p>People like to mock Google’s “don’t be evil” slogan, but the company really has made difficult calls in the past—like pulling out of China over pressure to build a censored search engine.</p>\n</blockquote>\n\n<!-- -->\n<blockquote>\n  <p>By contrast, Facebook only seems to care about promoting the continued growth of Facebook.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/\">arstechnica.com</a></p>\n\n<p>The inability of Facebook to change after an increasing number of incedents and scandals is shocking. Although Google shouldn’t be presented as a poster boy, the differences does show. Talk the talk … walk the walk</p>\n",
+			"date_published": "2018-11-21T22:27:18+01:00",
+			"url": "https://roelwillems.com/2018/11/21/talk-the-talk.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/20/dark-mode-support.html",
+	      	
+			"content_html": "<p>Dark mode support for the Marfa theme done! You can take a look using <a href=\"https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/\">Safari Technology Preview 68</a> with Dark mode enabled in OSx. Marfa theme wil switch dark/light depending on your system prefs.</p>\n",
+			"date_published": "2018-11-20T22:27:25+01:00",
+			"url": "https://roelwillems.com/2018/11/20/dark-mode-support.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/20/working-on-enabling.html",
+	      	
+			"content_html": "<p>Working on enabling <a href=\"https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/\">Safari dark mode</a> support on the Micro.blog Marfa theme, almost done:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/383b0333a4.png\" alt=\"dark mode support\" /></p>\n\n<p><em>P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.</em></p>\n",
+			"date_published": "2018-11-20T21:36:21+01:00",
+			"url": "https://roelwillems.com/2018/11/20/working-on-enabling.html"
+		},
+		
+		{
+			"id": "http://roelwillems.micro.blog/2018/11/19/computers-have-learned.html",
+	      	
+			"title": "∞ Computers have learned to make us jump through hoops ",
+			
+			"content_html": "<blockquote>\n  <p>The other day I had to log in to a service I hadn’t used before. Since I was a new user, the website decided that it needed to check that I wasn’t a robot and so set me a Captcha (Completely Automated Public <a href=\"https://en.m.wikipedia.org/wiki/Turing_test\">Turing test</a> to tell Computers and Humans Apart). This is a challenge-response test to enable a computer to determine whether the user is a person rather than a machine.</p>\n</blockquote>\n\n<!-- -->\n<blockquote>\n  <p>But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn’t tell whether it was a human or a robot. So we have wandered into a topsy-turvy world in which machines make us jump through hoops to prove that we are humans!</p>\n</blockquote>\n\n<p>Although it’s clearly human ingenuity transforming us to unpaid “click workers” training A.I, but regardless it’s still a very interesting case.</p>\n\n<p>It makes you wonder what could happen if an A.I. would learn and deploy this on its own. And although I don’t think this would happen in the very near future, we should think about unforeseen consequences (as almost all technology and legislations bring in there wake).</p>\n\n<p><em>P.S. Personally I find the types of CAPTCHAs presented to us very interesting. It gives insight in the current focus of developments in machine learning and A.I. Will be very interesting to see what will be next after road signs and store fronts.</em></p>\n\n<p><a href=\"https://www.theguardian.com/technology/commentisfree/2018/nov/18/computers-have-learned-to-make-us-jump-through-hoops\">Computers have learned to make us jump through hoops</a> - The Guardian</p>\n",
+			"date_published": "2018-11-19T11:53:35+01:00",
+			"url": "https://roelwillems.com/2018/11/19/computers-have-learned.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/18/to-www-or.html",
 	      	
 			"title": "∞ To www or not to www",
@@ -21,7 +67,7 @@
 	      	
 			"title": "Micro guide: Getting your hosted Microblog IPv6 ready",
 			
-			"content_html": "<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">“micro guide”</a>) to enable IPv6<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> for your hosted microblog<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>2600:3c00:1::68c8:16d6\n</code></pre>\n</div>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"http://roelwillems.com/uploads/2018/0e062d8134.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>hosted with <a href=\"https://micro.blog\">micro.blog</a> <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"content_html": "<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">“micro guide”</a>) to enable IPv6<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> for your hosted microblog<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn’t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>2600:3c00:1::68c8:16d6\n</code></pre>\n</div>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/99b7b82333.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n    <li id=\"fn:2\">\n      <p>hosted with <a href=\"https://micro.blog\">micro.blog</a> <a href=\"#fnref:2\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-11-18T09:20:11+01:00",
 			"url": "https://roelwillems.com/2018/11/18/getting-your-hosted.html"
 		},
@@ -39,7 +85,7 @@
 	      	
 			"title": "Creative commons licence ",
 			
-			"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the “Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)” to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<p>Although I don’t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-11-17-10-31-54.png\" alt=\"Image of the footer\" /></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Although I believe it would be a good thing for the internet and it’s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the “Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)” to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<p>Although I don’t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/0ef0f6811e.png\" alt=\"Image of the footer\" /></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Although I believe it would be a good thing for the internet and it’s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a> <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-11-17T10:48:41+01:00",
 			"url": "https://roelwillems.com/2018/11/17/creative-commons-licence.html"
 		},
@@ -71,7 +117,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
 	      	
-			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://dsh.re/72f22\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://roelwillems.com/uploads/2018/a9c1709c17.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
 			"date_published": "2018-05-14T22:48:56+02:00",
 			"url": "https://roelwillems.com/2018/05/14/204856.html"
 		},
@@ -79,7 +125,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/05/12/133403.html",
 	      	
-			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://dsh.re/7fc03\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://roelwillems.com/uploads/2018/70d85c2269.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
 			"date_published": "2018-05-12T15:34:03+02:00",
 			"url": "https://roelwillems.com/2018/05/12/133403.html"
 		},
@@ -105,7 +151,7 @@
 		{
 			"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
 	      	
-			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://f000.backblazeb2.com/file/Roel-Share/Concept-2-20180508.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
+			"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://roelwillems.com/uploads/2018/83a4bd044f.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
 			"date_published": "2018-05-08T21:36:07+02:00",
 			"url": "https://roelwillems.com/2018/05/08/row-log-update.html"
 		},
@@ -178,50 +224,6 @@
 			"content_html": "<blockquote>\n  <p>By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.</p>\n</blockquote>\n\n<p><a href=\"http://blog.samaltman.com/productivity\">∞</a></p>\n\n<p>Good advice<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p><em>although from “PHYSICAL FACTORS” onwards it gets a bit over the top for my taste</em> I would sum up my strategy on this topic as: exercise, eat and sleep well and take time to unwind and relax a bit. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
 			"date_published": "2018-04-30T20:16:47+02:00",
 			"url": "https://roelwillems.com/2018/04/30/by-the-way.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/30/174249.html",
-	      	
-			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/maratoncent-chall-2018-web.png\" alt=\"Concept2 Marathon challenge\" /></p>\n\n<p><a href=\"https://log.concept2.com/challenges/marathon\">Challenge</a> accepted</p>\n",
-			"date_published": "2018-04-30T19:42:49+02:00",
-			"url": "https://roelwillems.com/2018/04/30/174249.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/26/httpsdshreethe-joys-of.html",
-	      	
-			"content_html": "<p><img src=\"https://dsh.re/9e2704\" alt=\"\" /></p>\n\n<p>The joys of technology: That moment when your TV asks you for GDPR consent.</p>\n",
-			"date_published": "2018-04-26T10:25:16+02:00",
-			"url": "https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/25/on-turn-off.html",
-	      	
-			"title": "On turning off unnecessary notifications",
-			
-			"content_html": "<blockquote>\n  <ul>\n    <li>turn off all lock screen notifications (this is better for privacy anyway)</li>\n    <li>turn off vibrate and sound notifications, I leave badges for important things like messaging apps</li>\n    <li>turn off notifications for apps that really don’t need it</li>\n  </ul>\n</blockquote>\n\n<p>Nathan Toups makes a case for a <a href=\"https://nomasters.io/posts/dumber-phone/\">dumber phone</a> with great recommendations overall.</p>\n\n<p>One thing I would add from personal experience<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup> is to make very conscious use of the silence/mute switch on phone.</p>\n\n<p>No sound/viberation 99% of the time, but if I need and enable sound I also have the super annoying keyboard sounds enabled by default (so I don’t forget to revert to silent <em>ASAP</em>).</p>\n\n<p>Via <a href=\"https://brooksreview.net/2018/04/dumber-phone/\">Ben Brooks</a></p>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch.  Now I’m back to wearing a classic watch as wrist based notifications <a href=\"http://roelwillems.com/2018/04/10/the-battery-of.html\">over time became an unwanted distraction</a>. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
-			"date_published": "2018-04-25T22:56:04+02:00",
-			"url": "https://roelwillems.com/2018/04/25/on-turn-off.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/25/this-will-be.html",
-	      	
-			"title": "This will be interesting..",
-			
-			"content_html": "<blockquote>\n  <p><a href=\"https://www.engadget.com/2018/04/24/whatsapp-require-users-in-europe-at-least-16-years-old/\">WhatsApp will require users in Europe to be at least 16 years old</a></p>\n</blockquote>\n\n<p>I can imagine many reasons why the age limit would need to be increased under more strict European privacy law, none of them any good for something so fundamental as a messaging app.</p>\n\n<p><em>just a recommendation: <a href=\"https://signal.org\">Signal</a> or <a href=\"https://keybase.io\">Keybase</a></em></p>\n",
-			"date_published": "2018-04-25T16:09:05+02:00",
-			"url": "https://roelwillems.com/2018/04/25/this-will-be.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/04/24/blocker-will-be.html",
-	      	
-			"content_html": "<p>1Blocker will be releasing a new version called <a href=\"https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36\">1Blocker X</a> on 26 April, <a href=\"https://itunes.apple.com/us/app/id1365531024?at=1l3v36d\">pre-order now available</a>. I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in.</p>\n",
-			"date_published": "2018-04-24T17:26:42+02:00",
-			"url": "https://roelwillems.com/2018/04/24/blocker-will-be.html"
 		}
 		
 	]
