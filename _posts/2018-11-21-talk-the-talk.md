@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Talk the talk ... walk the walk"
+title: "∞ Sorry Mark Zuckerberg, Facebook isn’t a “positive force”"
 microblog: false
 audio: 
 photo: 
@@ -15,4 +15,6 @@ guid: http://roelwillems.micro.blog/2018/11/21/talk-the-talk.html
 <!-- -->
 > By contrast, Facebook only seems to care about promoting the continued growth of Facebook.
 
-[Sorry Mark Zuckerberg, Facebook isn’t a “positive force”](https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/) - arstechnica.com
+[arstechnica.com](https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/)
+
+The inability of Facebook to change after an increasing number of incedents and scandals is shocking. Although Google shouldn't be presented as a poster boy, the differences does show. Talk the talk ... walk the walk
