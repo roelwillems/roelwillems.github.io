@@ -4,8 +4,17 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Fri, 23 Nov 2018 14:14:52 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Nov 2018 14:14:52 +0100</lastBuildDate>
+    <pubDate>Fri, 23 Nov 2018 22:36:23 +0100</pubDate>
+    <lastBuildDate>Fri, 23 Nov 2018 22:36:23 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;After seeing quite a few people posting about Blot, I took the plunge and will be trying it for my photography blog.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Nov 2018 22:33:11 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/23/after-seeing-quite.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/23/after-seeing-quite.html</guid>
+      </item>
     
       <item>
       	
@@ -992,28 +1001,6 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
         <pubDate>Wed, 04 Apr 2018 23:47:11 +0200</pubDate>
         <link>https://roelwillems.com/2018/04/04/facebook-sharply-increases.html</link>
         <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/04/facebook-sharply-increases.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>∞ Lasting appeal of RSS</title>
-        
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Still, the lasting appeal of RSS remains the parts that haven’t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/&quot;&gt;Wired&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. 
-And although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it’s value.&lt;/p&gt;
-
-&lt;p&gt;Being a open standard really proves it’s value &lt;em&gt;and&lt;/em&gt; resilience.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;If someone is looking a basic but dependable RSS service I can recommend Feedbin.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Apr 2018 23:22:14 +0200</pubDate>
-        <link>https://roelwillems.com/2018/04/03/lasting-appeal-of.html</link>
-        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html</guid>
       </item>
     
   </channel>
