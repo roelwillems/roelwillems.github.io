@@ -4,8 +4,17 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Fri, 23 Nov 2018 22:36:23 +0100</pubDate>
-    <lastBuildDate>Fri, 23 Nov 2018 22:36:23 +0100</lastBuildDate>
+    <pubDate>Sat, 24 Nov 2018 11:40:42 +0100</pubDate>
+    <lastBuildDate>Sat, 24 Nov 2018 11:40:42 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Got my photoblog &lt;a href=&quot;https://www.maintainingfocus.com&quot;&gt;maintainingfocus&lt;/a&gt; running on &lt;a href=&quot;https://micro.blog/blot&quot;&gt;@blot&lt;/a&gt;, so far so good (after straigthing out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Nov 2018 01:44:15 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/24/got-my-photoblog.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/24/got-my-photoblog.html</guid>
+      </item>
     
       <item>
       	
@@ -236,7 +245,7 @@ Leave the A record (address for IPv4) and other records like CNAME unaltered. Ba
     
       <item>
       	
-        <description>&lt;p&gt;Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost inmediatly!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)&lt;/p&gt;
+        <description>&lt;p&gt;Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost immediately!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)&lt;/p&gt;
 </description>
         <pubDate>Sun, 11 Nov 2018 00:24:06 +0100</pubDate>
         <link>https://roelwillems.com/2018/11/11/finally-had-some.html</link>
@@ -984,23 +993,6 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
         <pubDate>Mon, 09 Apr 2018 22:38:09 +0200</pubDate>
         <link>https://roelwillems.com/2018/04/09/after-writing-another.html</link>
         <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/09/after-writing-another.html</guid>
-      </item>
-    
-      <item>
-      	
-        <title>∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica</title>
-        
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html&quot;&gt;nytimes&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I won’t be the least surprised if this number will still increase quit a bit in the coming weeks.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Apr 2018 23:47:11 +0200</pubDate>
-        <link>https://roelwillems.com/2018/04/04/facebook-sharply-increases.html</link>
-        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/04/facebook-sharply-increases.html</guid>
       </item>
     
   </channel>
