@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/25/how-to-batch.html",
+	      	
+			"title": "How to batch export from Ulysses to any (Markdown) app (for simple notes without images)",
+			
+			"content_text": "This is a small guide to help moving files from...",
+			"date_published": "2018-11-25T21:16:39+01:00",
+			"url": "https://roelwillems.com/2018/11/25/how-to-batch.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/24/got-my-photoblog.html",
 	      	
 			"content_text": "Got my photoblog maintainingfocus running on @blot, so far so...",
