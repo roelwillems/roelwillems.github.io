@@ -7,9 +7,19 @@
 	"items": [
 		
 		{
+			"id": "http://roelwillems.micro.blog/2018/11/25/how-to-batch.html",
+	      	
+			"title": "How to batch export from Ulysses to any (Markdown) app (for simple notes without images)",
+			
+			"content_html": "<p>This is a small guide to help moving files from Ulysses native file format (.ulysses files) to plain Markdown. Having your writing in plain Markdown is necessary when you want to move to a different writing app or just for backup purposes<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote\">1</a></sup>.</p>\n\n<ol>\n  <li>Create a temporary folder on your Mac for the exported Markdown files e.g. “Ulysses export”;</li>\n  <li>Open Ulysses on your Mac and add the “Ulysses export” folder to the library (bottom of the left sidebar) → Add External Folder;</li>\n  <li>Select the files you would like to export from Ulysses to just plain Markdown;</li>\n  <li>Move the files, within Ulysses, to the “Ulysses export”  folder;</li>\n  <li>Open the “Ulysses export” folder in the Finder and move/import to where ever you would like.</li>\n</ol>\n\n<div class=\"footnotes\">\n  <ol>\n    <li id=\"fn:1\">\n      <p>Just trying to back up the .ulysses files isn’t very useful as the .ulysses files have a hash for a name and contain two files (Content.xml and Text.txt). To get your writing out of the files you have to open all of them manually. If you use an iCloud-stored library the files are hardly reachable at all. <a href=\"#fnref:1\" class=\"reversefootnote\">&#8617;</a></p>\n    </li>\n  </ol>\n</div>\n",
+			"date_published": "2018-11-25T21:16:39+01:00",
+			"url": "https://roelwillems.com/2018/11/25/how-to-batch.html"
+		},
+		
+		{
 			"id": "http://roelwillems.micro.blog/2018/11/24/got-my-photoblog.html",
 	      	
-			"content_html": "<p>Got my photoblog <a href=\"https://www.maintainingfocus.com\">maintainingfocus</a> running on <a href=\"https://micro.blog/blot\">@blot</a>, so far so good (after straigthing out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.</p>\n",
+			"content_html": "<p>Got my photoblog <a href=\"https://www.maintainingfocus.com\">maintainingfocus</a> running on <a href=\"https://micro.blog/blot\">@blot</a>, so far so good (after straightening out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.</p>\n",
 			"date_published": "2018-11-24T01:44:15+01:00",
 			"url": "https://roelwillems.com/2018/11/24/got-my-photoblog.html"
 		},
@@ -216,14 +226,6 @@
 			"content_html": "<blockquote>\n  <p>Step 1: get dating apps to build themselves on your platform’s data \nStep 2: cut them off from your platform’s data with no warning \nStep 3: build a competitor to dating apps with the data you are now keeping to yourself</p>\n\n  <p>Seems kinda antitrust-ish…</p>\n</blockquote>\n\n<p><a href=\"https://mobile.twitter.com/SirKneeland/status/991373570730147840\">John Kneeland</a> via <a href=\"https://www.theverge.com/2018/5/1/17307782/facebook-tinder-dating-app-f8-match-okcupid\">Daring fireball</a></p>\n\n<p>Fool me once, shame on you(r news business); fool me twice, shame on me(re dating apps).</p>\n\n<p>So this begs the question; who’s business will be next?</p>\n",
 			"date_published": "2018-05-03T23:49:17+02:00",
 			"url": "https://roelwillems.com/2018/05/03/whos-next.html"
-		},
-		
-		{
-			"id": "http://roelwillems.micro.blog/2018/05/03/looking-in-to.html",
-	      	
-			"content_html": "<p>Looking in to switching (back) to Linux. It would be fine (or better) for 90% of my current laptop usage. Although I am still hestitant because I’m quite tied in to Apples Ecosystem at the moment  and am still looking for good alternatives for specific software</p>\n",
-			"date_published": "2018-05-03T22:08:11+02:00",
-			"url": "https://roelwillems.com/2018/05/03/looking-in-to.html"
 		}
 		
 	]
