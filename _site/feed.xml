@@ -4,12 +4,39 @@
     <title>Roel Willems</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/roelwillems&quot;&gt;@roelwillems on Micro.blog&lt;/a&gt;.</description>
     <link>https://roelwillems.com/</link>
-    <pubDate>Sat, 24 Nov 2018 11:40:42 +0100</pubDate>
-    <lastBuildDate>Sat, 24 Nov 2018 11:40:42 +0100</lastBuildDate>
+    <pubDate>Sun, 25 Nov 2018 21:17:00 +0100</pubDate>
+    <lastBuildDate>Sun, 25 Nov 2018 21:17:00 +0100</lastBuildDate>
     
       <item>
       	
-        <description>&lt;p&gt;Got my photoblog &lt;a href=&quot;https://www.maintainingfocus.com&quot;&gt;maintainingfocus&lt;/a&gt; running on &lt;a href=&quot;https://micro.blog/blot&quot;&gt;@blot&lt;/a&gt;, so far so good (after straigthing out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.&lt;/p&gt;
+        <title>How to batch export from Ulysses to any (Markdown) app (for simple notes without images)</title>
+        
+        <description>&lt;p&gt;This is a small guide to help moving files from Ulysses native file format (.ulysses files) to plain Markdown. Having your writing in plain Markdown is necessary when you want to move to a different writing app or just for backup purposes&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a temporary folder on your Mac for the exported Markdown files e.g. “Ulysses export”;&lt;/li&gt;
+  &lt;li&gt;Open Ulysses on your Mac and add the “Ulysses export” folder to the library (bottom of the left sidebar) → Add External Folder;&lt;/li&gt;
+  &lt;li&gt;Select the files you would like to export from Ulysses to just plain Markdown;&lt;/li&gt;
+  &lt;li&gt;Move the files, within Ulysses, to the “Ulysses export”  folder;&lt;/li&gt;
+  &lt;li&gt;Open the “Ulysses export” folder in the Finder and move/import to where ever you would like.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Just trying to back up the .ulysses files isn’t very useful as the .ulysses files have a hash for a name and contain two files (Content.xml and Text.txt). To get your writing out of the files you have to open all of them manually. If you use an iCloud-stored library the files are hardly reachable at all. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 25 Nov 2018 21:16:39 +0100</pubDate>
+        <link>https://roelwillems.com/2018/11/25/how-to-batch.html</link>
+        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/11/25/how-to-batch.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Got my photoblog &lt;a href=&quot;https://www.maintainingfocus.com&quot;&gt;maintainingfocus&lt;/a&gt; running on &lt;a href=&quot;https://micro.blog/blot&quot;&gt;@blot&lt;/a&gt;, so far so good (after straightening out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.&lt;/p&gt;
 </description>
         <pubDate>Sat, 24 Nov 2018 01:44:15 +0100</pubDate>
         <link>https://roelwillems.com/2018/11/24/got-my-photoblog.html</link>
@@ -982,17 +1009,6 @@ nav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {
         <pubDate>Mon, 09 Apr 2018 22:44:44 +0200</pubDate>
         <link>https://roelwillems.com/2018/04/09/obscure-email-vulnerability.html</link>
         <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/09/obscure-email-vulnerability.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;After writing another post on Facebook and the recent privacy scandals I deleted it all; because it’s not about Facebook at all.&lt;/p&gt;
-
-&lt;p&gt;It’s about alternatives (preferably which can not be “acquired”, but this is a topic for a different post) and this is exactly why moved all my writing to &lt;a href=&quot;https://micro.blog&quot;&gt;Micro.blog&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Apr 2018 22:38:09 +0200</pubDate>
-        <link>https://roelwillems.com/2018/04/09/after-writing-another.html</link>
-        <guid isPermaLink="true">http://roelwillems.micro.blog/2018/04/09/after-writing-another.html</guid>
       </item>
     
   </channel>
