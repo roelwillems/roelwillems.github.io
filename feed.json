@@ -1,24 +1,748 @@
----
-layout: null
-regenerate: true
----
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": {{ site.name | jsonify }},
-	"icon": "https://micro.blog/{{ site.username }}/avatar.jpg",
-	"home_page_url": "{{ site.url }}/",
-	"feed_url": "{{ site.url }}/feed.json",
+	"title": "Roel Willems",
+	"icon": "https://micro.blog/roelwillems/avatar.jpg",
+	"home_page_url": "https://roelwillems.com/",
+	"feed_url": "https://roelwillems.com/feed.json",
 	"items": [
-		{% for post in site.posts limit:25 %}
-		{
-			"id": "{{ post.guid }}",
-	      	{% if post.microblog == false %}
-			"title": {{ post.title | jsonify }},
-			{% endif %}
-			"content_html": {{ post.content | jsonify }},
-			"date_published": "{{ post.date | date_to_xmlschema }}",
-			"url": "{{ site.url }}{{ post.url }}"
-		}{% if forloop.last == false %},{% endif %}
-		{% endfor %}
+		
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/18/the-word-dependence.html",
+				
+				"content_html": "<p>The word <em>dependence</em> often has a negative connotation to it. For me, it also signals something positive more in line with &ldquo;reliance&rdquo;.</p>\n\n<p>It&rsquo;s good to be independent. As long as you keep in mind that sometimes you need the help of others, as others might someday need to rely on you.</p>\n",
+				"content_text": "The word _dependence_ often has a negative connotation to it. For me, it also signals something positive more in line with \"reliance\". \n\nIt's good to be independent. As long as you keep in mind that sometimes you need the help of others, as others might someday need to rely on you.\n",
+				"date_published": "2020-11-18T17:00:00+01:00",
+				"url": "https://roelwillems.com/2020/11/18/the-word-dependence.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/17/its-been-years.html",
+				
+				"content_html": "<p>It&rsquo;s been years since I&rsquo;ve boarded a <em>train</em> as part of my daily commute. While not always a pleasure, the sound of the wheels on the tracks made me feel relaxed. I still plan on taking the train to somewhere in Scandinavia. Don&rsquo;t know why but seems like such a nice thing to do.</p>\n",
+				"content_text": "It's been years since I've boarded a _train_ as part of my daily commute. While not always a pleasure, the sound of the wheels on the tracks made me feel relaxed. I still plan on taking the train to somewhere in Scandinavia. Don't know why but seems like such a nice thing to do.\n",
+				"date_published": "2020-11-17T18:56:00+01:00",
+				"url": "https://roelwillems.com/2020/11/17/its-been-years.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/17/in-the-last.html",
+				
+				"content_html": "<p>In the last few days, I was quite ill. It has been some years ago since I was feeling so unwell, but still, the <em>memory</em> of it came back like it was yesterday. Now I am starting to feel better, so lucky the last couple of days will also become a distant <em>memory</em> again.</p>\n",
+				"content_text": "In the last few days, I was quite ill. It has been some years ago since I was feeling so unwell, but still, the _memory_ of it came back like it was yesterday. Now I am starting to feel better, so lucky the last couple of days will also become a distant _memory_ again.\n",
+				"date_published": "2020-11-16T17:58:00+01:00",
+				"url": "https://roelwillems.com/2020/11/17/in-the-last.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/15/half-way-mark.html",
+				
+				"content_html": "<p>Half way mark. Never expected to come this <em>far</em> with a daily blogging routine. Great to take part in the <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Microblogvember</a></p>\n",
+				"content_text": "Half way mark. Never expected to come this _far_ with a daily blogging routine. Great to take part in the [Microblogvember](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html)\n",
+				"date_published": "2020-11-15T18:39:00+01:00",
+				"url": "https://roelwillems.com/2020/11/15/half-way-mark.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/14/im-experimenting-with.html",
+				
+				"content_html": "<p>I&rsquo;m experimenting with a standard black&amp;white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and <em>spooky</em> look.</p>\n\n<p><img src=\"uploads/2020/a8122debd1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I'm experimenting with a standard black&white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and _spooky_ look.\n\n<img src=\"uploads/2020/a8122debd1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-11-14T20:09:00+01:00",
+				"url": "https://roelwillems.com/2020/11/14/im-experimenting-with.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/13/i-thought-about.html",
+				
+				"content_html": "<p>I thought about switching to Linux on my aging Macbook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).</p>\n",
+				"content_text": "I thought about switching to Linux on my aging Macbook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).\n",
+				"date_published": "2020-11-13T18:00:04+01:00",
+				"url": "https://roelwillems.com/2020/11/13/i-thought-about.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/13/finalizing-some-todos.html",
+				
+				"content_html": "<p>Finalizing some todo&rsquo;s for work while my trusty Macbook pro 2015 is doing a clean Big Sur install. Doing a whipe and clean install was particularly easy as I have an full and Timemachine backup on my Raspberry Pi home NAS. Definitly a project I should have done earlier.</p>\n",
+				"content_text": "Finalizing some todo's for work while my trusty Macbook pro 2015 is doing a clean Big Sur install. Doing a whipe and clean install was particularly easy as I have an full and Timemachine backup on my Raspberry Pi home NAS. Definitly a project I should have done earlier.\n",
+				"date_published": "2020-11-13T14:42:31+01:00",
+				"url": "https://roelwillems.com/2020/11/13/finalizing-some-todos.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/13/yesterday-i-presented.html",
+				
+				"content_html": "<p>Yesterday I presented for a bigger audience while sitting in my home office. It&rsquo;s a bit of a <em>guess</em> if the message is coming across with only the blue webcam light staring at you. Definitely, an intriguing and fun experience while also being a little awkward.</p>\n",
+				"content_text": "Yesterday I presented for a bigger audience while sitting in my home office. It's a bit of a _guess_ if the message is coming across with only the blue webcam light staring at you. Definitely, an intriguing and fun experience while also being a little awkward.\n",
+				"date_published": "2020-11-13T13:51:00+01:00",
+				"url": "https://roelwillems.com/2020/11/13/yesterday-i-presented.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/12/often-i-am.html",
+				
+				"content_html": "<p>Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don&rsquo;t let anyone tell you, you should, no, need to upgrade. And while it may start to show <em>wear</em>, there is a real value in knowing your tools inside out. This only time can provide.</p>\n",
+				"content_text": "Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don't let anyone tell you, you should, no, need to upgrade. And while it may start to show _wear_, there is a real value in knowing your tools inside out. This only time can provide.\n",
+				"date_published": "2020-11-12T15:57:00+01:00",
+				"url": "https://roelwillems.com/2020/11/12/often-i-am.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/11/sometimes-its-hard.html",
+				
+				"content_html": "<p>Sometimes it&rsquo;s hard to express what you think. Difficult to <em>say</em> what&rsquo;s on your mind. Impossible to put words in writing. But if the past teaches us one thing it&rsquo;s that this is the time when you should speak up.</p>\n",
+				"content_text": "Sometimes it's hard to express what you think. Difficult to _say_ what's on your mind. Impossible to put words in writing. But if the past teaches us one thing it's that this is the time when you should speak up.\n",
+				"date_published": "2020-11-11T17:24:00+01:00",
+				"url": "https://roelwillems.com/2020/11/11/sometimes-its-hard.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/10/apple-reached-a.html",
+				
+				"content_html": "<p>Apple reached a new level with the event today. The new M1 chip seems to be quite something based on the announcement. But I&rsquo;m referring especially to the production of the whole event, extremely well done.</p>\n",
+				"content_text": "Apple reached a new level with the event today. The new M1 chip seems to be quite something based on the announcement. But I'm referring especially to the production of the whole event, extremely well done.\n",
+				"date_published": "2020-11-10T20:36:00+01:00",
+				"url": "https://roelwillems.com/2020/11/10/apple-reached-a.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/10/yesterday-i-watched.html",
+				
+				"content_html": "<p>Yesterday I watched an interview. The subject was a person of respectable age who spoke about life and death. His rationale behind his choices and bravery made a lasting impact. We have so much we can learn from the <em>elderly</em>.</p>\n",
+				"content_text": "Yesterday I watched an interview. The subject was a person of respectable age who spoke about life and death. His rationale behind his choices and bravery made a lasting impact. We have so much we can learn from the _elderly_.\n",
+				"date_published": "2020-11-10T18:51:00+01:00",
+				"url": "https://roelwillems.com/2020/11/10/yesterday-i-watched.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/09/today-didnt-start.html",
+				
+				"content_html": "<p>Today didn&rsquo;t start well. I had to <em>force</em> myself to finish the task at hand.\nWhen it&rsquo;s not easy to reach a goal the only option is to give it your best and soldier on. Somedays, you will look back and think; actually, this was a good day. Today was such a day for me.</p>\n",
+				"content_text": "Today didn't start well. I had to _force_ myself to finish the task at hand. \nWhen it's not easy to reach a goal the only option is to give it your best and soldier on. Somedays, you will look back and think; actually, this was a good day. Today was such a day for me.\n",
+				"date_published": "2020-11-09T17:45:00+01:00",
+				"url": "https://roelwillems.com/2020/11/09/today-didnt-start.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/08/america-has-chosen.html",
+				
+				"content_html": "<p>America has chosen its 46th president. In many ways, a historic outcome of an &ldquo;interesting&rdquo; electoral process to say the least. I do hope Biden can bring the country together. <em>Bind</em> Americans to a common purpose facing current health and economic challenges.</p>\n",
+				"content_text": "America has chosen its 46th president. In many ways, a historic outcome of an \"interesting\" electoral process to say the least. I do hope Biden can bring the country together. _Bind_ Americans to a common purpose facing current health and economic challenges.\n",
+				"date_published": "2020-11-08T13:00:00+01:00",
+				"url": "https://roelwillems.com/2020/11/08/america-has-chosen.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/07/weekend-is-here.html",
+				
+				"content_html": "<p>Weekend is here, finally time for some tinkering with the Mazda Mx-5 10th anniversary. Wash and clean, check the oil levels, <em>inflate</em> the tires. After a small fix to the center console hinge I am taking it for a spin. Nothing better than driving open-top on a beautiful autumn day!</p>\n",
+				"content_text": "Weekend is here, finally time for some tinkering with the Mazda Mx-5 10th anniversary. Wash and clean, check the oil levels, _inflate_ the tires. After a small fix to the center console hinge I am taking it for a spin. Nothing better than driving open-top on a beautiful autumn day!\n",
+				"date_published": "2020-11-07T13:38:00+01:00",
+				"url": "https://roelwillems.com/2020/11/07/weekend-is-here.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/06/i-do-think.html",
+				
+				"content_html": "<p>I do think that it&rsquo;s good that social media companies take responsibility. They are in charge of what they allow on their platform. The freedom to express your opinion doesn&rsquo;t mandate others to enable you to do this.\nThe problem I see is that we grew dependent on these platforms.</p>\n",
+				"content_text": "I do think that it's good that social media companies take responsibility. They are in charge of what they allow on their platform. The freedom to express your opinion doesn't mandate others to enable you to do this.\nThe problem I see is that we grew dependent on these platforms.\n",
+				"date_published": "2020-11-06T16:03:25+01:00",
+				"url": "https://roelwillems.com/2020/11/06/i-do-think.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/06/twitter-facebook-and.html",
+				
+				"content_html": "<p>Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regadless if it&rsquo;s factual at all. But it&rsquo;s <em>puzzling</em> me if we are treading in the right direction.</p>\n",
+				"content_text": "Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regadless if it's factual at all. But it's _puzzling_ me if we are treading in the right direction.\n",
+				"date_published": "2020-11-06T15:52:00+01:00",
+				"url": "https://roelwillems.com/2020/11/06/twitter-facebook-and.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/05/under-the-pale.html",
+				
+				"content_html": "<p>Under the pale light reflecting of the moon the lonely man in the streets tends to <em>stoop</em> when he walks.  Facing the wind and rain, from nowhere to his destination.</p>\n\n<p><em>the last post didn&rsquo;t include the exact <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Microblogvember</a> word, so here is a second attempt.</em></p>\n",
+				"content_text": "Under the pale light reflecting of the moon the lonely man in the streets tends to _stoop_ when he walks.  Facing the wind and rain, from nowhere to his destination. \n\n_the last post didn't include the exact [Microblogvember](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html) word, so here is a second attempt._\n",
+				"date_published": "2020-11-05T10:20:00+01:00",
+				"url": "https://roelwillems.com/2020/11/05/under-the-pale.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/05/keep-your-head.html",
+				
+				"content_html": "<p>&ldquo;Keep your head up high&rdquo; when things get tough. But sometimes it&rsquo;s better keeping <em>stooped</em> down. Don&rsquo;t face adverse circumstances head-on. Don&rsquo;t look at how little you have progressed or how far you still need to go. Keep plowing on, one step at a time. You will get there.</p>\n",
+				"content_text": "\"Keep your head up high\" when things get tough. But sometimes it's better keeping _stooped_ down. Don't face adverse circumstances head-on. Don't look at how little you have progressed or how far you still need to go. Keep plowing on, one step at a time. You will get there.\n",
+				"date_published": "2020-11-05T10:06:00+01:00",
+				"url": "https://roelwillems.com/2020/11/05/keep-your-head.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/04/extra-measures-will.html",
+				
+				"content_html": "<p>Extra measures will be in effect today at 10 PM to limit the spread of COVID in our country. I do wonder if we are getting closer to the end or still only <em>near</em> the beginning. But this open-ended crisis forces every country in a constant balancing act so much is clear.</p>\n",
+				"content_text": "Extra measures will be in effect today at 10 PM to limit the spread of COVID in our country. I do wonder if we are getting closer to the end or still only _near_ the beginning. But this open-ended crisis forces every country in a constant balancing act so much is clear.\n",
+				"date_published": "2020-11-04T17:57:00+01:00",
+				"url": "https://roelwillems.com/2020/11/04/extra-measures-will.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/03/only-looking-at.html",
+				
+				"content_html": "<p>Only looking at the millions of dollars spent on Facebook this year by both the republicans and democrats, the scale of the Presidential elections of the United States of America never fails to <em>astonish</em> me.</p>\n\n<p>November 3 will be a decisive moment for the political future of the USA.</p>\n",
+				"content_text": "Only looking at the millions of dollars spent on Facebook this year by both the republicans and democrats, the scale of the Presidential elections of the United States of America never fails to _astonish_ me.\n\nNovember 3 will be a decisive moment for the political future of the USA.\n",
+				"date_published": "2020-11-03T12:07:00+01:00",
+				"url": "https://roelwillems.com/2020/11/03/only-looking-at.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/03/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781781256855\">The age of surveillance capitalism</a> by Shoshana Zuboff 📚</p>\n",
+				"content_text": "Currently reading: [The age of surveillance capitalism](https://micro.blog/books/9781781256855) by Shoshana Zuboff 📚\n",
+				"date_published": "2020-11-03T09:41:00+01:00",
+				"url": "https://roelwillems.com/2020/11/03/currently-reading-the.html",
+				"tags": ["Tech","Data","Privacy","Books","Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/02/again-a-dramatic.html",
+				
+				"content_html": "<p>Again a dramatic day in Europe, thoughts go out to the people of Vienna.</p>\n",
+				"content_text": "Again a dramatic day in Europe, thoughts go out to the people of Vienna.\n",
+				"date_published": "2020-11-02T23:05:21+01:00",
+				"url": "https://roelwillems.com/2020/11/02/again-a-dramatic.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/02/001033.html",
+				
+				"content_html": "<p>November, Autumn season. The transition from summer to winter is my favorite time of year. The vibrant fall colours are great for landscape photography and I enjoy my early morning walks even on cold and rainy days. Getting outside helps me <em>concentrate</em>, think and focus.</p>\n",
+				"content_text": "November, Autumn season. The transition from summer to winter is my favorite time of year. The vibrant fall colours are great for landscape photography and I enjoy my early morning walks even on cold and rainy days. Getting outside helps me _concentrate_, think and focus.\n",
+				"date_published": "2020-11-02T00:10:00+01:00",
+				"url": "https://roelwillems.com/2020/11/02/001033.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/01/for-quite-some.html",
+				
+				"content_html": "<p>For quite some time I was thinking about writing more often, so  <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Microblogvember</a> 2020 came at a great time. It will also help with some of the more <em>dreary</em> days during this strange times. Looking forward to the challenge.</p>\n",
+				"content_text": "For quite some time I was thinking about writing more often, so  [Microblogvember](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html) 2020 came at a great time. It will also help with some of the more _dreary_ days during this strange times. Looking forward to the challenge.\n",
+				"date_published": "2020-11-01T23:32:00+01:00",
+				"url": "https://roelwillems.com/2020/11/01/for-quite-some.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/12/17/moved-some-domains.html",
+				
+				"content_html": "<p>Moved some domains to <a href=\"https://www.cloudflare.com/products/registrar/\">Cloudflare Domain Registar</a> (currently in early access). Migration went smooth and Cloudflare&rsquo;s policy on pricing is great.</p>\n\n<blockquote>\n<p>&ldquo;We promise to never charge you anything more than the wholesale price each TLD charges.&rdquo;\n&hellip;\nWhile Cloudflare Registrar will not charge more for the privilege of registering domain ownership, the service will also enable two-factor authentication for all domain registration accounts, lock domain registrations to prevent transfers by default, and automatically enable services such as Domain Name System Security Extensions (DNSSEC) and WHOIS privacy—things registrars frequently charge for.</p>\n</blockquote>\n\n<p>Count me a fan<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>!</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\"><em>P.S. I am in no way affiliated with Cloudflare. This is just meant to be a honest recommendation.</em>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Moved some domains to [Cloudflare Domain Registar](https://www.cloudflare.com/products/registrar/) (currently in early access). Migration went smooth and Cloudflare's policy on pricing is great.\n\n> \"We promise to never charge you anything more than the wholesale price each TLD charges.\"\n> ...\n> While Cloudflare Registrar will not charge more for the privilege of registering domain ownership, the service will also enable two-factor authentication for all domain registration accounts, lock domain registrations to prevent transfers by default, and automatically enable services such as Domain Name System Security Extensions (DNSSEC) and WHOIS privacy—things registrars frequently charge for.\n\nCount me a fan[^1]!\n\n[^1]: _P.S. I am in no way affiliated with Cloudflare. This is just meant to be a honest recommendation._\n",
+				"date_published": "2018-12-17T22:10:26+01:00",
+				"url": "https://roelwillems.com/2018/12/17/moved-some-domains.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/25/how-to-batch.html",
+				"title": "How to batch export from Ulysses to plain Markdown",
+				"content_html": "<p>This is a small guide to help moving files from Ulysses native file format (.ulysses files) to plain Markdown. Having your writing in plain Markdown is necessary when you want to move to a different writing app or just for backup purposes<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>.</p>\n\n<p><em>This guide works for files without images and Ulysses specific bells and whistles</em></p>\n\n<ol>\n<li>Create a temporary folder on your Mac for the exported Markdown files e.g. “Ulysses export”;</li>\n<li>Open Ulysses on your Mac and add the “Ulysses export” folder to the library (bottom of the left sidebar) → Add External Folder;</li>\n<li>Select the files you would like to export from Ulysses to standard Markdown;</li>\n<li>Move the files, within Ulysses, to the “Ulysses export”  folder;</li>\n<li>Open the “Ulysses export” folder in the Finder and move/import to where ever you would like.</li>\n</ol>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Just trying to backup the .ulysses files isn&rsquo;t very useful as the .ulysses files have a hash for a name and contain two files (Content.xml and Text.txt). To get your writing out of the files you have to open all of them manually. If you use an iCloud-stored library the files are hardly reachable at all.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "This is a small guide to help moving files from Ulysses native file format (.ulysses files) to plain Markdown. Having your writing in plain Markdown is necessary when you want to move to a different writing app or just for backup purposes[^1].\n\n_This guide works for files without images and Ulysses specific bells and whistles_\n\n1. Create a temporary folder on your Mac for the exported Markdown files e.g. “Ulysses export”;\n2. Open Ulysses on your Mac and add the “Ulysses export” folder to the library (bottom of the left sidebar) → Add External Folder;\n3. Select the files you would like to export from Ulysses to standard Markdown;\n4. Move the files, within Ulysses, to the “Ulysses export”  folder;\n5. Open the “Ulysses export” folder in the Finder and move/import to where ever you would like.\n\n[^1]: Just trying to backup the .ulysses files isn't very useful as the .ulysses files have a hash for a name and contain two files (Content.xml and Text.txt). To get your writing out of the files you have to open all of them manually. If you use an iCloud-stored library the files are hardly reachable at all.\n",
+				"date_published": "2018-11-25T21:16:00+01:00",
+				"url": "https://roelwillems.com/2018/11/25/how-to-batch.html",
+				"tags": ["Articles","Micro guides"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/24/got-my-photoblog.html",
+				
+				"content_html": "<p>Got my photoblog <a href=\"https://www.maintainingfocus.com\">maintainingfocus</a> running on <a href=\"https://micro.blog/blot\">@blot</a>, so far so good (after straightening out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.</p>\n",
+				"content_text": "Got my photoblog [maintainingfocus](https://www.maintainingfocus.com) running on [@blot](https://micro.blog/blot), so far so good (after straightening out some DNS issues). Although cross-posting images isn’t working at the moment, will have to look in to this tomorrow.\n",
+				"date_published": "2018-11-24T01:44:15+01:00",
+				"url": "https://roelwillems.com/2018/11/24/got-my-photoblog.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/23/after-seeing-quite.html",
+				
+				"content_html": "<p>After seeing quite a few people posting about Blot, I took the plunge and will be trying it for my photography blog.</p>\n",
+				"content_text": "After seeing quite a few people posting about Blot, I took the plunge and will be trying it for my photography blog.\n",
+				"date_published": "2018-11-23T22:33:11+01:00",
+				"url": "https://roelwillems.com/2018/11/23/after-seeing-quite.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/23/leadership-a-good.html",
+				
+				"content_html": "<p>A good leader show which road to travel, a great leader helps others to see the road they want to travel on.</p>\n",
+				"content_text": "A good leader show which road to travel, a great leader helps others to see the road they want to travel on.\n",
+				"date_published": "2018-11-23T14:11:00+01:00",
+				"url": "https://roelwillems.com/2018/11/23/leadership-a-good.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/22/the-beauty-within.html",
+				"title": "The beauty within",
+				"content_html": "<p>I like words. I like plain and simple thoughts and stories written down.\nFor as long as the internet existed it has been a great place to read and write.</p>\n\n<p>But while the web has been ever increasingly gaining advancements in design and complexity, I value&hellip; no, I crave, simplicity.</p>\n\n<p>Almost all of the web today is geared toward gaining attention and <em>eyeballs</em>. Every year, with every advancement, I feel we distance ourselves more and more from what is really valuable for these mere <em>eyeballs</em> (also known as humans).</p>\n\n<p>At most websites, you have to click through a jungle of stuff which only distracts from their main objective (just to name a few: Medium, Youtube and almost all news outlets on the web).\nAnd although I fully understand the business objectives driving these decisions, I feel there is a quality to simplicity and not being over-designed. In my opinion, it adds character.</p>\n\n<p>Most of the time your message will not be more clearly expressed when surrounded by fancy stuff let alone a bombardment of ads and messages.</p>\n\n<p>Plain words on a plain website are in my opinion just like a vinyl record. And just like for people enjoy listening to a vinyl record, it&rsquo;s not about audio perfection or having all bells and whistles. It&rsquo;s completely the opposite.</p>\n\n<p>To take the music analogy a step future. A super clean production of a mediocre song can become a hit (with the right number of infuencers and paid-airtime), but be all forgotten about in a year or so. &ldquo;Perfection&rdquo; gets boring most often.\nThe song that an artist (possibly with less vocal quality or marketing budget) just had to put out there has the potential to become legendary. Because it has meaning and its roughness only adds to its quality.</p>\n\n<p>With words, like music, it’s also not about perfection but about meaning.</p>\n\n<p>When writing we should feel like an artist making a song. Making a song, not because it will show our vocal capabilities best, but because it’s a song that has to be made, has to be heard.</p>\n\n<p>The same goes for words, the beauty is in meaning. Just feel free to write.</p>\n\n<p><em>This post is as much reminding myself that my writing doesn&rsquo;t have to be perfect as supporting everyone reading this to just write down what you feel you have to say!</em></p>\n",
+				"content_text": "I like words. I like plain and simple thoughts and stories written down. \nFor as long as the internet existed it has been a great place to read and write. \n\nBut while the web has been ever increasingly gaining advancements in design and complexity, I value... no, I crave, simplicity.\n\nAlmost all of the web today is geared toward gaining attention and _eyeballs_. Every year, with every advancement, I feel we distance ourselves more and more from what is really valuable for these mere _eyeballs_ (also known as humans).\n\nAt most websites, you have to click through a jungle of stuff which only distracts from their main objective (just to name a few: Medium, Youtube and almost all news outlets on the web).\nAnd although I fully understand the business objectives driving these decisions, I feel there is a quality to simplicity and not being over-designed. In my opinion, it adds character.\n\nMost of the time your message will not be more clearly expressed when surrounded by fancy stuff let alone a bombardment of ads and messages.\n\nPlain words on a plain website are in my opinion just like a vinyl record. And just like for people enjoy listening to a vinyl record, it's not about audio perfection or having all bells and whistles. It's completely the opposite.\n\nTo take the music analogy a step future. A super clean production of a mediocre song can become a hit (with the right number of infuencers and paid-airtime), but be all forgotten about in a year or so. \"Perfection\" gets boring most often.\nThe song that an artist (possibly with less vocal quality or marketing budget) just had to put out there has the potential to become legendary. Because it has meaning and its roughness only adds to its quality. \n\nWith words, like music, it’s also not about perfection but about meaning. \n\nWhen writing we should feel like an artist making a song. Making a song, not because it will show our vocal capabilities best, but because it’s a song that has to be made, has to be heard. \n\nThe same goes for words, the beauty is in meaning. Just feel free to write.\n\n_This post is as much reminding myself that my writing doesn't have to be perfect as supporting everyone reading this to just write down what you feel you have to say!_\n",
+				"date_published": "2018-11-22T22:24:56+01:00",
+				"url": "https://roelwillems.com/2018/11/22/the-beauty-within.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/21/talk-the-talk.html",
+				"title": "∞ Sorry Mark Zuckerberg, Facebook isn’t a “positive force”",
+				"content_html": "<blockquote>\n<p>In a Tuesday interview with CNN, Mark Zuckerberg defended Facebook&rsquo;s handling of recent scandals and his own leadership of the company. He flatly rejected calls to give up his position as the chairman of Facebook&rsquo;s board and said he had no plans to fire his top deputy, Sheryl Sandberg.</p>\n</blockquote>\n\n<!-- -->\n\n<blockquote>\n<p>People like to mock Google&rsquo;s &ldquo;don&rsquo;t be evil&rdquo; slogan, but the company really has made difficult calls in the past—like pulling out of China over pressure to build a censored search engine.</p>\n</blockquote>\n\n<!-- -->\n\n<blockquote>\n<p>By contrast, Facebook only seems to care about promoting the continued growth of Facebook.</p>\n</blockquote>\n\n<p><a href=\"https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/\">arstechnica.com</a></p>\n\n<p>The inability of Facebook to change after an increasing number of incedents and scandals is shocking. Although Google shouldn&rsquo;t be presented as a poster boy, the differences does show. Talk the talk &hellip; walk the walk</p>\n",
+				"content_text": "> In a Tuesday interview with CNN, Mark Zuckerberg defended Facebook's handling of recent scandals and his own leadership of the company. He flatly rejected calls to give up his position as the chairman of Facebook's board and said he had no plans to fire his top deputy, Sheryl Sandberg.\n\n<!-- -->\n> People like to mock Google's \"don't be evil\" slogan, but the company really has made difficult calls in the past—like pulling out of China over pressure to build a censored search engine.\n\n<!-- -->\n> By contrast, Facebook only seems to care about promoting the continued growth of Facebook.\n\n[arstechnica.com](https://arstechnica.com/tech-policy/2018/11/sorry-mark-zuckerberg-facebook-isnt-a-positive-force/)\n\nThe inability of Facebook to change after an increasing number of incedents and scandals is shocking. Although Google shouldn't be presented as a poster boy, the differences does show. Talk the talk ... walk the walk\n",
+				"date_published": "2018-11-21T22:27:18+01:00",
+				"url": "https://roelwillems.com/2018/11/21/talk-the-talk.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/20/dark-mode-support.html",
+				
+				"content_html": "<p>Dark mode support for the Marfa theme done! You can take a look using <a href=\"https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/\">Safari Technology Preview 68</a> with Dark mode enabled in OSx. Marfa theme wil switch dark/light depending on your system prefs.</p>\n",
+				"content_text": "Dark mode support for the Marfa theme done! You can take a look using [Safari Technology Preview 68](https://webkit.org/blog/8475/release-notes-for-safari-technology-preview-68/) with Dark mode enabled in OSx. Marfa theme wil switch dark/light depending on your system prefs.\n",
+				"date_published": "2018-11-20T22:27:25+01:00",
+				"url": "https://roelwillems.com/2018/11/20/dark-mode-support.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/20/working-on-enabling.html",
+				
+				"content_html": "<p>Working on enabling <a href=\"https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/\">Safari dark mode</a> support on the Micro.blog Marfa theme, almost done:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/383b0333a4.png\" alt=\"dark mode support\" /></p>\n\n<p><em>P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.</em></p>\n",
+				"content_text": "Working on enabling [Safari dark mode](https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/) support on the Micro.blog Marfa theme, almost done:\n\n![dark mode support](https://roelwillems.com/uploads/2018/383b0333a4.png)\n\n*P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.*\n",
+				"date_published": "2018-11-20T21:36:21+01:00",
+				"url": "https://roelwillems.com/2018/11/20/working-on-enabling.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/19/computers-have-learned.html",
+				"title": "∞ Computers have learned to make us jump through hoops ",
+				"content_html": "<blockquote>\n<p>The other day I had to log in to a service I hadn’t used before. Since I was a new user, the website decided that it needed to check that I wasn’t a robot and so set me a Captcha (Completely Automated Public <a href=\"https://en.m.wikipedia.org/wiki/Turing_test\">Turing test</a> to tell Computers and Humans Apart). This is a challenge-response test to enable a computer to determine whether the user is a person rather than a machine.</p>\n</blockquote>\n\n<!-- -->\n\n<blockquote>\n<p>But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn’t tell whether it was a human or a robot. So we have wandered into a topsy-turvy world in which machines make us jump through hoops to prove that we are humans!</p>\n</blockquote>\n\n<p>Although it’s clearly human ingenuity transforming us to unpaid “click workers” training A.I, but regardless it&rsquo;s still a very interesting case.</p>\n\n<p>It makes you wonder what could happen if an A.I. would learn and deploy this on its own. And although I don’t think this would happen in the very near future, we should think about unforeseen consequences (as almost all technology and legislations bring in there wake).</p>\n\n<p><em>P.S. Personally I find the types of CAPTCHAs presented to us very interesting. It gives insight in the current focus of developments in machine learning and A.I. Will be very interesting to see what will be next after road signs and store fronts.</em></p>\n\n<p><a href=\"https://www.theguardian.com/technology/commentisfree/2018/nov/18/computers-have-learned-to-make-us-jump-through-hoops\">Computers have learned to make us jump through hoops</a> - The Guardian</p>\n",
+				"content_text": "> The other day I had to log in to a service I hadn’t used before. Since I was a new user, the website decided that it needed to check that I wasn’t a robot and so set me a Captcha (Completely Automated Public [Turing test](https://en.m.wikipedia.org/wiki/Turing_test) to tell Computers and Humans Apart). This is a challenge-response test to enable a computer to determine whether the user is a person rather than a machine.\n\n<!-- -->\n> But note also the delicious additional irony that the Captcha is described as an “automated Turing test”. The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn’t tell whether it was a human or a robot. So we have wandered into a topsy-turvy world in which machines make us jump through hoops to prove that we are humans!\n\nAlthough it’s clearly human ingenuity transforming us to unpaid “click workers” training A.I, but regardless it's still a very interesting case.\n\nIt makes you wonder what could happen if an A.I. would learn and deploy this on its own. And although I don’t think this would happen in the very near future, we should think about unforeseen consequences (as almost all technology and legislations bring in there wake).\n\n_P.S. Personally I find the types of CAPTCHAs presented to us very interesting. It gives insight in the current focus of developments in machine learning and A.I. Will be very interesting to see what will be next after road signs and store fronts._\n\n[Computers have learned to make us jump through hoops](https://www.theguardian.com/technology/commentisfree/2018/nov/18/computers-have-learned-to-make-us-jump-through-hoops) - The Guardian\n",
+				"date_published": "2018-11-19T11:53:35+01:00",
+				"url": "https://roelwillems.com/2018/11/19/computers-have-learned.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/18/to-www-or.html",
+				"title": "∞ To www or not to www",
+				"content_html": "<blockquote>\n<p>For 20 years or so, there has been the debate over whether you should use www or not in your web site’s canonical hostname. So should you use www or not?</p>\n</blockquote>\n\n<!-- -->\n\n<blockquote>\n<p>If you’re concerned about the security of whatever you have on “example.com”, make sure you slap a “www”- in front of it. If that doesn’t help you choosing whether you should use www or not, I’m not sure what will.</p>\n</blockquote>\n\n<p><a href=\"https://bjornjohansen.no/www-or-not\">To www or not to www – Should you use www or not in your domain? by Bjørn Johansen</a></p>\n\n<p>Great read on the pro’s (prettier and easier) vs cons (security regarding cookies) of using www. For my own domain I don’t use cookies (besides one Cloudflare load balancing cookie), so using the origin domain without www. is perfectly safe. But still I wonder, should I switch just to support proper and safe web techniques?</p>\n",
+				"content_text": ">For 20 years or so, there has been the debate over whether you should use www or not in your web site’s canonical hostname. So should you use www or not?\n\n<!-- -->\n>If you’re concerned about the security of whatever you have on “example.com”, make sure you slap a “www”- in front of it. If that doesn’t help you choosing whether you should use www or not, I’m not sure what will.\n\n[To www or not to www – Should you use www or not in your domain? by Bjørn Johansen](https://bjornjohansen.no/www-or-not) \n\nGreat read on the pro’s (prettier and easier) vs cons (security regarding cookies) of using www. For my own domain I don’t use cookies (besides one Cloudflare load balancing cookie), so using the origin domain without www. is perfectly safe. But still I wonder, should I switch just to support proper and safe web techniques?\n",
+				"date_published": "2018-11-18T15:56:13+01:00",
+				"url": "https://roelwillems.com/2018/11/18/to-www-or.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html",
+				"title": "Micro guide: Getting your hosted Microblog IPv6 ready",
+				"content_html": "\n\n<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">&ldquo;micro guide&rdquo;</a>) to enable IPv6<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> for your hosted microblog<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn&rsquo;t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<pre><code>2600:3c00:1::68c8:16d6\n</code></pre>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/99b7b82333.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">hosted with <a href=\"https://micro.blog\">micro.blog</a>\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "This is a small guide (hence the category [\"micro guide\"](https://roelwillems.com/micro-guides/)) to enable IPv6[^1] for your hosted microblog[^2].\n\n*disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn't really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.*\n\n### Setting up IPv6\nTo start, you should go to your domain registrar or system to manage DNS (personally I use [Cloudflare](https://www.cloudflare.com) and have written another micro guide with recommendations on how-to [enable Cloudflare for your microblog](https://roelwillems.com/2018/04/16/micro-guide-additional.html)).\n\nNow you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses). \n\nMake sure that the AAAA record is pointing to: \n\n    2600:3c00:1::68c8:16d6\n\nThis is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:\n\n![example of DNS records](https://roelwillems.com/uploads/2018/99b7b82333.png)\n\nSave the settings and after a few minutes you can [check if your website has support for IPv6](https://www.internet.nl).\n\n[^1]:What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading [Wikipedia](https://en.wikipedia.org/wiki/IPv6) or look in to this [tutorial](https://www.tutorialspoint.com/ipv6/)\n[^2]:hosted with [micro.blog](https://micro.blog)\n",
+				"date_published": "2018-11-18T09:20:00+01:00",
+				"url": "https://roelwillems.com/2018/11/18/getting-your-hosted.html",
+				"tags": ["Articles","Micro guides"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/17/had-some-problems.html",
+				
+				"content_html": "<p>Had some problems with my two year old iPhone SE, bought it in for a battery replacement today (after all it is discounted until end of the year) but to my surprise the repair is on Apple. These small things really make you feel like a valued customer.</p>\n",
+				"content_text": "Had some problems with my two year old iPhone SE, bought it in for a battery replacement today (after all it is discounted until end of the year) but to my surprise the repair is on Apple. These small things really make you feel like a valued customer.\n",
+				"date_published": "2018-11-17T22:57:06+01:00",
+				"url": "https://roelwillems.com/2018/11/17/had-some-problems.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/17/creative-commons-licence.html",
+				"title": "Creative commons licence ",
+				"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the &ldquo;Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)&rdquo; to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup></p>\n\n<p>Although I don&rsquo;t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/0ef0f6811e.png\" alt=\"Image of the footer\" /></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Although I believe it would be a good thing for the internet and it&rsquo;s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Redid the footer of my website and am quite happy with the result. \n\nAlso moved to a creative commons licence for my content (the \"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\" to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).[^1]\n\nAlthough I don't expect many people to use my content, consider it my contributions to a free and open internet.\n\n![Image of the footer](https://roelwillems.com/uploads/2018/0ef0f6811e.png)\n\n[^1]:Although I believe it would be a good thing for the internet and it's users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. [Read all about it ](https://creativecommons.org)\n",
+				"date_published": "2018-11-17T10:48:41+01:00",
+				"url": "https://roelwillems.com/2018/11/17/creative-commons-licence.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/11/10/finally-had-some.html",
+				
+				"content_html": "<p>Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost immediately!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)</p>\n",
+				"content_text": "Finally had some time to dust off my micro.blog hosted sites ( @manton thanks for solving a HTTPS issue almost immediately!). Also looking in to the new Mastodon feature. Anyone recommendations for a username (@roelwillems@roelwillems seems a bit strange to me)\n",
+				"date_published": "2018-11-11T00:24:06+01:00",
+				"url": "https://roelwillems.com/2018/11/11/finally-had-some.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/06/04/quite-the-announcements.html",
+				
+				"content_html": "<p>Quite the announcements at WWDC from Apple regarding data and privacy.</p>\n\n<p>Social media companies and Adtech in general will be facing quite a massive drop in data when iOS 12 and MacOS Mojave are released.</p>\n",
+				"content_text": "Quite the announcements at WWDC from Apple regarding data and privacy. \n\nSocial media companies and Adtech in general will be facing quite a massive drop in data when iOS 12 and MacOS Mojave are released.\n",
+				"date_published": "2018-06-04T20:03:46+01:00",
+				"url": "https://roelwillems.com/2018/06/04/quite-the-announcements.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
+				
+				"content_html": "<p>Instapaper has temporary shut down for EU residents. I&rsquo;m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" /></p>\n",
+				"content_text": "Instapaper has temporary shut down for EU residents. I'm not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).  \n\n<img src=\"uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" />\n",
+				"date_published": "2018-05-25T09:34:09+01:00",
+				"url": "https://roelwillems.com/2018/05/25/instapaper-has-temporary.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
+				
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://roelwillems.com/uploads/2018/a9c1709c17.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 19  \nWorkout: 7,034 meters /500m: 2:07  \n![workout](https://roelwillems.com/uploads/2018/a9c1709c17.jpg)\n\n**Total Meters**  \nThis Week: 7,034  \nSeason: 34,648  \nGoal: row a full marathon  \n\n**Notes**  \nJust a basic row to get some meters on the erg\n",
+				"date_published": "2018-05-14T21:48:56+01:00",
+				"url": "https://roelwillems.com/2018/05/14/204856.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/12/133403.html",
+				
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://roelwillems.com/uploads/2018/70d85c2269.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18  \nWorkout: 6.855 meters /500m: 2:11  \n![workout](https://roelwillems.com/uploads/2018/70d85c2269.jpg)\n\n**Total Meters**  \nThis Week: 27.614  \nSeason: 27.614  \nGoal: row a full marathon  \n\n**Notes**  \nSteady pace with 10 power strokes every 500m\n",
+				"date_published": "2018-05-12T14:34:03+01:00",
+				"url": "https://roelwillems.com/2018/05/12/133403.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/10/202605.html",
+				
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\n6,434 m (+ 2,219 m cooling down)</p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 20.735<br />\nSeason 2018: 20.735<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nInterval: 2000m 1500m 1000m 500m at 2:00 target. Did experiment with different stroke rates</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18  \n6,434 m (+ 2,219 m cooling down)  \n\n**Total Meters**  \nThis Week: 20.735  \nSeason 2018: 20.735  \nCurrent goal: row a full marathon  \n\n**Notes**  \nInterval: 2000m 1500m 1000m 500m at 2:00 target. Did experiment with different stroke rates\n",
+				"date_published": "2018-05-10T21:26:05+01:00",
+				"url": "https://roelwillems.com/2018/05/10/202605.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/09/facebook-accused-of.html",
+				"title": "Facebook accused of  extremists to one another through ‘suggested friends’ feature (The Telegraph)",
+				"content_html": "<blockquote>\n<p>Using sophisticated algorithms, Facebook is designed to connect people who share common interests.</p>\n\n<p>&ldquo;Facebook, in their desire to connect as many people as possible have inadvertently created a system which helps connect extremists and terrorists.”</p>\n</blockquote>\n\n<p><a href=\"https://www..co.uk/news/2018/05/05/facebook-accused-introducing-extremists-one-another-suggested/\">The Telegraph article</a><sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>.</p>\n\n<p>There is much to say about the role and responsibility of Facebook. But I couldn&rsquo;t think of a comment as brilliant as the one by <a href=\"https://micro.blog/ben\">@ben</a> <a href=\"https://brooksreview.net/2018/05/facebook-accused-of-introducing-extremists-to-one-another-through-suggested-friends-feature/\">-&gt;</a>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Picked a few specific quotes from the article to show the gist of the article storyline.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "> Using sophisticated algorithms, Facebook is designed to connect people who share common interests.\n>\n> \"Facebook, in their desire to connect as many people as possible have inadvertently created a system which helps connect extremists and terrorists.”\n\n[The Telegraph article](https://www..co.uk/news/2018/05/05/facebook-accused-introducing-extremists-one-another-suggested/)[^1].\n\nThere is much to say about the role and responsibility of Facebook. But I couldn't think of a comment as brilliant as the one by [@ben](https://micro.blog/ben) [->](https://brooksreview.net/2018/05/facebook-accused-of-introducing-extremists-to-one-another-through-suggested-friends-feature/).\n\n[^1]:Picked a few specific quotes from the article to show the gist of the article storyline.\n",
+				"date_published": "2018-05-09T15:28:53+01:00",
+				"url": "https://roelwillems.com/2018/05/09/facebook-accused-of.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
+				
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://roelwillems.com/uploads/2018/83a4bd044f.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18\n![Workout](https://roelwillems.com/uploads/2018/83a4bd044f.jpg)\n\n**Total Meters**  \nThis Week: 12.082  \nSeason 2018: 12.082  \nCurrent goal: row a full marathon  \n\n**Notes**  \nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04\n",
+				"date_published": "2018-05-08T20:36:07+01:00",
+				"url": "https://roelwillems.com/2018/05/08/row-log-update.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/07/for-the-new.html",
+				
+				"content_html": "<p>For the new indoor rowing season<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> I decided to start posting my training progress. To keep accountable but also to have a place for written notes on training. So as of today you will see more updates on my progress. 🚣‍♂️</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">The Concept 2 2018 season started 1 May 2018\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "For the new indoor rowing season[^1] I decided to start posting my training progress. To keep accountable but also to have a place for written notes on training. So as of today you will see more updates on my progress. 🚣‍♂️\n\n[^1]:The Concept 2 2018 season started 1 May 2018\n",
+				"date_published": "2018-05-07T14:07:50+01:00",
+				"url": "https://roelwillems.com/2018/05/07/for-the-new.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/07/row-log-updatecalendar.html",
+				
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18 - start of new Concept 2 season 1 May<br />\nWorkout: 7.076 meters<br />\n/500m: 2:07.1</p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7.076<br />\nSeason 2018: 7.076<br />\nCurrent season goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSplit the training in 12,5 min moderate, 5 min easy, 12,5 min moderate.</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18 - start of new Concept 2 season 1 May  \nWorkout: 7.076 meters  \n/500m: 2:07.1  \n\n**Total Meters**  \nThis Week: 7.076  \nSeason 2018: 7.076  \nCurrent season goal: row a full marathon  \n\n**Notes**  \nSplit the training in 12,5 min moderate, 5 min easy, 12,5 min moderate.\n",
+				"date_published": "2018-05-07T14:01:07+01:00",
+				"url": "https://roelwillems.com/2018/05/07/row-log-updatecalendar.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/03/how-very-social.html",
+				"title": "How very social",
+				"content_html": "<blockquote>\n<p>Samsung Smart TV. During the first minute after power-on, the TV talks to Google Play, Double Click, Netflix, FandangoNOW, Spotify, CBS, MSNBC, NFL, Deezer, and Facebook­ even though we did not sign in or create accounts with any of them.</p>\n</blockquote>\n\n<p>Now you know why your TV keeps bugging you about <a href=\"https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html\">GDPR consent</a></p>\n\n<p><a href=\"https://freedom-to-tinker.com/2018/04/23/announcing-iot-inspector-a-tool-to-study-smart-home-iot-device-behavior/\">∞</a></p>\n",
+				"content_text": "> Samsung Smart TV. During the first minute after power-on, the TV talks to Google Play, Double Click, Netflix, FandangoNOW, Spotify, CBS, MSNBC, NFL, Deezer, and Facebook­ even though we did not sign in or create accounts with any of them.\n\nNow you know why your TV keeps bugging you about [GDPR consent](https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html)\n\n[∞](https://freedom-to-tinker.com/2018/04/23/announcing-iot-inspector-a-tool-to-study-smart-home-iot-device-behavior/)\n",
+				"date_published": "2018-05-03T23:06:25+01:00",
+				"url": "https://roelwillems.com/2018/05/04/how-very-social.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/03/whos-next.html",
+				"title": "Who’s next?",
+				"content_html": "<blockquote>\n<p>Step 1: get dating apps to build themselves on your platform’s data\nStep 2: cut them off from your platform’s data with no warning\nStep 3: build a competitor to dating apps with the data you are now keeping to yourself</p>\n\n<p>Seems kinda antitrust-ish&hellip;</p>\n</blockquote>\n\n<p><a href=\"https://mobile.twitter.com/SirKneeland/status/991373570730147840\">John Kneeland</a> via <a href=\"https://www.theverge.com/2018/5/1/17307782/facebook-tinder-dating-app-f8-match-okcupid\">Daring fireball</a></p>\n\n<p>Fool me once, shame on you(r news business); fool me twice, shame on me(re dating apps).</p>\n\n<p>So this begs the question; who&rsquo;s business will be next?</p>\n",
+				"content_text": "> Step 1: get dating apps to build themselves on your platform’s data \nStep 2: cut them off from your platform’s data with no warning \nStep 3: build a competitor to dating apps with the data you are now keeping to yourself\n>\n> Seems kinda antitrust-ish...\n\n[John Kneeland](https://mobile.twitter.com/SirKneeland/status/991373570730147840) via [Daring fireball](https://www.theverge.com/2018/5/1/17307782/facebook-tinder-dating-app-f8-match-okcupid)\n\nFool me once, shame on you(r news business); fool me twice, shame on me(re dating apps).\n\nSo this begs the question; who's business will be next?\n",
+				"date_published": "2018-05-03T22:49:17+01:00",
+				"url": "https://roelwillems.com/2018/05/03/whos-next.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/03/looking-in-to.html",
+				
+				"content_html": "<p>Looking in to switching (back) to Linux. It would be fine (or better) for 90% of my current laptop usage. Although I am still hestitant because I&rsquo;m quite tied in to Apples Ecosystem at the moment  and am still looking for good alternatives for specific software</p>\n",
+				"content_text": "Looking in to switching (back) to Linux. It would be fine (or better) for 90% of my current laptop usage. Although I am still hestitant because I'm quite tied in to Apples Ecosystem at the moment  and am still looking for good alternatives for specific software\n",
+				"date_published": "2018-05-03T21:08:11+01:00",
+				"url": "https://roelwillems.com/2018/05/03/looking-in-to.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/02/disruptive-vs-sustaining.html",
+				"title": "Disruptive vs Sustaining innovation and the Tesla case",
+				"content_html": "<p>I always enjoy Ben en James talking business strategy in their <a href=\"http://exponent.fm\">Exponent podcast</a> (Ben Thompson from <a href=\"https://stratechery.com\">Stratechery</a> with co-host James Allworth). Their last podcast about Zillow (<a href=\"http://exponent.fm/episode-149-zillow-and-sustaining-aggregation/\">#149 - Zillow and Sustaining Aggregation</a>) has a specific part really standing out. At 14:14 minutes in, James explains the difference between sustaining and disrupting innovation. And does so in very clear language.</p>\n\n<p>An excerpt from the podcast (emphasis is mine):\n&gt; James: It think what would be interesting here, just to drive home the point for people. Is to think about a technology right now and how it could be applied as a sustaining innovation and a disruptive innovation. It&rsquo;s been a less popular topic in the more recent Exponents but obviously, if you go back far enough, something we would talk a whole lot about is self-driving cars and the impact that&rsquo;s going to have on society.\n&gt;\n&gt; Now the technology is going to be the same if you are an existing manufacturer or something like Google, and maybe Google drops it into an existing manufacturer. This is a technology in and of itself business model agnostic, but you think about the incentives of different players and how they want to apply that technology. You give this to someone like BMW, an existing car manufacturer. And their instinct is to think; how can I take this technology and sell the vehicle that I have for more money as a result. And you get cool features like self-driving on Tesla or adaptive cruise control on BMW. <em>&hellip;&hellip;&hellip;</em> But it&rsquo;s fundamentally a sustaining innovation. This is exactly why self-driving vehicle; people love to talk about Tesla&rsquo;s disruptive, and maybe there is something in terms of the way they are thinking about building out a network and so on, this is true. But in terms of the actual vehicles, this is why Tesla vehicles are fundamentally not a disruptive product. <em>They are using a technology to sell a better product to the existing people for more money. It is fundamentally the same business model.</em> But take that to a very different context which is; <em>something like Uber or Lift, doing ride sharing. And their primary cost of business is paying for the drivers in the vehicles. And that is disruptive to the existing car manufacturers. Uber and lift want to take the self-driving technology and they are not going to take that and trying to sell the vehicles for more money as a result of it.</em> They are going to take the technology and use it to drive down the cost basis of offering ride sharing. <em>The same technology applied in fundamentally different ways, one is sustaining, one is disruptive.</em></p>\n\n<p>Highly recommend listing if you care about online/tech business strategy.\nJames (and Ben) make a very compelling case that most (new) tech companies still running sustaining business models and most of them are in fact are no disrupters at all. Even if popular media will consistently describe them as &ldquo;disruptive&rdquo;.</p>\n\n<p>Tesla is also a great explanatory case for disruption vs sustaining business models. The technology deployed by Tesla is very new (and Eldon&rsquo;s vision maybe futuristic) but in its basic form, Tesla tries to build (better) cars and sell them for profit.</p>\n\n<p>My personal take out is: technology in and on itself isn&rsquo;t disruptive, the way technology is applied and to be more precise; the business model around it, make it disruptive for the status quo.\nBased on the business model behind technology/innovation can make it sustaining or disruptive.</p>\n\n<p>I also like the Tesla example. It shows the difficulty faced when entering a market with new technology/innovation deployed in a sustainable manner. Tesla isn&rsquo;t a tech company or disrupting the market. They are a car manufacturer in competition with other car manufacturers.</p>\n\n<p>And as much as I like Tesla for what they did for electric driving<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>, I do see many challenges in keeping ahead of the competition while solving the scalability issues they are facing.</p>\n\n<p>Entering a market with a sustainable innovation is a rat race. And this is no different for Tesla.\nSo how much time does it take Tesla to get their production efficiency on par with the traditional car manufactures? And how long will it take those manufactures to get to the same technology level?</p>\n\n<p><em>Keeping in mind that traditional manufacturers very likely will be able to buy their way into newer and better technology at an increasing pace. Taking into account that there are a growing number of potential suppliers for self-driving tech (who haven&rsquo;t shown interest in mass producing cars)</em>.</p>\n\n<p>With every minute passing it will be easier for those traditional manufacturers to add more advanced technology into the already established line up of cars (which already are built at a massive scale).</p>\n\n<p>So the biggest problem faced by Tesla isn&rsquo;t how to build cars at scale. Given enough time I&rsquo;m sure they will figure this out, other companies already have done so.</p>\n\n<p>But the challenge for Tesla is keeping their edge over the competition. Keep outpacing other car manufacturers on a technology front long enough. Making the most innovative cars and reaching the hearts&amp;minds (and share of wallets) from their potential customer. Which in turn will buy them (much needed) time to sort out car production at scale.</p>\n\n<p>And if Tesla succeeds I still wonder what will differentiate Tesla when the rest of the market obtains the same level of technology.</p>\n\n<p>You are basically betting on your ability to innovate at a faster pace then the incumbents can play catch up when competing on technology in a sustaining business model.</p>\n\n<p>Which is all well and good, but clearly very different from disruption.\nSelf-driving technology will make ride-sharing services cheap, practical and maybe even irresistible to consumers that they (potentially) will just stop buying cars altogether. Which would be very disruptive to the current market.</p>\n\n<p>If this will happen at all, no one can tell. But I know that although innovative we shouldn&rsquo;t be calling Tesla disruptive anymore.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">how, in my opinion, Tesla altered the course of electric cars will be a topic for a different post\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "I always enjoy Ben en James talking business strategy in their [Exponent podcast](http://exponent.fm) (Ben Thompson from [Stratechery](https://stratechery.com) with co-host James Allworth). Their last podcast about Zillow ([#149 - Zillow and Sustaining Aggregation](http://exponent.fm/episode-149-zillow-and-sustaining-aggregation/)) has a specific part really standing out. At 14:14 minutes in, James explains the difference between sustaining and disrupting innovation. And does so in very clear language. \n\nAn excerpt from the podcast (emphasis is mine):\n> James: It think what would be interesting here, just to drive home the point for people. Is to think about a technology right now and how it could be applied as a sustaining innovation and a disruptive innovation. It's been a less popular topic in the more recent Exponents but obviously, if you go back far enough, something we would talk a whole lot about is self-driving cars and the impact that's going to have on society.\n> \n> Now the technology is going to be the same if you are an existing manufacturer or something like Google, and maybe Google drops it into an existing manufacturer. This is a technology in and of itself business model agnostic, but you think about the incentives of different players and how they want to apply that technology. You give this to someone like BMW, an existing car manufacturer. And their instinct is to think; how can I take this technology and sell the vehicle that I have for more money as a result. And you get cool features like self-driving on Tesla or adaptive cruise control on BMW. _........._ But it's fundamentally a sustaining innovation. This is exactly why self-driving vehicle; people love to talk about Tesla's disruptive, and maybe there is something in terms of the way they are thinking about building out a network and so on, this is true. But in terms of the actual vehicles, this is why Tesla vehicles are fundamentally not a disruptive product. _They are using a technology to sell a better product to the existing people for more money. It is fundamentally the same business model._ But take that to a very different context which is; _something like Uber or Lift, doing ride sharing. And their primary cost of business is paying for the drivers in the vehicles. And that is disruptive to the existing car manufacturers. Uber and lift want to take the self-driving technology and they are not going to take that and trying to sell the vehicles for more money as a result of it._ They are going to take the technology and use it to drive down the cost basis of offering ride sharing. *The same technology applied in fundamentally different ways, one is sustaining, one is disruptive.*\n\nHighly recommend listing if you care about online/tech business strategy. \nJames (and Ben) make a very compelling case that most (new) tech companies still running sustaining business models and most of them are in fact are no disrupters at all. Even if popular media will consistently describe them as \"disruptive\". \n\nTesla is also a great explanatory case for disruption vs sustaining business models. The technology deployed by Tesla is very new (and Eldon's vision maybe futuristic) but in its basic form, Tesla tries to build (better) cars and sell them for profit. \n\nMy personal take out is: technology in and on itself isn't disruptive, the way technology is applied and to be more precise; the business model around it, make it disruptive for the status quo. \nBased on the business model behind technology/innovation can make it sustaining or disruptive.\n\nI also like the Tesla example. It shows the difficulty faced when entering a market with new technology/innovation deployed in a sustainable manner. Tesla isn't a tech company or disrupting the market. They are a car manufacturer in competition with other car manufacturers.  \n\nAnd as much as I like Tesla for what they did for electric driving[^1], I do see many challenges in keeping ahead of the competition while solving the scalability issues they are facing.\n\nEntering a market with a sustainable innovation is a rat race. And this is no different for Tesla.\nSo how much time does it take Tesla to get their production efficiency on par with the traditional car manufactures? And how long will it take those manufactures to get to the same technology level? \n\n_Keeping in mind that traditional manufacturers very likely will be able to buy their way into newer and better technology at an increasing pace. Taking into account that there are a growing number of potential suppliers for self-driving tech (who haven't shown interest in mass producing cars)_.\n\nWith every minute passing it will be easier for those traditional manufacturers to add more advanced technology into the already established line up of cars (which already are built at a massive scale).\n\nSo the biggest problem faced by Tesla isn't how to build cars at scale. Given enough time I'm sure they will figure this out, other companies already have done so. \n\nBut the challenge for Tesla is keeping their edge over the competition. Keep outpacing other car manufacturers on a technology front long enough. Making the most innovative cars and reaching the hearts&minds (and share of wallets) from their potential customer. Which in turn will buy them (much needed) time to sort out car production at scale.\n\nAnd if Tesla succeeds I still wonder what will differentiate Tesla when the rest of the market obtains the same level of technology. \n\nYou are basically betting on your ability to innovate at a faster pace then the incumbents can play catch up when competing on technology in a sustaining business model.\n\nWhich is all well and good, but clearly very different from disruption. \nSelf-driving technology will make ride-sharing services cheap, practical and maybe even irresistible to consumers that they (potentially) will just stop buying cars altogether. Which would be very disruptive to the current market.\n\nIf this will happen at all, no one can tell. But I know that although innovative we shouldn't be calling Tesla disruptive anymore.\n\n[^1]:how, in my opinion, Tesla altered the course of electric cars will be a topic for a different post\n",
+				"date_published": "2018-05-02T20:57:02+01:00",
+				"url": "https://roelwillems.com/2018/05/02/disruptive-vs-sustaining.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/05/01/just-finished-moving.html",
+				
+				"content_html": "<p>Just finished moving some old photos from instagram to my dedicated photo-micro-blog <a href=\"http://maintainingfocus.com\">maintainingfocus.com</a>. Done for today, moving content to my own space on the web.</p>\n",
+				"content_text": "Just finished moving some old photos from instagram to my dedicated photo-micro-blog [maintainingfocus.com](http://maintainingfocus.com). Done for today, moving content to my own space on the web.\n",
+				"date_published": "2018-05-01T21:21:27+01:00",
+				"url": "https://roelwillems.com/2018/05/01/just-finished-moving.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/30/by-the-way.html",
+				
+				"content_html": "<blockquote>\n<p>By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.</p>\n</blockquote>\n\n<p><a href=\"http://blog.samaltman.com/productivity\">∞</a></p>\n\n<p>Good advice<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\"><em>although from &ldquo;PHYSICAL FACTORS&rdquo; onwards it gets a bit over the top for my taste</em> I would sum up my strategy on this topic as: exercise, eat and sleep well and take time to unwind and relax a bit.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "> By the way, here is an important lesson about delegation: remember that everyone else is also most productive when they’re doing what they like, and do what you’d want other people to do for you—try to figure out who likes (and is good at) doing what, and delegate that way.\n\n[∞](http://blog.samaltman.com/productivity)\n\nGood advice[^1]\n\n[^1]:_although from \"PHYSICAL FACTORS\" onwards it gets a bit over the top for my taste_ I would sum up my strategy on this topic as: exercise, eat and sleep well and take time to unwind and relax a bit. \n",
+				"date_published": "2018-04-30T19:16:47+01:00",
+				"url": "https://roelwillems.com/2018/04/30/by-the-way.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/30/174249.html",
+				
+				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2018/37f2320bca.png\" alt=\"Concept2 Marathon challenge\" /></p>\n\n<p><a href=\"https://log.concept2.com/challenges/marathon\">Challenge</a> accepted</p>\n",
+				"content_text": "![Concept2 Marathon challenge](https://roelwillems.com/uploads/2018/37f2320bca.png)\n\n[Challenge](https://log.concept2.com/challenges/marathon) accepted\n",
+				"date_published": "2018-04-30T18:42:49+01:00",
+				"url": "https://roelwillems.com/2018/04/30/174249.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/26/httpsdshreethe-joys-of.html",
+				
+				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2018/2ee2241835.jpg\" alt=\"\" /></p>\n\n<p>The joys of technology: That moment when your TV asks you for GDPR consent.</p>\n",
+				"content_text": "![](https://roelwillems.com/uploads/2018/2ee2241835.jpg)\n\nThe joys of technology: That moment when your TV asks you for GDPR consent.\n",
+				"date_published": "2018-04-26T09:25:16+01:00",
+				"url": "https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/25/on-turn-off.html",
+				"title": "On turning off unnecessary notifications",
+				"content_html": "<blockquote>\n<ul>\n<li>turn off all lock screen notifications (this is better for privacy anyway)</li>\n<li>turn off vibrate and sound notifications, I leave badges for important things like messaging apps</li>\n<li>turn off notifications for apps that really don’t need it</li>\n</ul>\n</blockquote>\n\n<p>Nathan Toups makes a case for a <a href=\"https://nomasters.io/posts/dumber-phone/\">dumber phone</a> with great recommendations overall.</p>\n\n<p>One thing I would add from personal experience<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> is to make very conscious use of the silence/mute switch on phone.</p>\n\n<p>No sound/viberation 99% of the time, but if I need and enable sound I also have the super annoying keyboard sounds enabled by default (so I don’t forget to revert to silent <em>ASAP</em>).</p>\n\n<p>Via <a href=\"https://brooksreview.net/2018/04/dumber-phone/\">Ben Brooks</a></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch.  Now I’m back to wearing a classic watch as wrist based notifications <a href=\"http://roelwillems.com/2018/04/10/the-battery-of.html\">over time became an unwanted distraction</a>.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "> - turn off all lock screen notifications (this is better for privacy anyway)\n> - turn off vibrate and sound notifications, I leave badges for important things like messaging apps\n> - turn off notifications for apps that really don’t need it\n\nNathan Toups makes a case for a [dumber phone](https://nomasters.io/posts/dumber-phone/) with great recommendations overall. \n\nOne thing I would add from personal experience[^1] is to make very conscious use of the silence/mute switch on phone. \n\nNo sound/viberation 99% of the time, but if I need and enable sound I also have the super annoying keyboard sounds enabled by default (so I don’t forget to revert to silent _ASAP_).\n\nVia [Ben Brooks](https://brooksreview.net/2018/04/dumber-phone/)\n\n[^1]:Personally I turned off sounds and vibration on my phone when I started wearing my Apple Watch.  Now I’m back to wearing a classic watch as wrist based notifications [over time became an unwanted distraction](http://roelwillems.com/2018/04/10/the-battery-of.html). \n",
+				"date_published": "2018-04-25T21:56:04+01:00",
+				"url": "https://roelwillems.com/2018/04/25/on-turn-off.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/25/this-will-be.html",
+				"title": "This will be interesting..",
+				"content_html": "<blockquote>\n<p><a href=\"https://www.engadget.com/2018/04/24/whatsapp-require-users-in-europe-at-least-16-years-old/\">WhatsApp will require users in Europe to be at least 16 years old</a></p>\n</blockquote>\n\n<p>I can imagine many reasons why the age limit would need to be increased under more strict European privacy law, none of them any good for something so fundamental as a messaging app.</p>\n\n<p><em>just a recommendation: <a href=\"https://signal.org\">Signal</a> or <a href=\"https://keybase.io\">Keybase</a></em></p>\n",
+				"content_text": "> [WhatsApp will require users in Europe to be at least 16 years old](https://www.engadget.com/2018/04/24/whatsapp-require-users-in-europe-at-least-16-years-old/)\n\nI can imagine many reasons why the age limit would need to be increased under more strict European privacy law, none of them any good for something so fundamental as a messaging app.\n\n_just a recommendation: [Signal](https://signal.org) or [Keybase](https://keybase.io)_\n",
+				"date_published": "2018-04-25T15:09:05+01:00",
+				"url": "https://roelwillems.com/2018/04/25/this-will-be.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/24/blocker-will-be.html",
+				
+				"content_html": "<p>1Blocker will be releasing a new version called <a href=\"https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36\">1Blocker X</a> on 26 April, <a href=\"https://itunes.apple.com/us/app/id1365531024?at=1l3v36d\">pre-order now available</a>. I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in.</p>\n",
+				"content_text": "1Blocker will be releasing a new version called [1Blocker X](https://backstage.1blocker.com/say-hello-to-1blocker-x-8b55efe1ae36) on 26 April, [pre-order now available](https://itunes.apple.com/us/app/id1365531024?at=1l3v36d). I have no doubt it will be even better than the original (now called 1Blocker Legacy), so I’m in. \n",
+				"date_published": "2018-04-24T16:26:42+01:00",
+				"url": "https://roelwillems.com/2018/04/24/blocker-will-be.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
+				
+				"content_html": "<blockquote>\n<p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles&hellip;</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
+				"content_text": "> Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles...\n\n![Unread adds support for untitled articles](https://dsh.re/c19a2)\n\nLess is more\n\n_Source: [burk.io](https://burk.io/2018/04/23/this-should-be.html)_\n",
+				"date_published": "2018-04-23T21:15:30+01:00",
+				"url": "https://roelwillems.com/2018/04/23/unread-will-no.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/23/collected-goodness-good.html",
+				"title": "∞ Collected Goodness Good material. Good art. Good living.",
+				"content_html": "<p><a href=\"https://collectedgoodness.com/\">Collected Goodness.com</a> by <a href=\"http://www.coffman.co/\">Drew Coffman</a></p>\n\n<p>Very interesting and inspiring stuff, will need to look in to it more but the first recommended reads/listens seem very worthwhile.</p>\n\n<p>I also like the format a lot, it strikes a balance between linking to interesting content supplemented with quotes supported by the voice-over by Drew.  Very well done altogether.</p>\n\n<p><em>Found via: <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> (thanks!)</em></p>\n",
+				"content_text": "[Collected Goodness.com](https://collectedgoodness.com/) by [Drew Coffman](http://www.coffman.co/) \n\nVery interesting and inspiring stuff, will need to look in to it more but the first recommended reads/listens seem very worthwhile.\n\nI also like the format a lot, it strikes a balance between linking to interesting content supplemented with quotes supported by the voice-over by Drew.  Very well done altogether.\n\n_Found via: [@patrickrhone](https://micro.blog/patrickrhone) (thanks!)_\n",
+				"date_published": "2018-04-23T16:33:49+01:00",
+				"url": "https://roelwillems.com/2018/04/23/collected-goodness-good.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/18/223427.html",
+				
+				"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png\" alt=\"Night Owl \" /></p>\n\n<p>Unlock the Night Owl pin, time to sign off</p>\n",
+				"content_text": "![Night Owl ](https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png)\n\nUnlock the Night Owl pin, time to sign off\n",
+				"date_published": "2018-04-18T23:34:27+01:00",
+				"url": "https://roelwillems.com/2018/04/19/223427.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/18/scaling-is-hard.html",
+				"title": "Scaling is hard",
+				"content_html": "<blockquote>\n<p>Most of the design tolerances of the Model 3 are already better than any other car in the world. Soon, they will all be better. This is not enough. We will keep going until the Model 3 build precision is a factor of ten better than any other car in the world. I am not kidding.</p>\n\n<p>Our car needs to be designed and built with such accuracy and precision that, if an owner measures dimensions, panel gaps and flushness, and their measurements don’t match the Model 3 specs, it just means that their measuring tape is wrong.</p>\n</blockquote>\n\n<p>I&rsquo;m <a href=\"https://daringfireball.net/linked/2018/04/17/musk-tesla\">quoting a quote of Eldon Musk by John Gruber</a>.</p>\n\n<p>But after reading the article and memo I can&rsquo;t suppress the feeling that people waiting in line (after forking over cash to enter the cue) would be happy with clear delivery times<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> and quite satisfied with tolerances on par with current electric cars that are already build at scale<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup>.</p>\n\n<p>In my opinion the real challenge for Tesla (or any car manufacture for that matter) isn&rsquo;t reaching near perfect build precision but getting to a good enough level <em>at scale</em>.</p>\n\n<p>Tesla taking on the challenge to build 350.000+ model 3&rsquo;s currently in backorder<sup class=\"footnote-ref\" id=\"fnref:3\"><a href=\"#fn:3\">3</a></sup> is a marvel on it&rsquo;s own.</p>\n\n<p>This will play out to be the greatest achievement in automotive history or Tesla being overtaken by the <a href=\"https://www.wsj.com/articles/volvo-to-phase-out-conventional-car-engine-14992272020\">traditional manufactures moving to full electric</a>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\"><a href=\"https://www.telegraph.co.uk/technology/2018/04/17/tesla-halts-model-3-production-second-time-year/amp/\">Tesla halts Model 3 production second time this year -telegraph.co.uk</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">In Europe you could have a full electric VW e-Golf on your driveway, two months after you place an order.\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n<li id=\"fn:3\">Based on quick calculation on numbers provided by <a href=\"https://www.bloomberg.com/news/articles/2018-04-18/california-opens-investigation-into-tesla-workplace-conditions\">Bloomberg</a>\n <a class=\"footnote-return\" href=\"#fnref:3\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "> Most of the design tolerances of the Model 3 are already better than any other car in the world. Soon, they will all be better. This is not enough. We will keep going until the Model 3 build precision is a factor of ten better than any other car in the world. I am not kidding.\n>\n> Our car needs to be designed and built with such accuracy and precision that, if an owner measures dimensions, panel gaps and flushness, and their measurements don’t match the Model 3 specs, it just means that their measuring tape is wrong.\n\nI'm [quoting a quote of Eldon Musk by John Gruber](https://daringfireball.net/linked/2018/04/17/musk-tesla). \n\nBut after reading the article and memo I can't suppress the feeling that people waiting in line (after forking over cash to enter the cue) would be happy with clear delivery times[^1] and quite satisfied with tolerances on par with current electric cars that are already build at scale[^2].\n\nIn my opinion the real challenge for Tesla (or any car manufacture for that matter) isn't reaching near perfect build precision but getting to a good enough level _at scale_.\n\nTesla taking on the challenge to build 350.000+ model 3's currently in backorder[^3] is a marvel on it's own.\n\nThis will play out to be the greatest achievement in automotive history or Tesla being overtaken by the [traditional manufactures moving to full electric](https://www.wsj.com/articles/volvo-to-phase-out-conventional-car-engine-14992272020).\n\n[^1]:[Tesla halts Model 3 production second time this year -telegraph.co.uk](https://www.telegraph.co.uk/technology/2018/04/17/tesla-halts-model-3-production-second-time-year/amp/)\n[^2]:In Europe you could have a full electric VW e-Golf on your driveway, two months after you place an order.\n[^3]:Based on quick calculation on numbers provided by [Bloomberg](https://www.bloomberg.com/news/articles/2018-04-18/california-opens-investigation-into-tesla-workplace-conditions)\n",
+				"date_published": "2018-04-18T23:29:54+01:00",
+				"url": "https://roelwillems.com/2018/04/19/scaling-is-hard.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/18/far-more-than.html",
+				
+				"content_html": "<blockquote>\n<p>Far more than 87 million people may have had their Facebook data harvested by Cambridge Analytica</p>\n</blockquote>\n\n<p>No surprises here, but I am still curious what the final number will be. Place your bets…</p>\n",
+				"content_text": "> Far more than 87 million people may have had their Facebook data harvested by Cambridge Analytica\n\nNo surprises here, but I am still curious what the final number will be. Place your bets…\n",
+				"date_published": "2018-04-18T21:17:54+01:00",
+				"url": "https://roelwillems.com/2018/04/18/far-more-than.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/18/today-ive-switched.html",
+				
+				"content_html": "<p>Today I&rsquo;ve switched RSS service.  After Greader, quite some time long self-hosted (<a href=\"https://feedafever.com/\">Fever</a> <sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>) using minimalreader.com<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup>. Today I settled on <a href=\"https://feedbin.com/\">Feedbin</a>, good web interface, support for third party apps/syncing and a clear business model.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">not in active development\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">discontinued\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Today I've switched RSS service.  After Greader, quite some time long self-hosted ([Fever](https://feedafever.com/) [^1]) using minimalreader.com[^2]. Today I settled on [Feedbin](https://feedbin.com/), good web interface, support for third party apps/syncing and a clear business model.\n\n[^1]:not in active development\n[^2]:discontinued\n",
+				"date_published": "2018-04-18T20:45:40+01:00",
+				"url": "https://roelwillems.com/2018/04/18/today-ive-switched.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/17/its-all-about.html",
+				"title": "∞ It’s all about perspective",
+				"content_html": "<blockquote>\n<p>Mobile apps are still often lacking in efficiency, Apple&rsquo;s Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse.</p>\n</blockquote>\n\n<p><a href=\"https://www.engadget.com/2018/04/12/ipad-laptop-replacement/\">engadget.com</a></p>\n\n<p>The whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It&rsquo;s all about perspective I guess.</p>\n",
+				"content_text": "> Mobile apps are still often lacking in efficiency, Apple's Smart Keyboard is mediocre and reaching up to touch the screen is far less comfortable and efficient than using a mouse. \n\n[engadget.com](https://www.engadget.com/2018/04/12/ipad-laptop-replacement/)\n\nThe whole article feels a bit shortsighted and only focussing on comparing the iPad to a regular PC. All of the statements could be made in favour of the iPad as a PC replacement. It's all about perspective I guess.\n",
+				"date_published": "2018-04-17T22:18:33+01:00",
+				"url": "https://roelwillems.com/2018/04/17/its-all-about.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/16/micro-guide-additional.html",
+				"title": "Micro guide: Additional steps and recommendations when using Cloudflare for your DNS",
+				"content_html": "\n\n<p><a href=\"https://www.cloudflare.com/\">Cloudflare</a> users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a <code>“custom domain isn't pointing to the micro.blog&quot;</code> error message when trying to save the custom domain.</p>\n\n<p>Luckily there is a work around:</p>\n\n<h2 id=\"how-to-get-your-custom-domain-working-with-cloudflare\">How to get your custom domain working <em>with</em> Cloudflare</h2>\n\n<ol>\n<li>First follow the steps as outlined above and add the proper “A” and/or “CNAME” records to the Cloudflare DNS panel;</li>\n<li>Before adding the custom domain to your Micro.blog account make sure that the “DNS and HTTP proxy (CDN)”  (orange cloud-icon) is disabled and set to bypass (grey cloud icon with the hover text “DNS only”);</li>\n<li>After updating your DNS records and Cloudflare set to bypass for the “A” record and/or “CNAME” go to “Account” on Micro.blog  and fill hostname (e.g. yourdomain.com) that you’d like to use for your Micro.blog;</li>\n<li>Micro.blog should save and enable to custom domain without issues. <em>If you get a message “custom domain isn&rsquo;t pointing to the micro.blog&rdquo;</em> make sure that you have set Cloudflare on bypass and wait for a few more minutes (the DNS change can take some time to get in effect);</li>\n<li>After successful saving the custom domain you can re-enable Cloudflare functionality on your domain/Micro.blog by remove the bypass, make sure that the cloud-icon is set to orange (hover text should state: “DNS and HTTP proxy (CDN)”).</li>\n</ol>\n\n<p><em>So there you have it, you are able to use  Cloudflare (DNS/CDN/security/caching/DDOS protection) with hosted Micro.blogs, with some  additional steps to get the initial setup working.</em></p>\n\n<h2 id=\"some-additional-recommendations\">Some additional recommendations:</h2>\n\n<h3 id=\"using-cloudflare-to-redirect-www-to-root-domain\">Using Cloudflare to redirect www. to root domain</h3>\n\n<p>If you would like to enable www. and root version of your custom domain it’s advisable to redirect one to the other (to make sure that there isn’t any duplicated content). Cloudflare can redirect the www. version to the root domain:\n1. Go to “Page rules” within your Cloudflare account;\n2. Create a page rule;\n3. Add &lt;www.yourdomain.com&gt;/* within the first field (“If the URL matches”);\n4. Under “Then the settings are:” select “Forwarding URL”, “ 301 - Permanent redirect”;\n5. Add: &lt;yourdomain.com&gt;/$1 to the destination URL field;\n6. Save and deploy the page rule for the redirect to take effect.</p>\n\n<h3 id=\"cloudflare-ssl-and-your-micro-blog\">Cloudflare, SSL and your Micro.blog</h3>\n\n<p>You should not use the SSL functionality provided by Cloudflare (email help@micro.blog to enable SSL).</p>\n",
+				"content_text": "[Cloudflare](https://www.cloudflare.com/) users wanting to use a custom domain name for their hosted Micro.blog will be greeted by a ```“custom domain isn't pointing to the micro.blog\"``` error message when trying to save the custom domain. \n\nLuckily there is a work around:\n\n## How to get your custom domain working _with_ Cloudflare\n1. First follow the steps as outlined above and add the proper “A” and/or “CNAME” records to the Cloudflare DNS panel;\n2. Before adding the custom domain to your Micro.blog account make sure that the “DNS and HTTP proxy (CDN)”  (orange cloud-icon) is disabled and set to bypass (grey cloud icon with the hover text “DNS only”);\n3. After updating your DNS records and Cloudflare set to bypass for the “A” record and/or “CNAME” go to “Account” on Micro.blog  and fill hostname (e.g. yourdomain.com) that you’d like to use for your Micro.blog;\n4. Micro.blog should save and enable to custom domain without issues. _If you get a message “custom domain isn't pointing to the micro.blog\"_ make sure that you have set Cloudflare on bypass and wait for a few more minutes (the DNS change can take some time to get in effect);\n5. After successful saving the custom domain you can re-enable Cloudflare functionality on your domain/Micro.blog by remove the bypass, make sure that the cloud-icon is set to orange (hover text should state: “DNS and HTTP proxy (CDN)”).\n\n_So there you have it, you are able to use  Cloudflare (DNS/CDN/security/caching/DDOS protection) with hosted Micro.blogs, with some  additional steps to get the initial setup working._\n\n\n## Some additional recommendations: \n\n### Using Cloudflare to redirect www. to root domain\nIf you would like to enable www. and root version of your custom domain it’s advisable to redirect one to the other (to make sure that there isn’t any duplicated content). Cloudflare can redirect the www. version to the root domain:\n1. Go to “Page rules” within your Cloudflare account;\n2. Create a page rule;\n3. Add \\<www.yourdomain.com\\>/\\* within the first field (“If the URL matches”); \n4. Under “Then the settings are:” select “Forwarding URL”, “ 301 - Permanent redirect”;\n5. Add: \\<yourdomain.com\\>/$1 to the destination URL field;\n6. Save and deploy the page rule for the redirect to take effect.\n\n### Cloudflare, SSL and your Micro.blog\nYou should not use the SSL functionality provided by Cloudflare (email help@micro.blog to enable SSL). \n",
+				"date_published": "2018-04-16T21:19:00+01:00",
+				"url": "https://roelwillems.com/2018/04/16/micro-guide-additional.html",
+				"tags": ["Articles","Micro guides"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/16/micro-guides-small.html",
+				"title": "Micro Guides: small articles which can be of great help",
+				"content_html": "<p>Yesterday I had the opportunity to help someone from the <a href=\"https://micro.blog\">Micro.blog</a> community by writing a <a href=\"http://roelwillems.com/2018/04/15/i-switched-my.html\">tiny post</a>.</p>\n\n<p>This sparked an idea: <em>Micro guides</em>, small articles about any subject you think could be of help or interest to the Microblogging community (for instance on writing, podcasting<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>, blog design or any other subject you think could be of help).</p>\n\n<p>I will certainly start to share more short articles on my journey to writing more often and possibly on Micro.blog tech stuff if I run in to it.</p>\n\n<p>The open web is build together, feel free to share (who knows how many people you could help!)</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">I already learned a lot about podcasting from the people I follow.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Yesterday I had the opportunity to help someone from the [Micro.blog](https://micro.blog) community by writing a [tiny post](http://roelwillems.com/2018/04/15/i-switched-my.html). \n\nThis sparked an idea: *Micro guides*, small articles about any subject you think could be of help or interest to the Microblogging community (for instance on writing, podcasting[^1], blog design or any other subject you think could be of help).\n\nI will certainly start to share more short articles on my journey to writing more often and possibly on Micro.blog tech stuff if I run in to it.\n\nThe open web is build together, feel free to share (who knows how many people you could help!)\n\n[^1]:I already learned a lot about podcasting from the people I follow.\n",
+				"date_published": "2018-04-16T20:52:00+01:00",
+				"url": "https://roelwillems.com/2018/04/16/micro-guides-small.html",
+				"tags": ["Articles","Micro guides"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/15/i-switched-my.html",
+				"title": "Micro Guide: Changing the default colors of the Micro.blog Marfa theme",
+				"content_html": "<p>I switched my theme for this microblog to Marfa.</p>\n\n<p>Marfa is a new theme for <a href=\"https://micro.blog\">Micro.blog</a> hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links.</p>\n\n<p>Changing the defaults (light red/pink-ish) is quite easy.\nUsing the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.</p>\n\n<pre><code class=\"language-CSS\">nav.main-nav a.cta {\n\tbackground: #fff;\n\tcolor: #ee4792;\n\tborder: 2px solid #fcdae9;\n}\n\nnav.main-nav a.cta:hover {\n\tbackground: #fcdae9;\n\tcolor: #ee4792;\n}\n\nnav.main-nav a, #footer a, #post-nav a, p a{\n   box-shadow: inset 0 -2px 0 #fcdae9;\n}\n\nnav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {\n\tbox-shadow: inset 0 -25px 0 #fcdae9;\n}\n</code></pre>\n\n<p><em><code>#fcdae9</code> is for underline and shading of the links. The <code>#ee4792</code> color is for the “Also on Micro.blog” text in the upper right button.</em></p>\n",
+				"content_text": "I switched my theme for this microblog to Marfa.\n\nMarfa is a new theme for [Micro.blog](https://micro.blog) hosted websites. I really like the theme but wanted to give it a small personal touch by changing the default color for links. \n\nChanging the defaults (light red/pink-ish) is quite easy. \nUsing the edit CSS functionality of Micro.blog you can overwrite the default colors by pasting the code above and change the colors to your liking.\n\n```CSS\nnav.main-nav a.cta {\n\tbackground: #fff;\n\tcolor: #ee4792;\n\tborder: 2px solid #fcdae9;\n}\n\nnav.main-nav a.cta:hover {\n\tbackground: #fcdae9;\n\tcolor: #ee4792;\n}\n\nnav.main-nav a, #footer a, #post-nav a, p a{\n   box-shadow: inset 0 -2px 0 #fcdae9;\n}\n\nnav.main-nav a:hover, #footer a:hover, #post-nav a:hover, p a:hover {\n\tbox-shadow: inset 0 -25px 0 #fcdae9;\n}\n```\n_`#fcdae9` is for underline and shading of the links. The `#ee4792` color is for the “Also on Micro.blog” text in the upper right button._\n",
+				"date_published": "2018-04-15T21:01:00+01:00",
+				"url": "https://roelwillems.com/2018/04/15/i-switched-my.html",
+				"tags": ["Articles","Micro guides"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/12/microcasting-short-form.html",
+				
+				"content_html": "<p>Microcasting (short form podcasting) comes to Micro.blog. Welcome <a href=\"http://www.manton.org/2018/04/wavelength-for-micro-blog.html\">Wavelength</a>. What a great addition to <a href=\"https://micro.blog/\">Micro.blog</a> and the Indieweb!</p>\n",
+				"content_text": "Microcasting (short form podcasting) comes to Micro.blog. Welcome [Wavelength](http://www.manton.org/2018/04/wavelength-for-micro-blog.html). What a great addition to [Micro.blog](https://micro.blog/) and the Indieweb!\n",
+				"date_published": "2018-04-12T20:41:04+01:00",
+				"url": "https://roelwillems.com/2018/04/12/microcasting-short-form.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/12/the-irony.html",
+				"title": "The Irony",
+				"content_html": "<p>Mark Zuckerberg left some of his notes on the table during a break in his testimony before Congress yesterday. It caught the attention of a press photographer who shared a photo of the document on social media.</p>\n\n<p>I guess Mark learned an important lesson: never to leave your notes open and unattended in public. Keeping stuff to yourself should not be based solely on trusting others to act in your best interest.</p>\n\n<p>To reuse and rephrase a <a href=\"http://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&amp;r=US&amp;IR=T\">quote by Mr. Zuckerberg himself</a>; <em>&lsquo;I&rsquo;ve &ldquo;trust them.&rdquo; Dumb f*ck&rsquo;</em></p>\n\n<p>There is, however, quite some talk on social media if it&rsquo;s morally ok for the press to share the picture taken.  A valid discussion even when it&rsquo;s a hearing regarding a company under testimony for violating people&rsquo;s privacy. We should treat others as you would want them to treat you<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">I&rsquo;m not linking to the photo as I think this information should have been kept private. The company in question doesn&rsquo;t change this for me.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Mark Zuckerberg left some of his notes on the table during a break in his testimony before Congress yesterday. It caught the attention of a press photographer who shared a photo of the document on social media.\n\nI guess Mark learned an important lesson: never to leave your notes open and unattended in public. Keeping stuff to yourself should not be based solely on trusting others to act in your best interest.\n\nTo reuse and rephrase a [quote by Mr. Zuckerberg himself](http://www.businessinsider.com/well-these-new-zuckerberg-ims-wont-help-facebooks-privacy-problems-2010-5?international=true&r=US&IR=T); _'I've \"trust them.\" Dumb f*ck'_\n\nThere is, however, quite some talk on social media if it's morally ok for the press to share the picture taken.  A valid discussion even when it's a hearing regarding a company under testimony for violating people's privacy. We should treat others as you would want them to treat you[^1].\n\n[^1]: I'm not linking to the photo as I think this information should have been kept private. The company in question doesn't change this for me.\n",
+				"date_published": "2018-04-12T17:11:59+01:00",
+				"url": "https://roelwillems.com/2018/04/12/the-irony.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
+				"title": "Do I really need to switch Text Editors?",
+				"content_html": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. Although after quickly skimming the article, some part did caught my attention.</p>\n\n<blockquote>\n<p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n<p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>Being open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" /></p>\n",
+				"content_text": "Questioning if I really need to look in to switching Text editors I almost discarding the [pick for the best Text Editor over at The Sweet Setup](https://thesweetsetup.com/apps/best-text-editor-macos/). Although after quickly skimming the article, some part did caught my attention.\n\n>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.\n>\n>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.\n\nBeing open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.\n\n<img src=\"uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" />\n",
+				"date_published": "2018-04-11T20:58:18+01:00",
+				"url": "https://roelwillems.com/2018/04/11/do-i-really.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/10/the-death-of.html",
+				
+				"content_html": "<p>Benedict Evans in his article &ldquo;The death of the newsfeed&rdquo; very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.</p>\n\n<p>I couldn&rsquo;t agree more to all Benedict states in this article and highly recommend anyone interested in this subject to read the article (twice!).</p>\n\n<blockquote>\n<p>Unavoidable as it seems, though, this approach has two problems. First, getting that sample ‘right’ is very hard, and beset by all sorts of conceptual challenges. But second, even if it’s a successful sample, it’s still a sample.</p>\n\n<p>Using signals of what people seem to want to see risks over-fitting, circularity and filter bubbles. People’s desires change, and they get bored of things.</p>\n</blockquote>\n\n<p>In my opinion this is one of the biggest challenges in data science.</p>\n\n<p>How can we help people navigate an abundance of choices (post, pictures,  search results or products) without unethically steer behaviour, creating self-fulfilling prophecy<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> or limit the room for people to change their preferences and discover new stuff.</p>\n\n<p><a href=\"https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed\">The death of the newsfeed - Benedict Evans</a></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Eli Pariser - Beware online &ldquo;filter bubble”: <a href=\"https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles\">TED talk</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Benedict Evans in his article \"The death of the newsfeed\" very clearly provides insight on why big tech companies are forced to a more algorithmic world, inadvertently forcing them between a rock and a hard place.\n\nI couldn't agree more to all Benedict states in this article and highly recommend anyone interested in this subject to read the article (twice!).\n\n> Unavoidable as it seems, though, this approach has two problems. First, getting that sample ‘right’ is very hard, and beset by all sorts of conceptual challenges. But second, even if it’s a successful sample, it’s still a sample.\n> \n>Using signals of what people seem to want to see risks over-fitting, circularity and filter bubbles. People’s desires change, and they get bored of things.\n\nIn my opinion this is one of the biggest challenges in data science. \n\nHow can we help people navigate an abundance of choices (post, pictures,  search results or products) without unethically steer behaviour, creating self-fulfilling prophecy[^1] or limit the room for people to change their preferences and discover new stuff. \n\n\n[The death of the newsfeed - Benedict Evans](https://www.ben-evans.com/benedictevans/2018/4/2/the-death-of-the-newsfeed)\n\n[^1]:Eli Pariser - Beware online \"filter bubble”: [TED talk](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles)\n",
+				"date_published": "2018-04-10T21:03:19+01:00",
+				"url": "https://roelwillems.com/2018/04/10/the-death-of.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/10/the-battery-of.html",
+				
+				"content_html": "<p>The battery of my Apple Watch(v1) really starts showing it&rsquo;s age. After being on my wrist daily for years, I don&rsquo;t know if I will get another one… Having a completely muted iPhone is great but wrist based notification are still a major distraction during one-on-one conversations.</p>\n",
+				"content_text": "The battery of my Apple Watch(v1) really starts showing it's age. After being on my wrist daily for years, I don't know if I will get another one… Having a completely muted iPhone is great but wrist based notification are still a major distraction during one-on-one conversations.\n",
+				"date_published": "2018-04-10T19:41:39+01:00",
+				"url": "https://roelwillems.com/2018/04/10/the-battery-of.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/09/obscure-email-vulnerability.html",
+				"title": "∞ Obscure E-Mail Vulnerability",
+				"content_html": "<blockquote>\n<p>This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots &hellip; Netflix doesn&rsquo;t ignore dots.</p>\n\n<p>It&rsquo;s an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we&rsquo;re going to see a lot more of these.</p>\n</blockquote>\n\n<p><a href=\"https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html\">Obscure E-Mail Vulnerability - Schneier on Security</a></p>\n",
+				"content_text": "> This vulnerability is a result of an interaction between two different ways of handling e-mail addresses. Gmail ignores dots ... Netflix doesn't ignore dots. \n>  \n> It's an example of two systems without a security vulnerability coming together to create a security vulnerability. As we connect more systems directly to each other, we're going to see a lot more of these. \n\n[Obscure E-Mail Vulnerability - Schneier on Security](https://www.schneier.com/blog/archives/2018/04/obscure_e-mail_.html)\n",
+				"date_published": "2018-04-09T21:44:44+01:00",
+				"url": "https://roelwillems.com/2018/04/09/obscure-email-vulnerability.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/09/after-writing-another.html",
+				
+				"content_html": "<p>After writing another post on Facebook and the recent privacy scandals I deleted it all; because it&rsquo;s not about Facebook at all.</p>\n\n<p>It&rsquo;s about alternatives (preferably which can not be &ldquo;acquired&rdquo;, but this is a topic for a different post) and this is exactly why moved all my writing to <a href=\"https://micro.blog\">Micro.blog</a>.</p>\n",
+				"content_text": "After writing another post on Facebook and the recent privacy scandals I deleted it all; because it's not about Facebook at all. \n\nIt's about alternatives (preferably which can not be \"acquired\", but this is a topic for a different post) and this is exactly why moved all my writing to [Micro.blog](https://micro.blog).\n",
+				"date_published": "2018-04-09T21:38:09+01:00",
+				"url": "https://roelwillems.com/2018/04/09/after-writing-another.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/04/facebook-sharply-increases.html",
+				"title": "∞ Facebook Sharply Increases Estimate of How Many Users’ Information Was Harvested By Cambridge Analytica",
+				"content_html": "<blockquote>\n<p>Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.</p>\n</blockquote>\n\n<p><a href=\"https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html\">nytimes</a></p>\n\n<p>I won&rsquo;t be the least surprised if this number will still increase quit a bit in the coming weeks.</p>\n",
+				"content_text": "> Facebook on Wednesday said the personal information of up to 87 million people, most of them Americans, may have been improperly shared during the 2016 election with Cambridge Analytica, a political consulting firm connected to President Trump.\n\n[nytimes](https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html)\n\nI won't be the least surprised if this number will still increase quit a bit in the coming weeks. \n",
+				"date_published": "2018-04-04T22:47:11+01:00",
+				"url": "https://roelwillems.com/2018/04/04/facebook-sharply-increases.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/03/lasting-appeal-of.html",
+				"title": "∞ Lasting appeal of RSS",
+				"content_html": "<blockquote>\n<p>Still, the lasting appeal of RSS remains the parts that haven&rsquo;t changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.</p>\n</blockquote>\n\n<p><em><a href=\"https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/\">Wired</a></em></p>\n\n<p>It&rsquo;s great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet.\nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it&rsquo;s value.</p>\n\n<p>Being a open standard really proves it’s value <em>and</em> resilience.</p>\n\n<p><em>If someone is looking a basic but dependable RSS service I can recommend Feedbin.</em></p>\n",
+				"content_text": ">Still, the lasting appeal of RSS remains the parts that haven't changed: the unfiltered view of the open web, and the chance to make your own decisions about what you find there.\n\n_[Wired](https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/)_ \n\nIt's great to see a recent uptake in RSS popularity. In my opinion RSS is one of the most valuable tools of the internet. \nAnd although probably not growing in new users for quite some time, for people still onboard, including myself, RSS never stopt providing it's value.\n\nBeing a open standard really proves it’s value _and_ resilience.\n\n_If someone is looking a basic but dependable RSS service I can recommend Feedbin._\n",
+				"date_published": "2018-04-03T22:22:14+01:00",
+				"url": "https://roelwillems.com/2018/04/03/lasting-appeal-of.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/03/measure-your-success.html",
+				
+				"content_html": "<blockquote>\n<p>“Measure your success by the success of others.” <a href=\"http://scripting.com/2018/01/09/215812.html#a220039\">Dave Winer</a></p>\n</blockquote>\n\n<p><em>Seems only natural to stumble upon a striking quote by Dave Winer browsing a micro.blog. (Dave more or less invented blogging and RSS syndication and has the longest continuously running blog on the Internet).</em></p>\n",
+				"content_text": "> “Measure your success by the success of others.” [Dave Winer](http://scripting.com/2018/01/09/215812.html#a220039)\n\n_Seems only natural to stumble upon a striking quote by Dave Winer browsing a micro.blog. (Dave more or less invented blogging and RSS syndication and has the longest continuously running blog on the Internet)._\n",
+				"date_published": "2018-04-03T21:39:09+01:00",
+				"url": "https://roelwillems.com/2018/04/03/measure-your-success.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2018/04/02/although-i-like.html",
+				"title": "∞ Cloudflare launches ",
+				"content_html": "<blockquote>\n<p>Cloudflare&rsquo;s mission is to help build a better Internet.\nWe&rsquo;re excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet&rsquo;s fastest, privacy-first consumer DNS service.\n&hellip;\nfor most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.\n&hellip;\nThe problem is that these DNS services are often slow and not privacy respecting.</p>\n</blockquote>\n\n<p>Although I like Cloudflare, I&rsquo;m not sure what to think regarding there recent news regarding their own <a href=\"https://blog.cloudflare.com/announcing-1111/\">DNS service</a>.</p>\n\n<p>I do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.</p>\n",
+				"content_text": ">Cloudflare's mission is to help build a better Internet.\n> We're excited today to take another step toward that mission with the launch of 1.1.1.1 — the Internet's fastest, privacy-first consumer DNS service.\n> ...\n> for most Internet users, when they connect to an ISP, or a coffee shop wifi hot spot, or a mobile network then the network operator will dictate what DNS resolver to use.\n> ...\n> The problem is that these DNS services are often slow and not privacy respecting.\n\nAlthough I like Cloudflare, I'm not sure what to think regarding there recent news regarding their own [DNS service](https://blog.cloudflare.com/announcing-1111/). \n\nI do think it’ great that they bring an alternative DNS service (with great performance and seemingly a strong focus on privacy). But I have some reservations regarding centralising DNS at a company which already controls 80% of the western internet.\n",
+				"date_published": "2018-04-02T20:49:08+01:00",
+				"url": "https://roelwillems.com/2018/04/02/although-i-like.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2017/11/20/a-list-aparts.html",
+				"title": "∞ A List Apart's 20th anniversary view on the centralising of the internet in to only a handful of all-powerful networks",
+				"content_html": "<blockquote>\n<p>&ldquo;In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. &hellip;. This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.&rdquo;</p>\n</blockquote>\n\n<p><a href=\"https://alistapart.com/article/new-a-list-apart-wants-you\">A list apart</a></p>\n\n<p>I couldn&rsquo;t agree more to this statement. With some centralized players growing more  powerfull with each day passing, it&rsquo;s more important to support diversity, independent content creation and keep ownership of your content.</p>\n",
+				"content_text": "> \"In recent years, we’ve seen our rich universe of diverse, creative blogs and sites implode—leaving fewer and fewer channels available to new voices. As more content centralizes into a handful of all-powerful networks, there’s a dreary sameness in perspective and presentation. .... This creeping monopolization is a sad echo of how media worked in the 20th century. It doesn’t reflect 21st century diversity and empowerment. It’s not the web’s promise. It’s not how it’s supposed to be.\" \n\n[A list apart](https://alistapart.com/article/new-a-list-apart-wants-you)\n\nI couldn't agree more to this statement. With some centralized players growing more  powerfull with each day passing, it's more important to support diversity, independent content creation and keep ownership of your content. \n",
+				"date_published": "2017-11-20T21:13:33+01:00",
+				"url": "https://roelwillems.com/2017/11/20/a-list-aparts.html",
+				"tags": ["Articles"]
+			}
 	]
 }
