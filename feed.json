@@ -7,6 +7,258 @@
 	"items": [
 		
 			{
+				"id": "http://roelwillems.micro.blog/2020/12/03/today-i-have.html",
+				
+				"content_html": "<p>Today I have received the Wacom Intuos Pro Medium. First impressions are very good, as expected.</p>\n\n<p>It will take a bit more time to get used to the large surface area (vs the small size Wacom tablet I used before).</p>\n\n<p>The one thing that bugs me is that Adobe Lightroom Classic and Windows 10 Ink doesn&rsquo;t play nicely together. To get the pen working properly with sliders in the interface I have to prohibit Wacom from using the Windows 10 Ink features. This results in sliders works perfectly but losing out on presure sensitivity. This is a bug since 2015 (really Adobe? It works fine in Photoshop&hellip;).</p>\n\n<p>I might have found a work-around but need some more testing tomorrow. Signing off for today.</p>\n",
+				"content_text": "Today I have received the Wacom Intuos Pro Medium. First impressions are very good, as expected. \n\nIt will take a bit more time to get used to the large surface area (vs the small size Wacom tablet I used before). \n\nThe one thing that bugs me is that Adobe Lightroom Classic and Windows 10 Ink doesn't play nicely together. To get the pen working properly with sliders in the interface I have to prohibit Wacom from using the Windows 10 Ink features. This results in sliders works perfectly but losing out on presure sensitivity. This is a bug since 2015 (really Adobe? It works fine in Photoshop...). \n\nI might have found a work-around but need some more testing tomorrow. Signing off for today.\n",
+				"date_published": "2020-12-03T00:16:11+01:00",
+				"url": "https://roelwillems.com/2020/12/03/today-i-have.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/12/02/my-password-is.html",
+				
+				"content_html": "<p>1Password is acting strange every since I&rsquo;ve installed Big Sur. Somehow the browser plugin isn&rsquo;t working. First I thought the issue was with Safari but also Firefox has the same issue. Need to look in to this more later today.</p>\n",
+				"content_text": "1Password is acting strange every since I've installed Big Sur. Somehow the browser plugin isn't working. First I thought the issue was with Safari but also Firefox has the same issue. Need to look in to this more later today.\n",
+				"date_published": "2020-12-02T13:16:00+01:00",
+				"url": "https://roelwillems.com/2020/12/02/my-password-is.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/12/02/for-our-peace.html",
+				
+				"content_html": "<p>For our peace of mind, a few months ago we installed a burglar alarm. Out of nowhere, the alarm went off last night. The tampering/jamming checks got triggered by an outage at our internet provider. Quite a rude awakening but luckily nothing serious.</p>\n",
+				"content_text": "For our peace of mind, a few months ago we installed a burglar alarm. Out of nowhere, the alarm went off last night. The tampering/jamming checks got triggered by an outage at our internet provider. Quite a rude awakening but luckily nothing serious.\n",
+				"date_published": "2020-12-02T10:25:47+01:00",
+				"url": "https://roelwillems.com/2020/12/02/for-our-peace.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/12/01/the-wacom-bamboo.html",
+				
+				"content_html": "<p>The Wacom Bamboo Pen and Touch (CTT-460 to be specific) is over 11 years old. Still working (although on Big Sur the hack to load the old drivers no longer works). Besides that, the only problem in 11 years is losing (and rediscovering) the pen so many times I have lost count.</p>\n",
+				"content_text": "The Wacom Bamboo Pen and Touch (CTT-460 to be specific) is over 11 years old. Still working (although on Big Sur the hack to load the old drivers no longer works). Besides that, the only problem in 11 years is losing (and rediscovering) the pen so many times I have lost count.\n",
+				"date_published": "2020-12-01T10:27:33+01:00",
+				"url": "https://roelwillems.com/2020/12/01/the-wacom-bamboo.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/12/01/i-dont-like.html",
+				
+				"content_html": "<p>I don&rsquo;t like Black Friday/Cyber Monday craze. Still, I found a good deal for one wishlist item. The Wacom Intuos Pro M will replace my trusty Wacom Bamboo for photo editing. If only lasting half as long I have my money&rsquo;s worth. Kinda funny I ordered exactly at 00:00 Monday night.</p>\n",
+				"content_text": "I don't like Black Friday/Cyber Monday craze. Still, I found a good deal for one wishlist item. The Wacom Intuos Pro M will replace my trusty Wacom Bamboo for photo editing. If only lasting half as long I have my money's worth. Kinda funny I ordered exactly at 00:00 Monday night.\n",
+				"date_published": "2020-12-01T10:12:57+01:00",
+				"url": "https://roelwillems.com/2020/12/01/i-dont-like.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/30/as-microblogvember-has.html",
+				
+				"content_html": "<p>As Microblogvember 2020 has ended, I&rsquo;m looking forward to a new blogging challenge to continue with daily-blogging. Starting at a streak of 30 days I will take on the <a href=\"https://100daystooffload.com/\">#100daystooffload</a> challenge. My goal? Writing at least one short (280 char) post for 100 consecutive days.</p>\n",
+				"content_text": "As Microblogvember 2020 has ended, I'm looking forward to a new blogging challenge to continue with daily-blogging. Starting at a streak of 30 days I will take on the [#100daystooffload](https://100daystooffload.com/) challenge. My goal? Writing at least one short (280 char) post for 100 consecutive days.\n",
+				"date_published": "2020-11-30T09:43:00+01:00",
+				"url": "https://roelwillems.com/2020/11/30/as-microblogvember-has.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/30/today-marks-the.html",
+				
+				"content_html": "<p>Today marks the last <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Microblogvember</a> day. One last post where I include a daily prompt word into 280 characters and hit publish. The last month helped me to <em>reinforce</em> <a href=\"https://roelwillems.com/2020/11/26/a-daily-writing.html\">a habit of daily writing</a>. Thanks to all who participated, I enjoyed your daily updates. This was a blast!</p>\n",
+				"content_text": "Today marks the last [Microblogvember](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html) day. One last post where I include a daily prompt word into 280 characters and hit publish. The last month helped me to _reinforce_ [a habit of daily writing](https://roelwillems.com/2020/11/26/a-daily-writing.html). Thanks to all who participated, I enjoyed your daily updates. This was a blast!\n",
+				"date_published": "2020-11-30T09:35:00+01:00",
+				"url": "https://roelwillems.com/2020/11/30/today-marks-the.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/28/we-are-all.html",
+				
+				"content_html": "<p>We are all forced to adapt to live quite <em>pedestrian</em> lives. While the quantity of social interaction dropped, for me the quality has risen. I cherish every time I&rsquo;m able to see friends and family. And that&rsquo;s a positive in my book.</p>\n",
+				"content_text": "We are all forced to adapt to live quite _pedestrian_ lives. While the quantity of social interaction dropped, for me the quality has risen. I cherish every time I'm able to see friends and family. And that's a positive in my book.\n",
+				"date_published": "2020-11-29T22:35:00+01:00",
+				"url": "https://roelwillems.com/2020/11/28/we-are-all.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/29/the-case-is.html",
+				
+				"content_html": "<p><a href=\"https://roelwillems.com/2020/11/29/its-running.html\">The case</a> is awesome BTW. It&rsquo;s an Akasa Gem Pro, machined from aluminium and completely passively cooled. Still keeps the RPi 4, 4gb only at ~36° Celsius (96,8 Fahrenheit).</p>\n",
+				"content_text": "[The case](https://roelwillems.com/2020/11/29/its-running.html) is awesome BTW. It's an Akasa Gem Pro, machined from aluminium and completely passively cooled. Still keeps the RPi 4, 4gb only at ~36° Celsius (96,8 Fahrenheit).\n",
+				"date_published": "2020-11-29T16:04:18+01:00",
+				"url": "https://roelwillems.com/2020/11/29/the-case-is.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/29/its-running.html",
+				
+				"content_html": "<p>It’s running!</p>\n\n<p><img src=\"uploads/2020/50428c6cd9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It’s running!\n\n<img src=\"uploads/2020/50428c6cd9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n\n",
+				"date_published": "2020-11-29T15:09:00+01:00",
+				"url": "https://roelwillems.com/2020/11/29/its-running.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/29/i-imagine-the.html",
+				
+				"content_html": "<p>A Raspberry Pi project is a bit like getting your first tattoo. Once you have one you keep getting more and more.</p>\n\n<p>I don&rsquo;t have any tattoos myself but the ever increasing number of Pi project is proving my point.</p>\n\n<p><a href=\"https://roelwillems.com/2020/11/27/these-days-a.html\">Today I’m building an audio player/streamer</a>. <em>Edit: <a href=\"https://roelwillems.com/2020/11/29/its-running.html\">Done</a></em></p>\n",
+				"content_text": "A Raspberry Pi project is a bit like getting your first tattoo. Once you have one you keep getting more and more. \n\nI don't have any tattoos myself but the ever increasing number of Pi project is proving my point. \n\n[Today I’m building an audio player/streamer](https://roelwillems.com/2020/11/27/these-days-a.html). _Edit: [Done](https://roelwillems.com/2020/11/29/its-running.html)_\n",
+				"date_published": "2020-11-29T10:44:00+01:00",
+				"url": "https://roelwillems.com/2020/11/29/i-imagine-the.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/28/often-people-try.html",
+				
+				"content_html": "<p>Often people try to <em>mask</em> their intentions with words. But in the end actions or lack thereof always reveal the true story.</p>\n\n<p>Last week we saw a prime example of this behavior. With a political implosion as a result.</p>\n",
+				"content_text": "Often people try to _mask_ their intentions with words. But in the end actions or lack thereof always reveal the true story. \n\nLast week we saw a prime example of this behavior. With a political implosion as a result.\n",
+				"date_published": "2020-11-28T12:56:00+01:00",
+				"url": "https://roelwillems.com/2020/11/28/often-people-try.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/27/these-days-a.html",
+				
+				"content_html": "<p>These days, a relatively modest investment can buy amazing audio quality. One <em>dilemma</em> is sending music to the DAC/AMP (now directly connected to the PC). With a bit of tinkering and a Raspberry Pi this should be solvable. Should look into this some more, looks like a fun project to do<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Edit: <a href=\"https://roelwillems.com/2020/11/29/i-imagine-the.html\">that didn&rsquo;t take very long</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "These days, a relatively modest investment can buy amazing audio quality. One _dilemma_ is sending music to the DAC/AMP (now directly connected to the PC). With a bit of tinkering and a Raspberry Pi this should be solvable. Should look into this some more, looks like a fun project to do[^1].\n\n[^1]: Edit: [that didn't take very long](https://roelwillems.com/2020/11/29/i-imagine-the.html)\n",
+				"date_published": "2020-11-27T15:16:00+01:00",
+				"url": "https://roelwillems.com/2020/11/27/these-days-a.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/26/ever-since-spotify.html",
+				
+				"content_html": "<p>Ever since Spotify launched in The Netherlands I have been a subscriber (even before the official launch&hellip; but let&rsquo;s not tell Spotify). But now music discovery and keeping everything organized is getting harder by the day. These issues small and not real dealbreakers, but still&hellip;</p>\n\n<p>My 60+ playlists (educated guess, didn&rsquo;t want to count) are a hot mess of curated lists and my lists (with no way of keeping them separate). I have lists based on genre, new finds, based on band, albums, list where I store all-time favorites, &hellip;.. (sometimes even creatively combined).\nSo if I want to find a specific artist/track and I don&rsquo;t recall the name I have to start guessing in which playlist I may have saved the song. This wouldn&rsquo;t be so bad if I would know which playlists are mine and which are curated by the service. Well I just have to open them all and start looking&hellip; wait&hellip; was &ldquo;90s acoustic&rdquo; my own or is it by Spotify??</p>\n\n<p>The &ldquo;Made for You&rdquo; part has gradually starting to offer me more of the music I already listen to&hellip; just split in more different playlists.</p>\n\n<p>What also doesn&rsquo;t help is that the play and search history isn&rsquo;t synced between apps and desktop. And don&rsquo;t ask me why the homepage only shows &ldquo;Recently Played&rdquo; playlists but leaves out individual tracks??\nEarlier today I couldn&rsquo;t remember the name of a new artist I listened to the day before and wanted to check out. Spend half an hour to find the track I listened to (was well hidden in the search on the iOS app so showed no trace on desktop).</p>\n\n<p>At the moment I do not have a solution for the issues above. And don&rsquo;t get me wrong, I still enjoy the service,  just getting my thoughts out there for future reference.</p>\n",
+				"content_text": "Ever since Spotify launched in The Netherlands I have been a subscriber (even before the official launch... but let's not tell Spotify). But now music discovery and keeping everything organized is getting harder by the day. These issues small and not real dealbreakers, but still...\n\nMy 60+ playlists (educated guess, didn't want to count) are a hot mess of curated lists and my lists (with no way of keeping them separate). I have lists based on genre, new finds, based on band, albums, list where I store all-time favorites, ..... (sometimes even creatively combined). \nSo if I want to find a specific artist/track and I don't recall the name I have to start guessing in which playlist I may have saved the song. This wouldn't be so bad if I would know which playlists are mine and which are curated by the service. Well I just have to open them all and start looking... wait... was \"90s acoustic\" my own or is it by Spotify??\n\nThe \"Made for You\" part has gradually starting to offer me more of the music I already listen to... just split in more different playlists.\n\nWhat also doesn't help is that the play and search history isn't synced between apps and desktop. And don't ask me why the homepage only shows \"Recently Played\" playlists but leaves out individual tracks?? \nEarlier today I couldn't remember the name of a new artist I listened to the day before and wanted to check out. Spend half an hour to find the track I listened to (was well hidden in the search on the iOS app so showed no trace on desktop).\n\nAt the moment I do not have a solution for the issues above. And don't get me wrong, I still enjoy the service,  just getting my thoughts out there for future reference.\n",
+				"date_published": "2020-11-26T19:59:59+01:00",
+				"url": "https://roelwillems.com/2020/11/26/ever-since-spotify.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/26/a-daily-writing.html",
+				
+				"content_html": "<p>A daily writing habit never stuck. Is this topic interesting and my writing good enough? The one thing the <a href=\"https://micro.welltempered.net/2020/10/28/microblogvember-returns.html\">Mbnov</a> challenge showed me is to adjust this mindset. Not every post has to be insightful, long, and articulated. Just, write. Tomorrow offers a new opportunity to do it even better.</p>\n",
+				"content_text": "A daily writing habit never stuck. Is this topic interesting and my writing good enough? The one thing the [Mbnov](https://micro.welltempered.net/2020/10/28/microblogvember-returns.html) challenge showed me is to adjust this mindset. Not every post has to be insightful, long, and articulated. Just, write. Tomorrow offers a new opportunity to do it even better. \n",
+				"date_published": "2020-11-26T19:19:00+01:00",
+				"url": "https://roelwillems.com/2020/11/26/a-daily-writing.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/25/working-from-my.html",
+				
+				"content_html": "<p>Working from my home office, most of the day is spend on Teams video conferencing. After quite some time, I&rsquo;m now pretty used to looking at a screen while discussing stuff. But for a one-on-one conversation, it&rsquo;s still not as convenient as the good old telephone <em>call</em> to me.</p>\n",
+				"content_text": "Working from my home office, most of the day is spend on Teams video conferencing. After quite some time, I'm now pretty used to looking at a screen while discussing stuff. But for a one-on-one conversation, it's still not as convenient as the good old telephone _call_ to me.\n",
+				"date_published": "2020-11-25T18:55:00+01:00",
+				"url": "https://roelwillems.com/2020/11/25/working-from-my.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/25/kb.html",
+				"title": "82.3 Kb",
+				"content_html": "<p>Fiddled a bit more with optimization of the website. As the website is hosted by Micro.blog I a little limited on what is possible. But still the result is quite good:</p>\n\n<ol>\n<li>Scaled and compressed all images, resizing and reuploading isn&rsquo;t the most inspiering to do, but still it counted for 90% of the bloat in size (and my website isn&rsquo;t even very image heavy)</li>\n<li>Removed the Gravatar integration with a static favicon and header image. Gravatar isn&rsquo;t privacy-friendly at all and the standard integration within Micro.blog is quite unneccesary. So win for privacy and reduced one request</li>\n<li>Stopped using the custom CSS function within Micro.blog and just added all to the the custom theme CSS, saving one request</li>\n</ol>\n\n<p>Overall some minor changes which resulted in reducing my homepage from 3,3Mb to <a href=\"https://gtmetrix.com/reports/roelwillems.com/Uph0HAyx/\">82.3 Kb uncompressed</a><sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">click on the Waterfall tab to check the uncompressed size of the site\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Fiddled a bit more with optimization of the website. As the website is hosted by Micro.blog I a little limited on what is possible. But still the result is quite good:\n\n1. Scaled and compressed all images, resizing and reuploading isn't the most inspiering to do, but still it counted for 90% of the bloat in size (and my website isn't even very image heavy)\n2. Removed the Gravatar integration with a static favicon and header image. Gravatar isn't privacy-friendly at all and the standard integration within Micro.blog is quite unneccesary. So win for privacy and reduced one request\n3. Stopped using the custom CSS function within Micro.blog and just added all to the the custom theme CSS, saving one request\n\nOverall some minor changes which resulted in reducing my homepage from 3,3Mb to [82.3 Kb uncompressed](https://gtmetrix.com/reports/roelwillems.com/Uph0HAyx/)[^1].\n\n[^1]: click on the Waterfall tab to check the uncompressed size of the site\n",
+				"date_published": "2020-11-25T18:18:00+01:00",
+				"url": "https://roelwillems.com/2020/11/25/kb.html",
+				"tags": ["Articles"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/25/i-got-triggered.html",
+				
+				"content_html": "<p>I got triggered by a post from <a href=\"https://www.zylstra.org/blog/2020/11/the-512kb-club/\">Ton Zĳlstra about the 512k club</a>. With two quick changes to my Micro.blog website I reduced the uncompressed size from 3,3Mb to 141Kb. Mainly resizing a image and not embedding YouTube.</p>\n\n<p>Still some other small optimizations I will do tonight (getting rid of Gravatar in the Marfa theme).</p>\n",
+				"content_text": "I got triggered by a post from [Ton Zĳlstra about the 512k club](https://www.zylstra.org/blog/2020/11/the-512kb-club/). With two quick changes to my Micro.blog website I reduced the uncompressed size from 3,3Mb to 141Kb. Mainly resizing a image and not embedding YouTube.\n\nStill some other small optimizations I will do tonight (getting rid of Gravatar in the Marfa theme).\n",
+				"date_published": "2020-11-25T12:38:00+01:00",
+				"url": "https://roelwillems.com/2020/11/25/i-got-triggered.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/24/the-provision-to.html",
+				
+				"content_html": "<p>The  <em>provision</em> to focus on important topics vs seemingly urgent random stuff requires me to look ahead. 4 PM each day I draft my todo-list for the next day. This single action results in two things: a todo list for tomorrow and a clear picture of what still needs to be done today</p>\n",
+				"content_text": "The  _provision_ to focus on important topics vs seemingly urgent random stuff requires me to look ahead. 4 PM each day I draft my todo-list for the next day. This single action results in two things: a todo list for tomorrow and a clear picture of what still needs to be done today\n",
+				"date_published": "2020-11-24T20:35:00+01:00",
+				"url": "https://roelwillems.com/2020/11/24/the-provision-to.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/23/after-years-my.html",
+				
+				"content_html": "<p>After 16 years my trusty Sennheiser HD-25 headphones broke. Nothing that can not be fixed with some DIY maintenance. I the meantime this provides an opportunity to tryout a new set of headphones with a different sound signature. Picked up the Beyerdynamic 770 Pro, quite excited.</p>\n",
+				"content_text": "After 16 years my trusty Sennheiser HD-25 headphones broke. Nothing that can not be fixed with some DIY maintenance. I the meantime this provides an opportunity to tryout a new set of headphones with a different sound signature. Picked up the Beyerdynamic 770 Pro, quite excited.\n\n",
+				"date_published": "2020-11-23T23:27:00+01:00",
+				"url": "https://roelwillems.com/2020/11/23/after-years-my.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/23/capture-a-thought.html",
+				
+				"content_html": "<p><em>Capture</em> a thought, even if it&rsquo;s only a short message, by writing every day. I realize that it&rsquo;s not so much what I write. It&rsquo;s about how it helps me to reflect on the day.</p>\n",
+				"content_text": "_Capture_ a thought, even if it's only a short message, by writing every day. I realize that it's not so much what I write. It's about how it helps me to reflect on the day.\n",
+				"date_published": "2020-11-23T20:12:00+01:00",
+				"url": "https://roelwillems.com/2020/11/23/capture-a-thought.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/22/for-the-second.html",
+				
+				"content_html": "<p>For the second time this year, the youth department of a right-wing political party in The Netherlands crossed a <em>border</em>. Sharing anti-Semitic expressions on WhatsApp and Instagram. Unbelievable, but you get what you sow. Throwing out whistleblowers, letting offenders stay.</p>\n",
+				"content_text": "For the second time this year, the youth department of a right-wing political party in The Netherlands crossed a _border_. Sharing anti-Semitic expressions on WhatsApp and Instagram. Unbelievable, but you get what you sow. Throwing out whistleblowers, letting offenders stay.\n",
+				"date_published": "2020-11-22T18:20:00+01:00",
+				"url": "https://roelwillems.com/2020/11/22/for-the-second.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/21/exactly-one-month.html",
+				
+				"content_html": "<p>Exactly one month from now before it will be officially <em>winter</em>. That means one month of autumn left. Didn&rsquo;t really get outside that often with my camera during this beatiful time of year. But still 31 days to make it up and enjoy the fall colors.</p>\n",
+				"content_text": "Exactly one month from now before it will be officially _winter_. That means one month of autumn left. Didn't really get outside that often with my camera during this beatiful time of year. But still 31 days to make it up and enjoy the fall colors.\n",
+				"date_published": "2020-11-21T17:50:00+01:00",
+				"url": "https://roelwillems.com/2020/11/21/exactly-one-month.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/20/why-does-spotify.html",
+				
+				"content_html": "<p>Why does Spotify think it&rsquo;s a good idea to auto-start the app? Didn&rsquo;t set it up to do so and it&rsquo;s not in the OSx login options. Disable auto starting is kindly hidden by Spotify in it&rsquo;s own menu. Burried in the &ldquo;advanced&rdquo; section. Bugs me everytime I do a clean install.</p>\n",
+				"content_text": "Why does Spotify think it's a good idea to auto-start the app? Didn't set it up to do so and it's not in the OSx login options. Disable auto starting is kindly hidden by Spotify in it's own menu. Burried in the \"advanced\" section. Bugs me everytime I do a clean install.\n",
+				"date_published": "2020-11-20T22:41:21+01:00",
+				"url": "https://roelwillems.com/2020/11/20/why-does-spotify.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/20/staying-at-home.html",
+				
+				"content_html": "<p>Staying within the theme, one of those old gems for me is <a href=\"https://www.youtube.com/embed/7Z4zCIn7zyY\">&ldquo;Mazzy Star - <em>Fade</em> into you&rdquo;</a><sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">External link to YouTube\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Staying within the theme, one of those old gems for me is [\"Mazzy Star - _Fade_ into you\"](https://www.youtube.com/embed/7Z4zCIn7zyY)[^1]\n\n[^1]: External link to YouTube\n",
+				"date_published": "2020-11-20T18:03:00+01:00",
+				"url": "https://roelwillems.com/2020/11/20/staying-at-home.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/20/180214.html",
+				
+				"content_html": "<p>Being at home more re-sparked my passion for music. It&rsquo;s kinda liberating to kick back with a glass of wine. Hit play and enjoy an evening listening to new music and rediscovering old gems. If things return to normal this, I hope, will not <em>fade</em> away.</p>\n",
+				"content_text": "Being at home more re-sparked my passion for music. It's kinda liberating to kick back with a glass of wine. Hit play and enjoy an evening listening to new music and rediscovering old gems. If things return to normal this, I hope, will not _fade_ away.\n",
+				"date_published": "2020-11-20T18:02:00+01:00",
+				"url": "https://roelwillems.com/2020/11/20/180214.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/20/today-marks-my.html",
+				
+				"content_html": "<p>Today marks my <a href=\"https://micro.blog/\">Micro.blog</a> anniversary (based on my initial post). The first project I&rsquo;ve backed on Kickstarter. It has been a great three years in this awesome community. Less focus on fiddling with templates and code, more attention to the writing part.</p>\n",
+				"content_text": "Today marks my [Micro.blog](https://micro.blog/) anniversary (based on my initial post). The first project I've backed on Kickstarter. It has been a great three years in this awesome community. Less focus on fiddling with templates and code, more attention to the writing part.\n",
+				"date_published": "2020-11-20T09:58:23+01:00",
+				"url": "https://roelwillems.com/2020/11/20/today-marks-my.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/11/19/im-switching-notetaking.html",
+				
+				"content_html": "<p>I&rsquo;m switching note-taking setup. I&rsquo;d used a combination of DevonThink, Apple Notes, and Notion. Now moving everything to Obsidian. Various buckets didn&rsquo;t work out for me. Moving is a challenge, but it should be <em>possible</em> and will help bring much-needed structure.</p>\n",
+				"content_text": "I'm switching note-taking setup. I'd used a combination of DevonThink, Apple Notes, and Notion. Now moving everything to Obsidian. Various buckets didn't work out for me. Moving is a challenge, but it should be _possible_ and will help bring much-needed structure.\n",
+				"date_published": "2020-11-19T17:43:00+01:00",
+				"url": "https://roelwillems.com/2020/11/19/im-switching-notetaking.html",
+				"tags": ["Short form","Microblogvember"]
+			},
+			{
 				"id": "http://roelwillems.micro.blog/2020/11/18/the-word-dependence.html",
 				
 				"content_html": "<p>The word <em>dependence</em> often has a negative connotation to it. For me, it also signals something positive more in line with &ldquo;reliance&rdquo;.</p>\n\n<p>It&rsquo;s good to be independent. As long as you keep in mind that sometimes you need the help of others, as others might someday need to rely on you.</p>\n",
@@ -45,8 +297,8 @@
 			{
 				"id": "http://roelwillems.micro.blog/2020/11/14/im-experimenting-with.html",
 				
-				"content_html": "<p>I&rsquo;m experimenting with a standard black&amp;white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and <em>spooky</em> look.</p>\n\n<p><img src=\"uploads/2020/a8122debd1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I'm experimenting with a standard black&white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and _spooky_ look.\n\n<img src=\"uploads/2020/a8122debd1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m experimenting with a standard black&amp;white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and <em>spooky</em> look.</p>\n\n<p><img src=\"uploads/2020/a20f10a6ef.jpg\" width=\"600\" height=\"450\" alt=\"misty morning\" /></p>\n",
+				"content_text": "I'm experimenting with a standard black&white setting for my trusty Olympus E-M5. SOOC, JPEG with no settings to fuss over. Keeps things easy on my morning walk. I do like the dark crushed look, give images an eerie and _spooky_ look.\n\n<img src=\"uploads/2020/a20f10a6ef.jpg\" width=\"600\" height=\"450\" alt=\"misty morning\" />\n",
 				"date_published": "2020-11-14T20:09:00+01:00",
 				"url": "https://roelwillems.com/2020/11/14/im-experimenting-with.html",
 				"tags": ["Short form","Microblogvember"]
@@ -54,18 +306,18 @@
 			{
 				"id": "http://roelwillems.micro.blog/2020/11/13/i-thought-about.html",
 				
-				"content_html": "<p>I thought about switching to Linux on my aging Macbook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).</p>\n",
-				"content_text": "I thought about switching to Linux on my aging Macbook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).\n",
-				"date_published": "2020-11-13T18:00:04+01:00",
+				"content_html": "<p>I thought about switching to Linux on my ageing MacBook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).</p>\n",
+				"content_text": "I thought about switching to Linux on my ageing MacBook Pro (2015). But decided to wait for Big Sur and do a clean install. First impressions are quite good. I like the interface update and the performance seems also good (while the Spotlight indexing is running).\n",
+				"date_published": "2020-11-13T18:00:00+01:00",
 				"url": "https://roelwillems.com/2020/11/13/i-thought-about.html",
 				"tags": ["Short form"]
 			},
 			{
 				"id": "http://roelwillems.micro.blog/2020/11/13/finalizing-some-todos.html",
 				
-				"content_html": "<p>Finalizing some todo&rsquo;s for work while my trusty Macbook pro 2015 is doing a clean Big Sur install. Doing a whipe and clean install was particularly easy as I have an full and Timemachine backup on my Raspberry Pi home NAS. Definitly a project I should have done earlier.</p>\n",
-				"content_text": "Finalizing some todo's for work while my trusty Macbook pro 2015 is doing a clean Big Sur install. Doing a whipe and clean install was particularly easy as I have an full and Timemachine backup on my Raspberry Pi home NAS. Definitly a project I should have done earlier.\n",
-				"date_published": "2020-11-13T14:42:31+01:00",
+				"content_html": "<p>Finalising some todo&rsquo;s for work while my trusty MacBook pro 2015 is doing a clean Big Sur install. Doing a wipe and clean install was particularly easy as I have a full and Time Machine backup on my Raspberry Pi home NAS. Definitely a project I should have done earlier.</p>\n",
+				"content_text": "Finalising some todo's for work while my trusty MacBook pro 2015 is doing a clean Big Sur install. Doing a wipe and clean install was particularly easy as I have a full and Time Machine backup on my Raspberry Pi home NAS. Definitely a project I should have done earlier.\n",
+				"date_published": "2020-11-13T14:42:00+01:00",
 				"url": "https://roelwillems.com/2020/11/13/finalizing-some-todos.html",
 				"tags": ["Short form"]
 			},
@@ -81,8 +333,8 @@
 			{
 				"id": "http://roelwillems.micro.blog/2020/11/12/often-i-am.html",
 				
-				"content_html": "<p>Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don&rsquo;t let anyone tell you, you should, no, need to upgrade. And while it may start to show <em>wear</em>, there is a real value in knowing your tools inside out. This only time can provide.</p>\n",
-				"content_text": "Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don't let anyone tell you, you should, no, need to upgrade. And while it may start to show _wear_, there is a real value in knowing your tools inside out. This only time can provide.\n",
+				"content_html": "<p>Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don&rsquo;t let anyone tell you, you should, no, need to upgrade. And while it may start to show <em>wear</em>, there is a real value in knowing you&rsquo;re tools inside out. This only time can provide.</p>\n",
+				"content_text": "Repeatedly I am tempted to upgrade to the latest and greatest. Often an upgrade matters very little. Don't let anyone tell you, you should, no, need to upgrade. And while it may start to show _wear_, there is a real value in knowing you're tools inside out. This only time can provide.\n",
 				"date_published": "2020-11-12T15:57:00+01:00",
 				"url": "https://roelwillems.com/2020/11/12/often-i-am.html",
 				"tags": ["Short form","Microblogvember"]
@@ -153,8 +405,8 @@
 			{
 				"id": "http://roelwillems.micro.blog/2020/11/06/twitter-facebook-and.html",
 				
-				"content_html": "<p>Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regadless if it&rsquo;s factual at all. But it&rsquo;s <em>puzzling</em> me if we are treading in the right direction.</p>\n",
-				"content_text": "Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regadless if it's factual at all. But it's _puzzling_ me if we are treading in the right direction.\n",
+				"content_html": "<p>Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regardless if it&rsquo;s factual at all. But it&rsquo;s <em>puzzling</em> me if we are treading in the right direction.</p>\n",
+				"content_text": "Twitter, Facebook and YouTube are all limiting the spread of miss-information. And if the presidential elections show us one thing, it is how fast a thought spreads on social media regardless if it's factual at all. But it's _puzzling_ me if we are treading in the right direction.\n",
 				"date_published": "2020-11-06T15:52:00+01:00",
 				"url": "https://roelwillems.com/2020/11/06/twitter-facebook-and.html",
 				"tags": ["Short form","Microblogvember"]
@@ -306,9 +558,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/11/20/working-on-enabling.html",
 				
-				"content_html": "<p>Working on enabling <a href=\"https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/\">Safari dark mode</a> support on the Micro.blog Marfa theme, almost done:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/383b0333a4.png\" alt=\"dark mode support\" /></p>\n\n<p><em>P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.</em></p>\n",
-				"content_text": "Working on enabling [Safari dark mode](https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/) support on the Micro.blog Marfa theme, almost done:\n\n![dark mode support](https://roelwillems.com/uploads/2018/383b0333a4.png)\n\n*P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.*\n",
-				"date_published": "2018-11-20T21:36:21+01:00",
+				"content_html": "<p>Working on enabling <a href=\"https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/\">Safari dark mode</a> support on the Micro.blog Marfa theme, almost done:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2020/b4814ded0e.png\" alt=\"dark mode support\" /></p>\n\n<p><em>P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.</em></p>\n",
+				"content_text": "Working on enabling [Safari dark mode](https://9to5mac.com/2018/10/24/safari-beta-dark-mode-theme-websites/) support on the Micro.blog Marfa theme, almost done:\n\n![dark mode support](https://roelwillems.com/uploads/2020/b4814ded0e.png)\n\n*P.s. I will write a micro guide, but a word of warning: it will require quite some tinkering for Micro.blog themes besides Marfa.*\n",
+				"date_published": "2018-11-20T21:36:00+01:00",
 				"url": "https://roelwillems.com/2018/11/20/working-on-enabling.html",
 				"tags": ["Short form"]
 			},
@@ -333,8 +585,8 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/11/18/getting-your-hosted.html",
 				"title": "Micro guide: Getting your hosted Microblog IPv6 ready",
-				"content_html": "\n\n<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">&ldquo;micro guide&rdquo;</a>) to enable IPv6<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> for your hosted microblog<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn&rsquo;t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<pre><code>2600:3c00:1::68c8:16d6\n</code></pre>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/99b7b82333.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">hosted with <a href=\"https://micro.blog\">micro.blog</a>\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
-				"content_text": "This is a small guide (hence the category [\"micro guide\"](https://roelwillems.com/micro-guides/)) to enable IPv6[^1] for your hosted microblog[^2].\n\n*disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn't really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.*\n\n### Setting up IPv6\nTo start, you should go to your domain registrar or system to manage DNS (personally I use [Cloudflare](https://www.cloudflare.com) and have written another micro guide with recommendations on how-to [enable Cloudflare for your microblog](https://roelwillems.com/2018/04/16/micro-guide-additional.html)).\n\nNow you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses). \n\nMake sure that the AAAA record is pointing to: \n\n    2600:3c00:1::68c8:16d6\n\nThis is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:\n\n![example of DNS records](https://roelwillems.com/uploads/2018/99b7b82333.png)\n\nSave the settings and after a few minutes you can [check if your website has support for IPv6](https://www.internet.nl).\n\n[^1]:What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading [Wikipedia](https://en.wikipedia.org/wiki/IPv6) or look in to this [tutorial](https://www.tutorialspoint.com/ipv6/)\n[^2]:hosted with [micro.blog](https://micro.blog)\n",
+				"content_html": "\n\n<p>This is a small guide (hence the category <a href=\"https://roelwillems.com/micro-guides/\">&ldquo;micro guide&rdquo;</a>) to enable IPv6<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> for your hosted microblog<sup class=\"footnote-ref\" id=\"fnref:2\"><a href=\"#fn:2\">2</a></sup>.</p>\n\n<p><em>disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn&rsquo;t really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.</em></p>\n\n<h3 id=\"setting-up-ipv6\">Setting up IPv6</h3>\n\n<p>To start, you should go to your domain registrar or system to manage DNS (personally I use <a href=\"https://www.cloudflare.com\">Cloudflare</a> and have written another micro guide with recommendations on how-to <a href=\"https://roelwillems.com/2018/04/16/micro-guide-additional.html\">enable Cloudflare for your microblog</a>).</p>\n\n<p>Now you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses).</p>\n\n<p>Make sure that the AAAA record is pointing to:</p>\n\n<pre><code>2600:3c00:1::68c8:16d6\n</code></pre>\n\n<p>This is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2020/68e0b1b26f.png\" alt=\"example of DNS records\" /></p>\n\n<p>Save the settings and after a few minutes you can <a href=\"https://www.internet.nl\">check if your website has support for IPv6</a>.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading <a href=\"https://en.wikipedia.org/wiki/IPv6\">Wikipedia</a> or look in to this <a href=\"https://www.tutorialspoint.com/ipv6/\">tutorial</a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n<li id=\"fn:2\">hosted with <a href=\"https://micro.blog\">micro.blog</a>\n <a class=\"footnote-return\" href=\"#fnref:2\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "This is a small guide (hence the category [\"micro guide\"](https://roelwillems.com/micro-guides/)) to enable IPv6[^1] for your hosted microblog[^2].\n\n*disclaimer: please make sure that you know what you are doing with your DNS settings. Although it isn't really difficult or complex you can really mess up access to your website if the settings are incorrect. Please make note of the original settings before changing anything.*\n\n### Setting up IPv6\nTo start, you should go to your domain registrar or system to manage DNS (personally I use [Cloudflare](https://www.cloudflare.com) and have written another micro guide with recommendations on how-to [enable Cloudflare for your microblog](https://roelwillems.com/2018/04/16/micro-guide-additional.html)).\n\nNow you can create an AAAA record (a record is an instruction for the browser to which server to connect and the AAAA version is used for IPv6 addresses). \n\nMake sure that the AAAA record is pointing to: \n\n    2600:3c00:1::68c8:16d6\n\nThis is the IPv6 address for hosted microblogs.\nLeave the A record (address for IPv4) and other records like CNAME unaltered. Based on you DNS provider it should look somewhat like:\n\n![example of DNS records](https://roelwillems.com/uploads/2020/68e0b1b26f.png)\n\nSave the settings and after a few minutes you can [check if your website has support for IPv6](https://www.internet.nl).\n\n[^1]:What IPv6 is and why it is beneficial will get technical very quickly, if your interested you could start reading [Wikipedia](https://en.wikipedia.org/wiki/IPv6) or look in to this [tutorial](https://www.tutorialspoint.com/ipv6/)\n[^2]:hosted with [micro.blog](https://micro.blog)\n",
 				"date_published": "2018-11-18T09:20:00+01:00",
 				"url": "https://roelwillems.com/2018/11/18/getting-your-hosted.html",
 				"tags": ["Articles","Micro guides"]
@@ -351,9 +603,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/11/17/creative-commons-licence.html",
 				"title": "Creative commons licence ",
-				"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the &ldquo;Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)&rdquo; to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup></p>\n\n<p>Although I don&rsquo;t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2018/0ef0f6811e.png\" alt=\"Image of the footer\" /></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Although I believe it would be a good thing for the internet and it&rsquo;s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
-				"content_text": "Redid the footer of my website and am quite happy with the result. \n\nAlso moved to a creative commons licence for my content (the \"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\" to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).[^1]\n\nAlthough I don't expect many people to use my content, consider it my contributions to a free and open internet.\n\n![Image of the footer](https://roelwillems.com/uploads/2018/0ef0f6811e.png)\n\n[^1]:Although I believe it would be a good thing for the internet and it's users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. [Read all about it ](https://creativecommons.org)\n",
-				"date_published": "2018-11-17T10:48:41+01:00",
+				"content_html": "<p>Redid the footer of my website and am quite happy with the result.</p>\n\n<p>Also moved to a creative commons licence for my content (the &ldquo;Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)&rdquo; to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).<sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup></p>\n\n<p>Although I don&rsquo;t expect many people to use my content, consider it my contributions to a free and open internet.</p>\n\n<p><img src=\"https://roelwillems.com/uploads/2020/3e2042de0f.png\" alt=\"Image of the footer\" /></p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">Although I believe it would be a good thing for the internet and it&rsquo;s users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. <a href=\"https://creativecommons.org\">Read all about it </a>\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "Redid the footer of my website and am quite happy with the result. \n\nAlso moved to a creative commons licence for my content (the \"Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)\" to be precise) which gives everyone the freedom to remix, reuse and build upon the content shared (with appropriate credit and indication if changes were made).[^1]\n\nAlthough I don't expect many people to use my content, consider it my contributions to a free and open internet.\n\n![Image of the footer](https://roelwillems.com/uploads/2020/3e2042de0f.png)\n\n[^1]:Although I believe it would be a good thing for the internet and it's users if more people would move to more open licences, please do make sure to really understand the implications to determine if a licence is right for you. [Read all about it ](https://creativecommons.org)\n",
+				"date_published": "2018-11-17T10:48:00+01:00",
 				"url": "https://roelwillems.com/2018/11/17/creative-commons-licence.html",
 				"tags": ["Articles"]
 			},
@@ -378,27 +630,27 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/05/25/instapaper-has-temporary.html",
 				
-				"content_html": "<p>Instapaper has temporary shut down for EU residents. I&rsquo;m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" /></p>\n",
-				"content_text": "Instapaper has temporary shut down for EU residents. I'm not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).  \n\n<img src=\"uploads/2018/0ac7e11135.jpg\" width=\"600\" height=\"532\" />\n",
-				"date_published": "2018-05-25T09:34:09+01:00",
+				"content_html": "<p>Instapaper has temporary shut down for EU residents. I&rsquo;m not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).</p>\n\n<p><img src=\"uploads/2020/e41cfc2744.png\" width=\"600\" height=\"532\" /></p>\n",
+				"content_text": "Instapaper has temporary shut down for EU residents. I'm not sure if they struggled to finishing up for the GDPR on time or they have some bigger issues getting compliant. Gladly they have enabled an export function (should you decide to migrate to a different service).  \n\n<img src=\"uploads/2020/e41cfc2744.png\" width=\"600\" height=\"532\" />\n",
+				"date_published": "2018-05-25T09:34:00+01:00",
 				"url": "https://roelwillems.com/2018/05/25/instapaper-has-temporary.html",
 				"tags": ["Short form"]
 			},
 			{
 				"id": "http://roelwillems.micro.blog/2018/05/14/204856.html",
 				
-				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://roelwillems.com/uploads/2018/a9c1709c17.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg</p>\n",
-				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 19  \nWorkout: 7,034 meters /500m: 2:07  \n![workout](https://roelwillems.com/uploads/2018/a9c1709c17.jpg)\n\n**Total Meters**  \nThis Week: 7,034  \nSeason: 34,648  \nGoal: row a full marathon  \n\n**Notes**  \nJust a basic row to get some meters on the erg\n",
-				"date_published": "2018-05-14T21:48:56+01:00",
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 19<br />\nWorkout: 7,034 meters /500m: 2:07<br />\n<img src=\"https://roelwillems.com/uploads/2020/15c03ceb80.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 7,034<br />\nSeason: 34,648<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nJust a basic row to get some meters on the erg.</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 19  \nWorkout: 7,034 meters /500m: 2:07  \n![workout](https://roelwillems.com/uploads/2020/15c03ceb80.jpg)\n\n**Total Meters**  \nThis Week: 7,034  \nSeason: 34,648  \nGoal: row a full marathon  \n\n**Notes**  \nJust a basic row to get some meters on the erg.\n",
+				"date_published": "2018-05-14T21:48:00+01:00",
 				"url": "https://roelwillems.com/2018/05/14/204856.html",
 				"tags": ["Short form"]
 			},
 			{
 				"id": "http://roelwillems.micro.blog/2018/05/12/133403.html",
 				
-				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://roelwillems.com/uploads/2018/70d85c2269.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
-				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18  \nWorkout: 6.855 meters /500m: 2:11  \n![workout](https://roelwillems.com/uploads/2018/70d85c2269.jpg)\n\n**Total Meters**  \nThis Week: 27.614  \nSeason: 27.614  \nGoal: row a full marathon  \n\n**Notes**  \nSteady pace with 10 power strokes every 500m\n",
-				"date_published": "2018-05-12T14:34:03+01:00",
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18<br />\nWorkout: 6.855 meters /500m: 2:11<br />\n<img src=\"https://roelwillems.com/uploads/2020/ef0c2b5144.jpg\" alt=\"workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 27.614<br />\nSeason: 27.614<br />\nGoal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nSteady pace with 10 power strokes every 500m</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18  \nWorkout: 6.855 meters /500m: 2:11  \n![workout](https://roelwillems.com/uploads/2020/ef0c2b5144.jpg)\n\n**Total Meters**  \nThis Week: 27.614  \nSeason: 27.614  \nGoal: row a full marathon  \n\n**Notes**  \nSteady pace with 10 power strokes every 500m\n",
+				"date_published": "2018-05-12T14:34:00+01:00",
 				"url": "https://roelwillems.com/2018/05/12/133403.html",
 				"tags": ["Short form"]
 			},
@@ -423,9 +675,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/05/08/row-log-update.html",
 				
-				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://roelwillems.com/uploads/2018/83a4bd044f.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
-				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18\n![Workout](https://roelwillems.com/uploads/2018/83a4bd044f.jpg)\n\n**Total Meters**  \nThis Week: 12.082  \nSeason 2018: 12.082  \nCurrent goal: row a full marathon  \n\n**Notes**  \nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04\n",
-				"date_published": "2018-05-08T20:36:07+01:00",
+				"content_html": "<p><strong>Row Log Update</strong> 🚣‍♂️<br />\nCalendar Week: 18\n<img src=\"https://roelwillems.com/uploads/2020/c809541872.jpg\" alt=\"Workout\" /></p>\n\n<p><strong>Total Meters</strong><br />\nThis Week: 12.082<br />\nSeason 2018: 12.082<br />\nCurrent goal: row a full marathon</p>\n\n<p><strong>Notes</strong><br />\nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04</p>\n",
+				"content_text": "**Row Log Update** 🚣‍♂️  \nCalendar Week: 18\n![Workout](https://roelwillems.com/uploads/2020/c809541872.jpg)\n\n**Total Meters**  \nThis Week: 12.082  \nSeason 2018: 12.082  \nCurrent goal: row a full marathon  \n\n**Notes**  \nUpping the /500 split pace (while reducing meters), did relative flat splits mostly between 2:02 and 2:04\n",
+				"date_published": "2018-05-08T20:36:00+01:00",
 				"url": "https://roelwillems.com/2018/05/08/row-log-update.html",
 				"tags": ["Short form"]
 			},
@@ -504,18 +756,18 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/04/30/174249.html",
 				
-				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2018/37f2320bca.png\" alt=\"Concept2 Marathon challenge\" /></p>\n\n<p><a href=\"https://log.concept2.com/challenges/marathon\">Challenge</a> accepted</p>\n",
-				"content_text": "![Concept2 Marathon challenge](https://roelwillems.com/uploads/2018/37f2320bca.png)\n\n[Challenge](https://log.concept2.com/challenges/marathon) accepted\n",
-				"date_published": "2018-04-30T18:42:49+01:00",
+				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2020/6fe1716184.png\" alt=\"Concept2 Marathon challenge\" /></p>\n\n<p><a href=\"https://log.concept2.com/challenges/marathon\">Challenge</a> accepted</p>\n",
+				"content_text": "![Concept2 Marathon challenge](https://roelwillems.com/uploads/2020/6fe1716184.png)\n\n[Challenge](https://log.concept2.com/challenges/marathon) accepted\n",
+				"date_published": "2018-04-30T18:42:00+01:00",
 				"url": "https://roelwillems.com/2018/04/30/174249.html",
 				"tags": ["Short form"]
 			},
 			{
 				"id": "http://roelwillems.micro.blog/2018/04/26/httpsdshreethe-joys-of.html",
 				
-				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2018/2ee2241835.jpg\" alt=\"\" /></p>\n\n<p>The joys of technology: That moment when your TV asks you for GDPR consent.</p>\n",
-				"content_text": "![](https://roelwillems.com/uploads/2018/2ee2241835.jpg)\n\nThe joys of technology: That moment when your TV asks you for GDPR consent.\n",
-				"date_published": "2018-04-26T09:25:16+01:00",
+				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2020/37796633ff.jpg\" alt=\"\" /></p>\n\n<p>The joys of technology: That moment when your TV asks you for GDPR consent.</p>\n",
+				"content_text": "![](https://roelwillems.com/uploads/2020/37796633ff.jpg)\n\nThe joys of technology: That moment when your TV asks you for GDPR consent.\n",
+				"date_published": "2018-04-26T09:25:00+01:00",
 				"url": "https://roelwillems.com/2018/04/26/httpsdshreethe-joys-of.html",
 				"tags": ["Short form"]
 			},
@@ -549,9 +801,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/04/23/unread-will-no.html",
 				
-				"content_html": "<blockquote>\n<p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles&hellip;</p>\n</blockquote>\n\n<p><img src=\"https://dsh.re/c19a2\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
-				"content_text": "> Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles...\n\n![Unread adds support for untitled articles](https://dsh.re/c19a2)\n\nLess is more\n\n_Source: [burk.io](https://burk.io/2018/04/23/this-should-be.html)_\n",
-				"date_published": "2018-04-23T21:15:30+01:00",
+				"content_html": "<blockquote>\n<p>Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles&hellip;</p>\n</blockquote>\n\n<p><img src=\"https://roelwillems.com/uploads/2020/968d459476.jpg\" alt=\"Unread adds support for untitled articles\" /></p>\n\n<p>Less is more</p>\n\n<p><em>Source: <a href=\"https://burk.io/2018/04/23/this-should-be.html\">burk.io</a></em></p>\n",
+				"content_text": "> Unread will no longer show “Untitled” or placeholder text from syncing services when displaying posts without titles...\n\n![Unread adds support for untitled articles](https://roelwillems.com/uploads/2020/968d459476.jpg)\n\nLess is more\n\n_Source: [burk.io](https://burk.io/2018/04/23/this-should-be.html)_\n",
+				"date_published": "2018-04-23T21:15:00+01:00",
 				"url": "https://roelwillems.com/2018/04/23/unread-will-no.html",
 				"tags": ["Short form"]
 			},
@@ -567,9 +819,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/04/18/223427.html",
 				
-				"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png\" alt=\"Night Owl \" /></p>\n\n<p>Unlock the Night Owl pin, time to sign off</p>\n",
-				"content_text": "![Night Owl ](https://f000.backblazeb2.com/file/Roel-Share/Screen-Shot-2018-04-19-00-31-18.png)\n\nUnlock the Night Owl pin, time to sign off\n",
-				"date_published": "2018-04-18T23:34:27+01:00",
+				"content_html": "<p><img src=\"https://roelwillems.com/uploads/2020/b1cd4bfab9.png\" alt=\"Night Owl \" /></p>\n\n<p>Unlock the Night Owl pin, time to sign off</p>\n",
+				"content_text": "![Night Owl ](https://roelwillems.com/uploads/2020/b1cd4bfab9.png)\n\nUnlock the Night Owl pin, time to sign off\n",
+				"date_published": "2018-04-18T23:34:00+01:00",
 				"url": "https://roelwillems.com/2018/04/19/223427.html",
 				"tags": ["Short form"]
 			},
@@ -657,9 +909,9 @@
 			{
 				"id": "http://roelwillems.micro.blog/2018/04/11/do-i-really.html",
 				"title": "Do I really need to switch Text Editors?",
-				"content_html": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. Although after quickly skimming the article, some part did caught my attention.</p>\n\n<blockquote>\n<p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n<p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>Being open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" /></p>\n",
-				"content_text": "Questioning if I really need to look in to switching Text editors I almost discarding the [pick for the best Text Editor over at The Sweet Setup](https://thesweetsetup.com/apps/best-text-editor-macos/). Although after quickly skimming the article, some part did caught my attention.\n\n>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.\n>\n>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.\n\nBeing open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.\n\n<img src=\"uploads/2018/dc5525c2df.jpg\" width=\"600\" height=\"400\" />\n",
-				"date_published": "2018-04-11T20:58:18+01:00",
+				"content_html": "<p>Questioning if I really need to look in to switching Text editors I almost discarding the <a href=\"https://thesweetsetup.com/apps/best-text-editor-macos/\">pick for the best Text Editor over at The Sweet Setup</a>. Although after quickly skimming the article, some part did caught my attention.</p>\n\n<blockquote>\n<p>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.</p>\n\n<p>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.</p>\n</blockquote>\n\n<p>Being open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.</p>\n\n<p><img src=\"uploads/2020/a2b0a7e10c.jpg\" width=\"600\" height=\"400\" /></p>\n",
+				"content_text": "Questioning if I really need to look in to switching Text editors I almost discarding the [pick for the best Text Editor over at The Sweet Setup](https://thesweetsetup.com/apps/best-text-editor-macos/). Although after quickly skimming the article, some part did caught my attention.\n\n>Atom, being open source, has an advantage here compared to other options like Sublime Text or BBEdit.\n>\n>Even if GitHub were to stop actively developing Atom, the open source nature of the app would (probably) allow it to live on through collaboration of its users and other contributors. In that sense, Atom is about as future-proof as an app can be.\n\nBeing open source and supported by a community sparked my interest (mainly due to my renewed focus on IndieWeb / Open standards and Open source). So, a bit to my surprise, I am now switching text editors.\n\n<img src=\"uploads/2020/a2b0a7e10c.jpg\" width=\"600\" height=\"400\" />\n",
+				"date_published": "2018-04-11T20:58:00+01:00",
 				"url": "https://roelwillems.com/2018/04/11/do-i-really.html",
 				"tags": ["Articles"]
 			},
