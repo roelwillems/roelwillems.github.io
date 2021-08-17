@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://roelwillems.micro.blog/2020/12/30/took-a-few.html",
+				
+				"content_html": "<p>Took a few days off writing on my blog. Just to enjoy the holidays. But reading a post from <a href=\"https://seths.blog/2020/12/the-most-important-blog-post/\">Seth Godin</a> inspired me to pick up writing earlier than planned. Kicking off the next year writing instead of starting writing again in 2021. A minor difference but important to me.</p>\n",
+				"content_text": "Took a few days off writing on my blog. Just to enjoy the holidays. But reading a post from [Seth Godin](https://seths.blog/2020/12/the-most-important-blog-post/) inspired me to pick up writing earlier than planned. Kicking off the next year writing instead of starting writing again in 2021. A minor difference but important to me. \n",
+				"date_published": "2020-12-30T19:01:00+01:00",
+				"url": "https://roelwillems.com/2020/12/30/took-a-few.html",
+				"tags": ["Short form"]
+			},
+			{
+				"id": "http://roelwillems.micro.blog/2020/12/27/few-days-late.html",
+				
+				"content_html": "<p>Few days late to the party but <a href=\"moodeaudio.org\">moOde audio</a> v7 (v7.0.1 to be exact) is available. Very solid upgrade, looking forward to using the 12-band Parametric EQ.</p>\n",
+				"content_text": "Few days late to the party but [moOde audio](moodeaudio.org) v7 (v7.0.1 to be exact) is available. Very solid upgrade, looking forward to using the 12-band Parametric EQ.\n",
+				"date_published": "2020-12-27T19:17:39+01:00",
+				"url": "https://roelwillems.com/2020/12/27/few-days-late.html",
+				"tags": ["Short form"]
+			},
+			{
 				"id": "http://roelwillems.micro.blog/2020/12/25/its-quite-a.html",
 				
 				"content_html": "<p>It’s quite a different Christmas this year, but me and my girlfriend are fortunate to be both in good health and able to just enjoy these days together.</p>\n",
